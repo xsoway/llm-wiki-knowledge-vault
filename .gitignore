@@ -1,0 +1,30 @@
+# 默认拒绝提交，只公开下方白名单中的框架、文档和示例。
+*
+!.gitignore
+!README.md
+!LICENSE
+!NOTICE.md
+!docs/
+!docs/**
+!scripts/
+!scripts/**
+!71-04-scripts/
+!71-04-scripts/wiki-archive.py
+!71-04-scripts/wiki-compile.py
+!71-04-scripts/wiki-index.py
+!71-04-scripts/wiki-lint.py
+!71-04-scripts/wiki-search.py
+!71-01-raw/
+!71-01-raw/public-samples/
+!71-01-raw/public-samples/**
+
+# 本机生成物、私有原料、通知配置与参考副本绝不上传。
+71-02-wiki/
+71-03-output/
+71-01-raw/**
+!71-01-raw/public-samples/
+!71-01-raw/public-samples/**
+71-04-scripts/wiki-lint-push.py
+71-04-scripts/wiki-lint-semantic.py
+ai-wiki-compiler-main/
+.DS_Store
