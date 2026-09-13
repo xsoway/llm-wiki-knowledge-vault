@@ -1,19 +1,38 @@
 ---
-title: LLM Wiki Knowledge Vault
-aliases: [LLM Wiki, Knowledge Compiler Vault]
+title: AI Engineering Reading Vault and LLM Wiki
+aliases: [LLM Wiki, Knowledge Compiler Vault, AI 工程文章索引]
 category: OpenSource
 created: 2026-09-13 00:00
 updated: 2026-09-13 00:00
-tags: [KnowledgeBase, Wiki, LLM, Obsidian, Agent]
+tags: [KnowledgeBase, Wiki, LLM, Obsidian, Agent, AI, 测试开发]
 ---
 
-# LLM Wiki Knowledge Vault
+# AI Engineering Reading Vault · LLM Wiki
 
-把 Markdown 当作源代码，把 LLM/规则当作编译器，把可浏览、可检索、可回溯的 Wiki 当作产物。
+这是一个持续收录、整理和索引优质技术文章的个人学习库，也是一个可本地运行的 LLM Wiki 工作台。
 
-这个项目提供一套轻量、可本地运行的知识库工作台：原始资料进入 `71-01-raw/`，编译器生成文章页、概念页、索引和健康报告。它适合 AI、LLM、测试开发、自动化测试、Agent、评测、Skill、Harness 与开源工具等持续增长的技术资料。
+平时在通勤和碎片时间收藏到的好文章，不应该只留在收藏夹里。这里用标签、原文链接和本地 Wiki 编译链路，把它们变成可以继续学习、按主题查阅和回溯来源的技术目录。
 
 > 方法论参考：[Andrej Karpathy on LLM Wiki](https://x.com/karpathy/status/2039805659525644595)。本仓库是独立实现，并非其官方项目。
+
+## 收录方向
+
+- AI、LLM、RAG、模型评测与 AI 认知
+- Agent 开发、Harness、Skill、上下文与多 Agent 协作
+- Agent 评测、LLM 评测、可观测性和质量工程
+- UI 自动化、接口自动化、性能测试与测试开发
+- 知识图谱、Obsidian、CLI、AI 开发工具与值得研究的 GitHub 开源项目
+
+## 公开目录与本地 Wiki
+
+| 层级 | 作用 | 是否公开 |
+| --- | --- | --- |
+| 文章目录 | 标签、标题、原文链接、收藏时间，方便学习与技术查阅 | 是，见 [`catalog/articles.md`](catalog/articles.md) |
+| LLM Wiki 框架 | 编译、概念提取、互链、检索、体检与归档脚本 | 是 |
+| 完整原始剪藏 | 第三方文章正文、图片与附件 | 否，保存在本地 |
+| Wiki 编译产物 | 由第三方正文生成的摘要、拆解、概念页和互链 | 默认不公开 |
+
+完整 Wiki 产物可以在拥有原文授权、只处理自有文档，或已完成逐篇版权审查时单独发布；本公开仓库默认不发布它们，避免把“处理后的重述”当成可自由再分发的内容。
 
 ## 能做什么
 
@@ -69,7 +88,7 @@ python3 71-04-scripts/wiki-compile.py --full \
 
 ## 公开文章目录
 
-[`catalog/articles.csv`](catalog/articles.csv) 提供由本地剪藏自动导出的公开目录：每行仅有文章标题、个人标签、原文链接和收藏/创建时间。目前不包含文章正文、摘要或图片；链接失效、删除或付费限制以原站为准。
+[`catalog/articles.md`](catalog/articles.md) 提供可直接点击标题或“打开原文”的 Markdown 表格；每行仅有文章标题、个人标签、原文链接和收藏/创建时间。`articles.csv` 同步保留给机器处理。目前不包含文章正文、摘要或图片；链接失效、删除或付费限制以原站为准。
 
 ## 日常工作流
 

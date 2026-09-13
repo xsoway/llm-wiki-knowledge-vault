@@ -53,6 +53,10 @@ class ExportPublicCatalogTests(unittest.TestCase):
                 "source": "https://example.com/article",
                 "created": "2026-09-13",
             }])
+            markdown = output_path.with_suffix(".md").read_text(encoding="utf-8")
+            self.assertIn("| 标题 | 标签 | 原文链接 | 收藏时间 |", markdown)
+            self.assertIn("| 示例文章 | clippings \\| Agent | [打开原文](https://example.com/article) |", markdown)
+            self.assertNotIn("这段第三方正文", markdown)
 
 
 if __name__ == "__main__":

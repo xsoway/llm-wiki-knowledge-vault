@@ -1,6 +1,6 @@
 # 公开文章目录
 
-`articles.csv` 由本地 `71-01-raw/` 的 frontmatter 自动生成，仅包含：
+`articles.md` 是便于浏览和直接点击原文的 Markdown 表格；`articles.csv` 供程序处理。两者均由本地 `71-01-raw/` 的 frontmatter 自动生成，仅包含：
 
 - `title`：文章标题
 - `tags`：个人整理标签

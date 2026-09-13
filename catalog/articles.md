@@ -1,0 +1,2034 @@
+# 公开文章目录
+
+> 仅包含标题、个人标签、原文链接和收藏时间；不包含正文、摘要或图片。
+
+| 标题 | 标签 | 原文链接 | 收藏时间 |
+| --- | --- | --- | --- |
+| 超实用【口语化】词语对照表 | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/hokHA3QupbKRRIz_pOFfPg) | 2026-09-11 |
+| 网络黑话（梗）应用翻译手册｜一表通览，全网最全最实用 | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/dNBGLUH2iOQ5BogV8eP5Qw) | 2026-09-11 |
+| 日常普通话口语100句（1） | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/Fvf9A03Cm4sXwDQ2ZvdlKg) | 2026-09-11 |
+| 如何快速学会说“哲学黑话” | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/Jg76H5soHQ_YOIvzK62TGg) | 2026-09-11 |
+| 互联网大厂黑话合集 | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/cOZr525qiXQ-afwe19NkGQ) | 2026-09-11 |
+| 一个人无论多老实，只要背熟这30句人性黑话，没人敢欺负你！ | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/dnbW0tdNLZL8tVV3rd8Z0w) | 2026-09-11 |
+| 【口语化】表达词语对照表，让你说话亲切、自然，不生硬 | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/KPJyDl-5ODeTbh8HluOFWg) | 2026-09-11 |
+| “🪴人吶 聊天你要会点梗”｜搞笑版 | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/fJCs7BwGU1QspRO29_ZQGQ) | 2026-09-11 |
+| “🪴00后社交流行语黑话”｜收藏 | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/nSG23PXI62D_BJ689ouWxQ) | 2026-09-11 |
+| wordflowlab/article-writer: 使用Claude Code，Cursor, codex, gemini 写微信公众号文章工具。 | clippings \| skill \| 公众号 \| 写作 | [打开原文](https://github.com/wordflowlab/article-writer) | 2026-09-11 |
+| snowles/own-style-writer | clippings \| skill \| 风格 \| 写作 | [打开原文](https://github.com/snowles/own-style-writer) | 2026-09-11 |
+| liyupi (程序员鱼皮) | clippings \| github | [打开原文](https://github.com/liyupi) | 2026-09-11 |
+| alchaincyf/huashu-skills: 花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制 | clippings \| skill \| github \| skill大全 | [打开原文](https://github.com/alchaincyf/huashu-skills) | 2026-09-11 |
+| alchaincyf/huashu-md-html: md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill. | clippings \| skill \| html | [打开原文](https://github.com/alchaincyf/huashu-md-html) | 2026-09-11 |
+| 2026 最强 71 个 AI Skill 开源项目合集｜人格蒸馏 + 名人复刻 + 职场神器 + 赛博玄学全收录 | clippings \| skill \| 蒸馏 | [打开原文](https://mp.weixin.qq.com/s/F_ju0Vmw645e8IK9eeRPfw) | 2026-09-11 |
+| 150则单人脱口秀段子文案合集，近九千字，每一句都述说人生！ | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/ilfwiKceMSXenQzPCO37Xw) | 2026-09-11 |
+| 🚀 现代化终端配置指南 - Ghostty + Zoxide + Yazi + Oh-My-Zsh | clippings \| ghostty配置 | [打开原文](https://gist.github.com/lltx/a61f98fdb761c9af7c5fd6cbfe963842) | 2026-09-10 |
+| 用了终端将近十年，试了 Ghostty 才知道亏了多少-51CTO.COM | clippings \| ghostty配置 | [打开原文](https://www.51cto.com/article/842877.html) | 2026-09-10 |
+| 手机上终于有个能打的 AI Agent，太夯了！ | clippings \| AI-agent \| github \| llm | [打开原文](https://mp.weixin.qq.com/s/u5YnPHort3YdekiZYURBzw) | 2026-09-10 |
+| kunpengtalk/OmniStudio: OmniStudio 是一个本地大模型一体化桌面工作台（Electrobun + React），集模型市集下载、llama.cpp/vLLM/SGLang 三引擎推理管理，以及对话、语音、图片、OCR 四大应用于一体，全程本地优先。 | clippings \| vllm \| github | [打开原文](https://github.com/kunpengtalk/OmniStudio) | 2026-09-10 |
+| justhalfbit/ghostty-terminal-config: macOS 终端美化配置：Ghostty + Starship + zsh 插件（从 iTerm2 + oh-my-zsh 迁移的轻量方案） | clippings \| ghossty配置 | [打开原文](https://github.com/justhalfbit/ghostty-terminal-config) | 2026-09-10 |
+| Ghostty + Starship + Antidote 现代终端配置 | clippings \| ghostty配置 | [打开原文](https://www.liuvv.com/p/4fc68e9a.html) | 2026-09-10 |
+| 面向智能体的 Skill 设计原则：流程归 Skill，事实归系统 | clippings \| 智能问数 \| text2sql \| bi \| skill | [打开原文](https://mp.weixin.qq.com/s/TpxCzOgw2SdxP0LMqmtdwg) | 2026-09-09 |
+| 这款 Skill 是怎么把测试“左移”落地的？ | clippings \| AI-test \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/S6bjF42jqv_OlW_QaJ6vVw) | 2026-09-09 |
+| 这个 Skill，测试人真的可以装一个 | clippings \| github \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/Mu22mP6FtuSoEBVphi4vwA) | 2026-09-09 |
+| 语义原生智能问数系统落地实现（五）：同一套语义如何服务 Agent、Dashboard 与 ML Pipeline | clippings \| 智能问数 \| text2sql \| bi | [打开原文](https://mp.weixin.qq.com/s/7lSnKA_0iuXckiNu65DkFA) | 2026-09-09 |
+| 评测Agent的流程分析 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/zX78N3AGpbpbB4cBcymMYQ) | 2026-09-09 |
+| 自动化测试：先决定什么值得自动化，再选择工具与框架 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/XBvWlO9d04RDnPUkQn3e9w) | 2026-09-09 |
+| 移动端日志分析与测试平台建设：10个值得研究的开源项目 | clippings \| AI-test \| app-log \| UI-test | [打开原文](https://mp.weixin.qq.com/s/mkBVvsNsBxT47lxYY6MWjg) | 2026-09-09 |
+| 测试人真正能用的 AI Skill 推荐（下篇）：让 Agent 打开浏览器，再用 Trellis 管住流程 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/s-ue4r-FT7S2sRKPAVcHvw) | 2026-09-09 |
+| 测试人真正能用的 AI Skill 推荐（上篇）：让 AI 按测试思路干活 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/3YxTSabmD-hCwDDi2VUBsA) | 2026-09-09 |
+| 智能问数语义层框架：Cube Core 介绍 | clippings \| 智能问数 \| text2sql \| bi | [打开原文](https://mp.weixin.qq.com/s/qKa5FrcVhlZlHt0jsUfkmQ) | 2026-09-09 |
+| 智能问数系统如何做回归测试 | clippings \| 智能问数 \| text2sql \| bi \| todo | [打开原文](https://mp.weixin.qq.com/s/iPzTOOPAFBH1mROQInglcQ) | 2026-09-09 |
+| 智能问数技术路线与选型 | clippings \| 智能问数 \| text2sql \| bi | [打开原文](https://mp.weixin.qq.com/s/03bGPfs3Mc2zZMtI1-DyRw) | 2026-09-09 |
+| 开源AI测试提效工具推荐，总有一款适合你 | clippings \| AI-test \| github \| tool \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/n9D3aByo4f5dU56arPpInA) | 2026-09-09 |
+| 字节跳动质量保障团队｜让 QA 真正用起来：测试用例生成 Agent 落地，我们做对了什么 | clippings \| AI-case | [打开原文](https://mp.weixin.qq.com/s/oTvXpShEeJT02lHWEtiNGw) | 2026-09-09 |
+| 如何评估企业是否适合上线智能问数 | clippings \| 智能问数 \| text2sql \| bi | [打开原文](https://mp.weixin.qq.com/s/_YSMQ6B9RoZi9nSnZBgtNA) | 2026-09-09 |
+| 如何根据代码变更，快速判断测试影响范围？ | clippings \| code-review \| github \| skill | [打开原文](https://mp.weixin.qq.com/s/NOzsJXAXhX0_3gqlfhtlCA) | 2026-09-09 |
+| 如何构建 AI Agent Harness 2.0，让 AI Agent 比 99% 的开发者更工程化 | clippings \| agent-harness \| agent | [打开原文](https://mp.weixin.qq.com/s/fchf3EnVu_GwRjlpEc95Gw) | 2026-09-09 |
+| 基于472条评论的智能问数落地讨论分析 | clippings \| 智能问数 \| text2sql \| bi | [打开原文](https://mp.weixin.qq.com/s/idZB6HRxvgAps-qjYRneGg) | 2026-09-09 |
+| 别用 AI 盲目生成用例，换个测试方式吧 | clippings \| AI-case | [打开原文](https://mp.weixin.qq.com/s/A7ey9y3NHbwDEw_uhKuMnA) | 2026-09-09 |
+| 关于埋点校验，这个skill可以救一下 | clippings \| 埋点 | [打开原文](https://mp.weixin.qq.com/s/ejHQkcaXb6qAym6QSr72tQ) | 2026-09-09 |
+| 企业智能体分类与落地难度分析 | clippings \| agent-test \| agent分类 | [打开原文](https://mp.weixin.qq.com/s/hBch5E2ArUIYxFEPExykOg) | 2026-09-09 |
+| 企业 Agent 的统一语义模型方案 | clippings \| 智能问数 \| text2sql \| bi | [打开原文](https://mp.weixin.qq.com/s/KMuJsC-6P-ngBt9pIsS-7w) | 2026-09-09 |
+| 从零搭一个 Agent Eval Harness：Task、Environment、Trial、Trajectory 与 Grader | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/qReOgctUwRMHB-ojE6cyNw) | 2026-09-09 |
+| 什么是语义层：从 BI 到智能问数，它到底解决了什么问题？ | clippings \| 智能问数 \| text2sql \| bi | [打开原文](https://mp.weixin.qq.com/s/X22y5prez7OMNLlyAF6JRA) | 2026-09-09 |
+| 一个测试开发转AI应用开发的真实学习路线 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/gTlb_HGFoYYRrh4raPrk5g) | 2026-09-09 |
+| 一个 Web UI 自动化测试 Skill | clippings \| UI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/1sjMBv7tyyeYgiwTssr5kA) | 2026-09-09 |
+| 【智能体评测指南大全】构建可观察、可评估、可进化的Agent质量体系 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/nr5NXYMb_sXAEjMmlwXnsQ) | 2026-09-09 |
+| 【智能体测评-番外】测评之前：让智能体可测的工程准备 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/fWG5WnxBuD-ux7wtnsTQug) | 2026-09-09 |
+| harbor-framework/harbor: Framework for evaluating and improving agents | clippings \| agent-test \| eval \| Harbor框架 | [打开原文](https://github.com/harbor-framework/harbor) | 2026-09-09 |
+| Hook 与测试的“工程闭环” | clippings \| hook \| AI-test | [打开原文](https://mp.weixin.qq.com/s/_lBJuYlip5LBELbdxdf7Yg) | 2026-09-09 |
+| Cube 中文教程站已上线：为什么智能时代更需要语义层？ | clippings \| 智能问数 \| text2sql \| bi | [打开原文](https://mp.weixin.qq.com/s/VhFtIQvzxXKr2lpb0m8mWQ) | 2026-09-09 |
+| Agent评测：可在任何团队落地的Badcase的实践流程 | clippings \| agent-test \| eval \| badcase | [打开原文](https://mp.weixin.qq.com/s/DYnyUNd5FQxyrkgDFzDfDw) | 2026-09-09 |
+| AI测试应用于移动端，有哪些开源方案值得看 | clippings \| UI-test | [打开原文](https://mp.weixin.qq.com/s/VlEPrEryNojsEYpiNFzcog) | 2026-09-09 |
+| AI测试对话式评估：测LLM多轮不能只看单轮问答 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/SzlunyJLVuUvXDEcxFNO1w) | 2026-09-09 |
+| AI改代码快如闪电，传统测试崩了？试试JiTTesting！ | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/pca8KHNpiPN5XIxYjIogIg) | 2026-09-09 |
+| AI 测试脚本跑到一半额度不够了，应该怎么兜底？ | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/v1udkLhX3AjjNnmKHkBMNQ) | 2026-09-09 |
+| AI 怎么做性能测试呢？ | clippings \| AI-perf \| locust | [打开原文](https://mp.weixin.qq.com/s/dpbxyYTTL4mrphvfv_gnYg) | 2026-09-09 |
+| 315KB 变 5.4KB：context-mode 让 Agent 不再失忆 | clippings \| llm \| context | [打开原文](https://mp.weixin.qq.com/s/DmWCM54mT8ojacyq2eofhw) | 2026-09-09 |
+| 驾驭AI Coding：一份面向团队的Harness Engineering落地规范 | clippings \| AI-coding \| harness | [打开原文](https://mp.weixin.qq.com/s/g4nTfxm7ebzRwkAVIGdIbg) | 2026-09-08 |
+| 评测Agent的流程分析 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/zX78N3AGpbpbB4cBcymMYQ) | 2026-09-08 |
+| 评测Agent的流程分析 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/zX78N3AGpbpbB4cBcymMYQ) | 2026-09-08 |
+| 给 Agent 加一套可观测性：trace、健康检查与遥测 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/gVRTTaLUw8Ol41b4EY83Gw) | 2026-09-08 |
+| 第十一课：AI模型评估与测试方法 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/hb0KOt48o9iXYUeT42Edtg) | 2026-09-08 |
+| 第一次用 Pi：安装、 模型、配置目录与 Skills 入门 | clippings \| pi | [打开原文](https://mp.weixin.qq.com/s/22t-medODSfyZz0mX1dPMg) | 2026-09-08 |
+| 测试数据生成：系统覆盖正常、边界、异常与权限场景 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/IxTfBPcot5go29_mfPv39A) | 2026-09-08 |
+| 如何判断一个 Agent 评测工程师是否真的懂评测？ | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/THeRsMD3EWy9HHOwT0MWnQ) | 2026-09-08 |
+| 别被概念骗，Ontology 本体论 RAG 其实很简单，大白话  就是 DDD 、OOD 加 RAG | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/hbitrCRn1PaxOKSLQ61tyQ) | 2026-09-08 |
+| 别再拿几个Case评Agent了：真正的评测是两套Loop | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/pb-L1yCnsyyLfhHSs4gVCg) | 2026-09-08 |
+| 全栈 AI Agent 从 0 到 1 ：智能播客平台开发全记录 | clippings \| agent-test \| agent-AI | [打开原文](https://mp.weixin.qq.com/s/IGSAgptmQ-ZDurI-pnhdog) | 2026-09-08 |
+| 从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？ | clippings \| agent-test \| todo \| agent | [打开原文](https://mp.weixin.qq.com/s/kZZac-VBgnQIZeookE9Y8g) | 2026-09-08 |
+| 从0到1开发一个Agent（智能体）框架 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/fsCmZ2oQ4Xc261CLldowGA) | 2026-09-08 |
+| 一种可实施的Skill评测实践方法 | clippings \| skill \| eval | [打开原文](https://mp.weixin.qq.com/s/hr2g2IrV-Pg35AfVY7MWsA) | 2026-09-08 |
+| 【智能体测评-10】生产环境的Agent可观测性与持续测评 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/ffpEHKM3rMZje12FY3ZCmA) | 2026-09-08 |
+| 【智能体测评-09】三类典型场景的测评方案：Coding Agent、客服Agent、深度研究Agent | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/XhhJona_k-b9qoBOqEqO0w) | 2026-09-08 |
+| 【智能体测评-08】动手搭一套Agent测评流水线：开源工具链实战 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/3vVml5gRIcClw-7yzo6BSA) | 2026-09-08 |
+| 【智能体测评-07】自建测评集方法论：别再拿20条case自欺欺人了 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/eTxuTg_8rKI638hwi_k0Xg) | 2026-09-08 |
+| 【智能体测评-06】轨迹测评：不只看做没做成，还要看怎么做的 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/LscLKTFden8RkTuIH8pSdg) | 2026-09-08 |
+| 【智能体测评-05】LLM-as-Judge的可靠性问题：让模型当裁判到底靠不靠谱 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/XAibRxCCSIvJ7VSpHuOFNg) | 2026-09-08 |
+| 【智能体测评-04】主流Agent Benchmark全景拆解：GAIA、SWE-bench、WebArena、τ-bench、BrowseComp到底在测什么 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/835jgbc_3ZK4EoT_rwdixQ) | 2026-09-08 |
+| 【智能体测评-03】测评的四个层次：从单元测试到生产观测 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/6fnlltRuwoYzVDmEZNHfgQ) | 2026-09-08 |
+| 【智能体测评-02】Agent失败分类学：智能体是怎么把事情搞砸的 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/i1lVK-WKhMLWCXJ3RHVdKQ) | 2026-09-08 |
+| 【智能体测评-01】从模型跑分测到智能体测评的范式断裂 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/aLLY9wXXzpmN6f-OeJa4Rw) | 2026-09-08 |
+| 【智能体测评-01】从模型跑分测到智能体测评的范式断裂 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/aLLY9wXXzpmN6f-OeJa4Rw) | 2026-09-08 |
+| 【智能体测评-00】我们的智能体测评体系：总纲 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/pNgZj43K-7Cw3LPs_znVsg) | 2026-09-08 |
+| Harness自进化真的有效吗？提升可能只是「多试了几次」 | clippings \| harness \| eval | [打开原文](https://mp.weixin.qq.com/s/y4Mn1mne5oPtgNoQfGdXZQ) | 2026-09-08 |
+| Google WikiSkill：给智能体的技能进化补上\\"知识管理层\\ | clippings \| wikiskill \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/C1Q6QSMaF0M3-81Rb7tehg) | 2026-09-08 |
+| GPT-6有感:硅基劳动者时代来了 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/qLB-7aj2s0PGVTJ1twAbMA) | 2026-09-08 |
+| Agent正确率从26%飙到70%，最近爆火的EvoX有东西啊 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/BrhHRQRJe52nFJm7_wmzEw) | 2026-09-08 |
+| Agent 评测：方法论与体系设计 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/7a2L-GatYYwI6s1uK9mTjA) | 2026-09-08 |
+| Agent 评测：方法论与体系设计 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/7a2L-GatYYwI6s1uK9mTjA) | 2026-09-08 |
+| Agent 自进化落地的四层实战架构设计指南 | clippings \| skill \| eval | [打开原文](https://mp.weixin.qq.com/s/wU-sSk_4SmJ03dhPEAKBeQ) | 2026-09-08 |
+| Agent 开发到底做什么：Agent、Harness 基础概念 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/_UWj5NeB2jkGi2qLEL1T4Q) | 2026-09-08 |
+| 2小时速通 Harness 工程：如何从零搭一套Claude Code智能体系统 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/WTD0TEKn0h_vjgNR1WGSxQ) | 2026-09-08 |
+| 2026 年最好的 Agent 框架：LangGraph vs OpenAI Agents SDK vs Claude Agent SDK | clippings \| agent-sdk | [打开原文](https://mp.weixin.qq.com/s/9own4Wr2xN2AyyDahb-2fw) | 2026-09-08 |
+| 质量工作台 dsh-qa：把 AI 测试工作台装进 DeepSeek Harness | clippings \| dsh \| plugin \| qa | [打开原文](https://mp.weixin.qq.com/s/AYBvcQXhB_C9D7AYWRbBMA) | 2026-09-07 |
+| nyakang/nyaterm: A modern remote terminal workspace | clippings \| github \| ssh | [打开原文](https://github.com/nyakang/nyaterm/blob/main/README.zh-CN.md) | 2026-09-07 |
+| NyaTerm, 源于但不止于 WindTerm | clippings \| github \| ssh | [打开原文](https://mp.weixin.qq.com/s/Snqi0cQ_bAVlECZzyPnMug) | 2026-09-07 |
+| Agent测试第四篇：Tool Calling 测试——别让 Agent 拿着工具“乱拧螺丝” | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/q4QHl4QXThE4UeTs1hooaw) | 2026-09-05 |
+| Agent到底怎么测？别只盯着最终答案，很多Bug藏在过程里 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/4vCnDHHYR1K3sMnj3-EtAw) | 2026-09-05 |
+| AI 智能体评测体系架构设计与落地实践 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/Wu3uQKzet7U2Ab0YcVVH6Q) | 2026-09-05 |
+| 阿里开源 skill-up：Agent Skill 终于不用“凭感觉”发布了 | clippings \| github \| skill | [打开原文](https://mp.weixin.qq.com/s/vRddpga0ws06L7vd_svOlw) | 2026-09-04 |
+| 刚刚，全球最强GPT-6 Astra来了！人类进入AGI时代 | clippings \| AGI | [打开原文](https://mp.weixin.qq.com/s/UXYa2sY-Nj8OCInEZm_DSA) | 2026-09-04 |
+| GitHub开源神器：告别"AI味"网页！这个6k+Star项目内置25种高级风 | clippings \| skill \| AI味 | [打开原文](https://mp.weixin.qq.com/s/kwqHS33aXYXcep5zUSx3ew) | 2026-09-04 |
+| GPT-6 Astra全面解析 - “欢迎来到AGI时代。” | clippings \| AGI | [打开原文](https://mp.weixin.qq.com/s/1R4vSUmjFUINxFbfJLOXng) | 2026-09-04 |
+| Codex 测全流程：纯小白从 0 开始做 AI 辅助测试 | clippings \| AI-test \| codex | [打开原文](https://mp.weixin.qq.com/s/7eT2vx8XZLSocQNMn-Wd6g) | 2026-09-04 |
+| AI 测试用例越写越偏？如何用Codex引导AI进行持续测试评审？ | clippings \| AI-test \| codex | [打开原文](https://mp.weixin.qq.com/s/wYinGxy8ASjX9pAzH43CHw) | 2026-09-04 |
+| 41.1K+ Star！ humanizer：一个将AI生成文本改写为自然人类风格的Markdown技能 | clippings \| skill \| AI味 | [打开原文](https://mp.weixin.qq.com/s/4CK6l8IT1i6xUFbB_fqO0A) | 2026-09-04 |
+| 2026 年最好的 Agent 框架：LangGraph vs OpenAI Agents SDK vs Claude Agent SDK | clippings \| agent-sdk | [打开原文](https://mp.weixin.qq.com/s/9own4Wr2xN2AyyDahb-2fw) | 2026-09-04 |
+| labuladong/fucking-algorithm: Crack LeetCode, not only how, but also why. | clippings \| github \| learning | [打开原文](https://github.com/labuladong/fucking-algorithm/blob/master/README.md) | 2026-09-03 |
+| OpenGUI/deepseek-harness-plugin/docs/use-cases.zh.md at main | clippings \| dsh \| UI-test \| opengui | [打开原文](https://github.com/Core-Mate/OpenGUI/blob/main/deepseek-harness-plugin/docs/use-cases.zh.md) | 2026-09-03 |
+| 让AI改项目不越改越乱，我固定会放这4个文件 | clippings \| agent-md | [打开原文](https://mp.weixin.qq.com/s/_8VSoeKhAKn2xQCqSlbnkw) | 2026-09-02 |
+| 第五章：Code Review 与 Verification Agent —— AI 如何审查 AI，如何避免“自己写、自己通过”的问题 | clippings \| code-review | [打开原文](https://mp.weixin.qq.com/s/qj-ac6mW809wUPeoKkz8Lw) | 2026-09-02 |
+| 第11篇：Agent 评估方法 —— 拿数据说话 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/6E6FnBEoGIoAwadEd6GhIA) | 2026-09-02 |
+| zg 正式开源：本地检索，不止于关键词 | clippings \| rag | [打开原文](https://mp.weixin.qq.com/s/WFE5TmKetIagHIVujhKGFg) | 2026-09-02 |
+| deepseek harness补齐七大插件堪称自己本地的codex，优质踩坑分享，最后一个我最爱 | clippings \| dsh \| plugin | [打开原文](https://mp.weixin.qq.com/s/0shbm4ZS_mpW1tdYyBo6sg) | 2026-09-02 |
+| Agent评测之一步一坑（新手常见问题） | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/XZp39pOwNsu1xFEX7CgGsg) | 2026-09-02 |
+| AI Graph工程（06）—— 研发流程实战：从需求到上线，Graph 工程怎么用 | clippings \| agent-test \| todo \| graph | [打开原文](https://mp.weixin.qq.com/s/9-8uE2QHjIPZCbIDeIhA7Q) | 2026-09-02 |
+| 这个DeepSeek插件，能同时操作十几台手机！夯爆了 | clippings \| agent-test \| eval \| todo \| dsh | [打开原文](https://mp.weixin.qq.com/s/XacIWPD40wBryFAyh1smuQ) | 2026-09-01 |
+| 烧了一万块API后，我找到了同时适用于Fable5和GPT5.6的AI工作流 | clippings \| LLM | [打开原文](https://mp.weixin.qq.com/s/hhhKsHLtLY_OIU_T6idNhA) | 2026-09-01 |
+| 测试Skill从0到1：需求拆解→用例生成→场景补全→质量评审全流程 | clippings \| skill \| prd \| pm \| AI-test | [打开原文](https://mp.weixin.qq.com/s/nfzi1Tn2ztQjA-S7QOtmzQ) | 2026-09-01 |
+| 把 Agent 测试结果整理成一个真正能展示的作品 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/Vb_LTZF2sfHTgqr255fKfw) | 2026-09-01 |
+| 怎么构建一套真正有用的 AI Eval？从真实失败到持续优化的9个原则 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/vyadfXD5Mc26yFdFv6NQNg) | 2026-09-01 |
+| 开源Doc-System-KB-Builder skill：把项目文档从“可阅读文件”变成“可治理知识系统” | clippings \| skill \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/SSHYgROukoi2i2C4sLeheg) | 2026-09-01 |
+| 从 0 到 1 搭建 Agent 评测体系：Anthropic 的方法与实践 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/kIsseo5hXFB8UXnZ3gAr0w) | 2026-09-01 |
+| 一份 AGENTS.md，让不同 AI Agent 共用项目规则 | clippings \| agent-md | [打开原文](https://mp.weixin.qq.com/s/xA0R38aT1EGoASFiBNU-2w) | 2026-09-01 |
+| 《Agent 可观测性实战》01 \| 从\\"能跑\\"到\\"可信\\"：Agent 为什么把可观测性推上刚需 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/9beZxFNTK0nTrihoRHTzdg) | 2026-09-01 |
+| LLM & Agent 刷题路线图上线 | clippings \| LLM | [打开原文](https://mp.weixin.qq.com/s/YT2W0otNCA7_k4utjda0WQ) | 2026-09-01 |
+| How we build evals for Deep Agents | clippings \| eval | [打开原文](https://www.langchain.com/blog/how-we-build-evals-for-deep-agents) | 2026-09-01 |
+| How to Build Great Evals for AI Agents | clippings \| eval | [打开原文](https://manjeet.substack.com/p/how-to-build-great-evals-for-ai-agents) | 2026-09-01 |
+| Demystifying evals for AI agents | clippings \| eval | [打开原文](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) | 2026-09-01 |
+| Context Engineering Kit：把上下文工程做成可按需安装的插件市场 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/Z4tZenRQPcx6ZetNKtChKg) | 2026-09-01 |
+| Agent测评框架——怎么判断一个AI Agent好不好用？ | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/KRKKYCaGxZ5aUOWbfm_TBg) | 2026-09-01 |
+| Agent测评框架 ②：什么是\\"好的评测\\ | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/L8wUv715BxstcLOruJVatA) | 2026-09-01 |
+| AI评测方法论 ⑥：如何设计 Agent 的知识可靠性与幻觉测评集 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/CYMfMajkR1HtsiPFoaiQ1Q) | 2026-09-01 |
+| AI评测方法论 ⑤：如何评估 Agent 的 Tool 与 Skill 调用准确率 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/b3WFt2QRVDRTt_pIkfRL5g) | 2026-09-01 |
+| AI评测方法论 ④：如何评估 Agent 的规划与任务执行能力 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/rvaseZhvDLDMrRtS7ycdYw) | 2026-09-01 |
+| AI评测方法论 ④：如何评估 Agent 的规划与任务执行能力 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/rvaseZhvDLDMrRtS7ycdYw) | 2026-09-01 |
+| AI评测方法论 ③：Agent 测评集——是什么、测什么、怎么搭第一版 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/PfRXKlMzEre_qRIjrlS5tA) | 2026-09-01 |
+| AI产品经理工作流17：用AI做版本规划 | clippings \| prd | [打开原文](https://mp.weixin.qq.com/s/dqAr8yZyILcBbCVgxmmD9Q) | 2026-09-01 |
+| AI Graph工程（06）—— 研发流程实战：从需求到上线，Graph 工程怎么用 | clippings \| graph | [打开原文](https://mp.weixin.qq.com/s/9-8uE2QHjIPZCbIDeIhA7Q) | 2026-09-01 |
+| 谷歌重磅发布WikiSkill，技能可以自己进化了！ | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/rmS1mtEBMdb_png2Nvddvg) | 2026-08-31 |
+| 给 AI Agent 系统垫一层\\"审计员\\"，这个开源项目拿下 12000+ Star，号称 Agent 版 Palantir！ | clippings \| agent-test \| todo \| eval | [打开原文](https://mp.weixin.qq.com/s/Yie27C9y9uRwkQ0sz2GjpA) | 2026-08-31 |
+| 我用一套\\"知识库 + 三层框架 + 4 个 Skill\\"，把接口自动化从 3 天干到 10 分钟 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/dWt0URLE06z88NLl1qeWMg) | 2026-08-31 |
+| 开源 LLM Artifact Evaluator Skill：为 AI 生成物建立独立验证层 | clippings \| agent-test \| todo \| eval | [打开原文](https://mp.weixin.qq.com/s/vHhulu0XLgsVDJGq9MF87w) | 2026-08-31 |
+| 在 Codex 里随时切换不同厂家的 Harness | clippings \| codex-host \| codex | [打开原文](https://mp.weixin.qq.com/s/Ggi2jCyI9pvkadanQn39lg) | 2026-08-31 |
+| 别再死磕 Prompt：用 Briefing Loop 让 AI 回答质量提升 10 倍 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/6MzEu4sC2upyZVo0z2mgVg) | 2026-08-31 |
+| 一人公司如何自动化 49 件事：solo-skills 开源 26 个 AI 智能体技能 | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/RMlJccqjepvtsLZ8Hpzy_g) | 2026-08-31 |
+| wloc：iOS 虚拟定位开源工具，地图选点 + 快捷指令一键切换，支持 6 大代理 | clippings \| github \| UI-test | [打开原文](https://mp.weixin.qq.com/s/s6KK_ZT957OG5FiizcYsew) | 2026-08-31 |
+| Skill资料系列17：需求变更分析Skill，让AI自动判断“改这一处，会影响哪里” | clippings \| skill \| prd | [打开原文](https://mp.weixin.qq.com/s/90uHA_ruy26jMJl4JMVjRA) | 2026-08-31 |
+| JIT-Agent：重新定义 Agent 能力边界，Harness 智能成为第三增长曲线 | clippings \| harness \| dsh \| agent-test | [打开原文](https://mp.weixin.qq.com/s/s9Tpf9HJRr4CGSs_QooDKw) | 2026-08-31 |
+| Agent 评估体系：从单次回答到质量回归 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/_vIQnstyj5xE3AuhuQaD-A) | 2026-08-31 |
+| 5个开源LLM评估工具：把答非所问从23%砍到2% | clippings \| LLM \| eval \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/21iYpEhOBMWR3NjjJUa23g) | 2026-08-31 |
+| 📡 agents-radar | clippings \| AI-news \| github | [打开原文](https://duanyytop.github.io/agents-radar/#2026-08-28/ai-cli) | 2026-08-29 |
+| XiaomingX/ai-money-maker-handbook: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. | clippings \| github | [打开原文](https://github.com/XiaomingX/ai-money-maker-handbook) | 2026-08-29 |
+| 阿里开源 AI 代码审查神器 Open Code Review，精准到行的代码质量守护者 | clippings \| code-review | [打开原文](https://mp.weixin.qq.com/s/qBSNvmD0GMRNFAMtyWKiWQ) | 2026-08-28 |
+| 一个 SKILL.md 拿下 2.3 万 Star：让 Codex/Claude Code 少说废话、先给答案 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/bT275FddfIsZ4m3OnQcMhQ) | 2026-08-28 |
+| AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践 | clippings \| agent-test \| harness | [打开原文](https://mp.weixin.qq.com/s/mh8XQH5oDk5gq4EZq6oMlQ) | 2026-08-28 |
+| 深入解析Deep Agents 的上下文工程：让长任务 agent 不\\"失忆\\"也不\\"撑爆\\ | clippings \| deepagent \| agent-test | [打开原文](https://mp.weixin.qq.com/s/BtgZtdDrJ_VrKfFcEzA1sw) | 2026-08-27 |
+| 从写代码到写规范：AI时代软件开发方法论完全指南 | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/XUhM9g3fGgXc3zOdja7vyA) | 2026-08-27 |
+| 一篇讲透Agent自进化飞轮怎么搭：评测→记忆→落地→控制 | clippings \| AI-agent | [打开原文](https://mp.weixin.qq.com/s/5VDN-T9K8Wr-DaQ15-I6CA) | 2026-08-27 |
+| zhishile/codex-auth-helper: Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。 | clippings \| codex | [打开原文](https://github.com/zhishile/codex-auth-helper/blob/main/README.md) | 2026-08-27 |
+| OpenAI杀疯了：Codex Harness重磅开放！一键打造自己的“专属Codex”，DeepSeek Harness迎来最强对手 | clippings \| codex \| harness | [打开原文](https://mp.weixin.qq.com/s/tbye8AoT_0HlcnKuCWY82w) | 2026-08-27 |
+| Loongphy/codex-auth: A CLI tool to switch and manage Codex accounts | clippings \| codex | [打开原文](https://github.com/Loongphy/codex-auth/blob/main/README.md) | 2026-08-27 |
+| Anthropic 发布 AI Native 全流程实践指南 | clippings \| claude | [打开原文](https://mp.weixin.qq.com/s/H7bu8QV6GrtqmZnkh0fRvQ) | 2026-08-27 |
+| AI 智能体评估完全指南：从指标构建到框架选型实战 | clippings \| agent-test \| todo \| eval | [打开原文](https://mp.weixin.qq.com/s/hkT1UbMzSB_LZrWRcJy3IA) | 2026-08-27 |
+| 0成本绕Codex手机号验证最新方法（已实测有效） | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/K7cCuIpSYbmIzYTnm-Tw-g) | 2026-08-27 |
+| （十四）安全与权限控制 — 把Agent关进笼子里 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/FkhbhnNLvYROQJuMAT00OA) | 2026-08-25 |
+| 面向 DeepSeek Harness的渗透测试模式 dsh-pentest | clippings \| dsh \| plugin | [打开原文](https://mp.weixin.qq.com/s/yPMzhJcprh6keBLxzERWZQ) | 2026-08-25 |
+| 重磅！Codex省钱教程来了 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/Fp7_U36YKZJXIxzp0LPKxQ) | 2026-08-25 |
+| 这 10 款现代 CLI 工具，让你的开发工作流更顺手 | clippings \| cli | [打开原文](https://mp.weixin.qq.com/s/btqU7Hu7SZNfz4lL4xLkRA) | 2026-08-25 |
+| 评测也需要 Harness：HarnessEval 让 AI 打分变成一套系统 | clippings \| agent-test \| eval \| harness \| harnesseval | [打开原文](https://mp.weixin.qq.com/s/Dhl3m7v-DgzHcLCzXyRDBA) | 2026-08-25 |
+| 硬核落地｜大模型Agent怎么测？区别AIGC/RAG的全套测试流程 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/2uXd_ybzGrnIz5IcUK9LOQ) | 2026-08-25 |
+| 用 AgentKit，5 分钟搭建云端安全隔离的 DeepSeek Harness | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/1qKTbU8guMKRACzeKG-oNg) | 2026-08-25 |
+| 教你构建私有 AI Coding 平台：Pi、DSH、Codex Harness 扩展能力对比与选型。 | clippings \| dsh \| pi \| codex | [打开原文](https://mp.weixin.qq.com/s/DBpV4xfpIUS9cpOu06GwnQ) | 2026-08-25 |
+| 我们给DeepSeek Harness接入了MemSearch ，自动把Memory提炼成Skill | clippings \| dsh \| harness | [打开原文](https://mp.weixin.qq.com/s/alGVCOdHP29q_MS5e4TJcw) | 2026-08-25 |
+| 开启Benchmark的Harness时代：15家学术机构联合发布HarnessEval | clippings \| agent-test \| eval \| harnesseval | [打开原文](https://mp.weixin.qq.com/s/T_fBh7p82OHaKw75oq-5cQ) | 2026-08-25 |
+| 大模型评测方法论·从零件到整车 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/jn_XluvKOKbeNwiqq2MZUg) | 2026-08-25 |
+| 只有 8B，效果惊艳的国产 AI 图像神器，开源了！ | clippings \| AI-model | [打开原文](https://mp.weixin.qq.com/s/k4GIcf7Trw8W4kcngACsNw) | 2026-08-25 |
+| 别凭感觉改 Skill：如何给 Agent Skill 做自动化测试和回归评测？ | clippings \| agent-test \| eval \| skill \| todo | [打开原文](https://mp.weixin.qq.com/s/bpXL6NoVQqAs3zOR19b4lA) | 2026-08-25 |
+| 全栈 AI Agent 从 0 到 1 ：智能播客平台开发全记录 | clippings \| AI-agent | [打开原文](https://mp.weixin.qq.com/s/IGSAgptmQ-ZDurI-pnhdog) | 2026-08-25 |
+| 但问智能-哔哩哔哩_bilibili | clippings \| agent-test \| AI-test | [打开原文](https://search.bilibili.com/all?keyword=%E4%BD%86%E9%97%AE%E6%99%BA%E8%83%BD) | 2026-08-25 |
+| 企业部署实战：把Hermes自进化系统真正落地到组织中 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/dynJlI-avRxjLIxoEvuZww) | 2026-08-25 |
+| 一文讲透Agent评测：维度、方法和落地实践 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/GS4gdTflVOHDm3yEQhIjFg) | 2026-08-25 |
+| 一个Skill搞定服务重构：从链路分析到测试自动化 | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/kHpDP4yQoj5Vr0xGk2TDLg) | 2026-08-25 |
+| 一个Skill搞定服务重构：从链路分析到测试自动化 | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/kHpDP4yQoj5Vr0xGk2TDLg) | 2026-08-25 |
+| 《Agent 评测实战》加餐六 \| 评测的三层节奏：把评测钉进内 / 中 / 外三层循环 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/2iwufMWrguJEZcLYo_oNkw) | 2026-08-25 |
+| dsh-code-review：代码审查第一步，先证明这次到底改了什么 | clippings \| dsh \| code-review | [打开原文](https://mp.weixin.qq.com/s/2HvnV8gLlt4qQbxZ82pkVg) | 2026-08-25 |
+| darwin-skill：让大模型检查并优化现有 Skill | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/knGOIlKAang47UWJPxCrpQ) | 2026-08-25 |
+| alchaincyf/darwin-skill: 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 \| Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert. | clippings \| skill | [打开原文](https://github.com/alchaincyf/darwin-skill/blob/master/README.md) | 2026-08-25 |
+| Pi锐评各种Agent，DeepSeekHarness首当其冲：连续跑50小时，它还记得自己干过什么吗？ | clippings \| pi \| dsh | [打开原文](https://mp.weixin.qq.com/s/XupC9jQ6c9zKKuwWMcDAxA?poc_token=HGibjWqj4oKR8HbCdiwCd07xMVK2xQBwwYJ6IXO5) | 2026-08-25 |
+| Huashu-Excel正式发布！可能、也许、大概是最好用的Excel数据处理和分析skill | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/7gYbxcW81EtUZQOvpZTOkw) | 2026-08-25 |
+| Hermes安全管控：审批模式与权限设计 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/uo0vCIKhEBC29hKXd6pgcg) | 2026-08-25 |
+| Hermes 的核心架构 Harness：上下文、工具、权限与执行控制 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/d6cDtIntsPUrvynn77xJ5Q) | 2026-08-25 |
+| Hermes 企业微信群@机器人提示：当前机器人已被创建者授予数据使用权限，仅限创建者本人可使用 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/bSVI-sMXUzQCQK_vMBSi3A) | 2026-08-25 |
+| Hermes Agent 用户故事——真实场景中的落地实践 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/ufcscxYPXqO-00e9xN2FiQ) | 2026-08-25 |
+| Harness，Hook，Eval，Memory，Context，Orchestration...都是啥？大白话说清楚 | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/CkqGYdPtIG-fCzA59y6Rtg) | 2026-08-25 |
+| HarnessEval：开启RSI时代的新评测范式 | clippings \| harnesseval \| eval \| agent-test | [打开原文](https://mp.weixin.qq.com/s/pZW6wcL79lktaVqs1_j6pw) | 2026-08-25 |
+| HarnessEval：从 LLM 评测到世界模型的全链路可观测评测范式 | clippings \| agent-test \| eval \| harnesseval | [打开原文](https://mp.weixin.qq.com/s/ftMd_NVAzhzeEKTAEjQzQA) | 2026-08-25 |
+| DeepSeek Harness规模化踩坑实录：耗时、成本、失败到底该怎么查 | clippings \| dsh | [打开原文](https://mp.weixin.qq.com/s/6P9l4HftpJLDK-xZazMtow) | 2026-08-25 |
+| DeepSeek Harness 部署为多用户 web 服务：5 个机制防止 A 用户访问 B 用户数据 | clippings \| dsh \| harness | [打开原文](https://mp.weixin.qq.com/s/RPf1Z-Fo2fkkz1E7Aio2Xw) | 2026-08-25 |
+| DeepSeek Harness 与 Pi：两套 Agent Harness，两种复杂度管理方式 | clippings \| dsh \| pi | [打开原文](https://mp.weixin.qq.com/s/1QaGpbAGbqjmRUXZcAxxeA) | 2026-08-25 |
+| Data Agent 是什么？一文讲清企业级数据智能体开发实践 | clippings \| data-agent \| eval | [打开原文](https://mp.weixin.qq.com/s/Ul9nXK3VaD2Pq4taEWxGEw) | 2026-08-25 |
+| Agent 测试方法论：别再写测试用例了，你的 Agent 需要的是一套 Eval 数据集 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/Hx4O9PthbLcVKvqLB7eyew?scene=1) | 2026-08-25 |
+| Agent 工具调用实战：安全沙箱与权限控制策略 | clippings \| agent-test \| hermes | [打开原文](https://mp.weixin.qq.com/s/nb7qUMgTyzT_6LUkhJPrPg) | 2026-08-25 |
+| AI 测试 ｜ 把 UI 自动化测试执行固化成五步流程，这套AI Skill 思路可以直接抄！ | clippings \| AI-test \| UI-test | [打开原文](https://mp.weixin.qq.com/s/Q-JA1W2aBuPtbjTCq8rQ3g) | 2026-08-25 |
+| AI 测试 ｜ 把 UI 自动化测试执行固化成五步流程，这套AI Skill 思路可以直接抄 | clippings \| AI-test \| UI-test | [打开原文](https://juejin.cn/post/7676872250232078382) | 2026-08-25 |
+| AI 代码审查怎么做？我用 code-review-and-quality 审了一次待合并改动 | clippings \| code-review | [打开原文](https://mp.weixin.qq.com/s/DGfuK2vDjEPX-yBrGpRZHQ) | 2026-08-25 |
+| 1.9k Star！手机一键变电脑，这个开源工具真有点东西 | clippings \| github \| AI-test \| UI-test | [打开原文](https://mp.weixin.qq.com/s/6oPZjDigqLg23RrqyxCJ8A) | 2026-08-25 |
+| 轻量级Pi编码代理：构建你的AI开发利器（附Oh My Pi扩展指南） | clippings \| pi | [打开原文](https://mp.weixin.qq.com/s/pRG30QfG-JECFXRbVZF4xQ) | 2026-08-24 |
+| 使用 Promptfoo 对 AI 智能体进行自动化评测与轨迹追踪 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/gXw5wmaiDWoLuY67is1Ejw) | 2026-08-23 |
+| GitHub 40k Star，一款超绝的开源网络流量监控神器！ | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/IJ10hIEq6uEXJI6vfJqMLQ) | 2026-08-23 |
+| FIRERPA：GitHub 8.2K Stars 的安卓设备操控平台，浏览器远程控制 + AI 自动操作 + 一键抓包 | clippings \| AI-UI | [打开原文](https://mp.weixin.qq.com/s/ccLsiuZ9t-GOk35FZIsVUA) | 2026-08-23 |
+| DeepSeek Harness 朴素专题（5）：来看看 DSH 的 Agent Loop | clippings \| dsh \| agent-loop | [打开原文](https://mp.weixin.qq.com/s/focbPLjmUGRFh_shQiZRGQ) | 2026-08-23 |
+| BytePioneer-AI/codex-host: Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。 | clippings \| dsh \| codex \| AI-tool \| ide \| harness | [打开原文](https://github.com/BytePioneer-AI/codex-host/blob/main/docs/README.zh-CN.md) | 2026-08-23 |
+| 智能体评估（Agent Eval）入门：如何把一次失败变成回归测试？ | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/4kjvBKL0vIvGYEfJMnOysQ) | 2026-08-22 |
+| 我的 Pi Agent 插件清单 | clippings \| pi \| plugin | [打开原文](https://mp.weixin.qq.com/s/6E_cAjfnLFGlveCOdBHvXw) | 2026-08-22 |
+| Skill 自进化：SkillOpt实践总结 | clippings \| skillopt \| skill \| todo \| eval \| agent-test | [打开原文](https://mp.weixin.qq.com/s/YS18dZfVvNBEsBuZ1pa7DA) | 2026-08-22 |
+| 🚀Karpathy知识库工作流终极进化：graphify知识图谱保姆级教程！代码库编译成知识图谱，支持Claude Code/Codex/OpenCode/OpenClaw！支持导出到Obsidian | clippings \| graphify | [打开原文](https://www.aivi.fyi/llms/graphify) | 2026-08-20 |
+| 给 Coding Agent 加上质量门禁：测试如何进入 Agent Loop | clippings \| agent-test \| todo \| eval | [打开原文](https://mp.weixin.qq.com/s/6cSZAwDox-at8LMUVLQHCg) | 2026-08-20 |
+| 扔掉 Claude Code！93.5K Star 的 Pi Agent，到底强在哪？ | clippings \| pi | [打开原文](https://mp.weixin.qq.com/s/u4zASr3MyHJCUnIZqCDvPQ) | 2026-08-20 |
+| 学会AI智能体测试（九）：记忆系统测试方法——认知层面的质量保障 | clippings \| agent-test \| mem | [打开原文](https://mp.weixin.qq.com/s/MmP_qS9l6xJz4Bgy8XFoug) | 2026-08-20 |
+| 基于阿里云 AgentLoop 的 DeepSeek Harness 评测实践 | clippings \| agent-test \| loop \| eval | [打开原文](https://mp.weixin.qq.com/s/Jy9sHgjuif2N8B45NvrBNg) | 2026-08-20 |
+| 又一个 2.5万 star 的skill，太适合写页面了！ | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/qs-5boVEYCfC9QZ1PdlDbA) | 2026-08-20 |
+| 别再靠经验盲猜 Bug！固化分析路径为 Skill，让 AI 逐层收敛定位问题根因 | clippings \| AI-test \| bug | [打开原文](https://mp.weixin.qq.com/s/FokpXL5wwXjv8Zz94cQLnA) | 2026-08-20 |
+| 别再凭感觉上线 Agent——评估工程（Eval Engineering） 实战指南 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/HMp04-931qCyRbekKNos3w) | 2026-08-20 |
+| 不联网也能用，这个 14MB 的开源模型让设备本地听懂指令 | clippings \| AI-model | [打开原文](https://mp.weixin.qq.com/s/gehNN0CXC_X3UFNzOQ3O0g) | 2026-08-20 |
+| obsidian零代码高颜值仪表盘，聚合多种功能一个全搞定！ | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/jaqtJawFFduKxehcYoeqvw) | 2026-08-20 |
+| chenguangwei/ai-native-collaboration: AI Native时代全岗位工作新范式脚手架 | clippings \| github \| skill | [打开原文](https://github.com/chenguangwei/ai-native-collaboration/tree/main) | 2026-08-20 |
+| ccw-command-explorer | clippings \| claude \| skill \| code-review | [打开原文](https://ccw-command-explorer.vercel.app/) | 2026-08-20 |
+| catlog22/Claude-Code-Workflow: JSON-driven multi-agent  cadence-team development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution | clippings \| claude \| skill \| code-review | [打开原文](https://github.com/catlog22/Claude-Code-Workflow/tree/main) | 2026-08-20 |
+| Pi有5000+插件，优先装这10个 | clippings \| pi | [打开原文](https://mp.weixin.qq.com/s/cYs7g6P_xOEsSvSMS603AQ) | 2026-08-20 |
+| Langfuse 接入：给 Agent 加“行车记录仪“（第88篇-E74） | clippings \| agent-test \| langfuse | [打开原文](https://mp.weixin.qq.com/s/vcbrnbBEhxNguEfNakbSfg) | 2026-08-20 |
+| Harness：构建 Agentic AI 的端到端工程指南 | clippings \| harness \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/YRCnRyZe1mv-eRbArelwow) | 2026-08-20 |
+| GitHub 5.6k Star，又一个神级 AI Agent，自带记忆和情绪！ | clippings \| github \| AI-tool \| ide | [打开原文](https://mp.weixin.qq.com/s/FRiI7Pu2oNDOCZPwzgw2sQ) | 2026-08-20 |
+| EP-Harness：从个人 AI Coding 到团队级 Agent 工作流｜得物技术 | clippings \| harness \| todo | [打开原文](https://mp.weixin.qq.com/s/PFAsGsKqQYyLaced8i3CgA) | 2026-08-20 |
+| DeepSeek Harness 争议背后的真问题： 工具越多，Agent 反而越弱 | clippings \| harness \| dsh | [打开原文](https://mp.weixin.qq.com/s/_6uDihm3vRdigKnnnwonyA) | 2026-08-20 |
+| Agent 编排与调度的 2 种哲学：DeepSeek Harness 和 pi 源码对比（6 条借鉴清单） | clippings \| pi \| dsh | [打开原文](https://mp.weixin.qq.com/s/foBWCCDG7-cAl6FuVO6RJw) | 2026-08-20 |
+| AI评测方法论 ③：Agent 测评集——是什么、测什么、怎么搭第一版 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/PfRXKlMzEre_qRIjrlS5tA) | 2026-08-20 |
+| AI Agent 12步全路线图Context、Tools & MCP、Loops、Graphs、Harness、Evals | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/lddvFGHRralTTumOYUanmQ) | 2026-08-20 |
+| 7DGroup 开源 dsh-skill-7d-git-commit 插件 | clippings \| dsh \| plugin \| harness | [打开原文](https://mp.weixin.qq.com/s/ENmTtzV2VWCmEpUWZC1izw) | 2026-08-20 |
+| 释放 Pi 全部潜力：扩展开发与分发实战 | clippings \| pi | [打开原文](https://mp.weixin.qq.com/s/xVHlkWRyD6xiFVvzgZ8V1w) | 2026-08-18 |
+| 看完 DeepSeek Harness 爆火文章：我不认为 Pi 会被替代 | clippings \| dsh \| pi | [打开原文](https://mp.weixin.qq.com/s/KQBR9ZobRU8sY6V6Re52XA) | 2026-08-18 |
+| 我的 pi 装完这 7 个插件，编码效率直接起飞 | clippings \| pi | [打开原文](https://mp.weixin.qq.com/s/9O3hOdYFH7JsxW5rc3N9aw) | 2026-08-18 |
+| 我是如何评测 Agent 给出的各种非标准答案的 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/oUGIj-vS2jcThj_nMsPy-Q) | 2026-08-18 |
+| 如何测试一个 AI 智能体 Harness？——六层测试体系，这才是测试工程师的真正主场 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/buFdTB1_5ZzMjb8692SADA) | 2026-08-18 |
+| pi 与 DeepSeek Harness：同一个词，两条相反的 Agent 路线 | clippings \| dsh \| pi | [打开原文](https://mp.weixin.qq.com/s/QyuLa66L6CpKCgt8t_eS9A) | 2026-08-18 |
+| dsh 插件挑不过来？装了这 2 个，后面就不用翻列表了 | clippings \| dsh \| plugin | [打开原文](https://mp.weixin.qq.com/s/62OIyhMobIqqNcm-qHEfJQ) | 2026-08-18 |
+| Pi 入门指南，新手必备 | clippings \| pi \| codex \| claude | [打开原文](https://mp.weixin.qq.com/s/NocXwkP_obX1BONOXig4kg) | 2026-08-18 |
+| Pi vs dsh：上下文压缩同源对比 | clippings \| dsh \| pi | [打开原文](https://mp.weixin.qq.com/s/hhiYZiqjdH2bI8Tg23A92A) | 2026-08-18 |
+| Pi Coding Agent | clippings \| pi | [打开原文](https://pi.dev/packages) | 2026-08-18 |
+| Pi Agent 完整上手：极简架构、插件扩展与高效工作流 | clippings \| pi | [打开原文](https://mp.weixin.qq.com/s/ThvkeH91zzGaC5VIZSIFng) | 2026-08-18 |
+| Harness 工程之道：Skill 原理与最佳实践 | clippings \| harness \| dsh \| eval \| skill | [打开原文](https://mp.weixin.qq.com/s/fVqp5E-UJ9-b7kgAcvekCw) | 2026-08-18 |
+| DeepSeek Harness一夜5万星，测试人的危机感一夜拉满 | clippings \| AI-test \| dsh \| harness \| todo | [打开原文](https://mp.weixin.qq.com/s/oqBzA6LqXgCckTef3O1LjQ) | 2026-08-18 |
+| DeepSeek Harness 质量管理体系全景 | clippings \| agent-test \| harness \| dsh \| todo | [打开原文](https://mp.weixin.qq.com/s/-C38FGQbpoiiypR99X37DQ) | 2026-08-18 |
+| DeepSeek Harness 全景可观测实践 | clippings \| agent-test \| dsh \| harness | [打开原文](https://mp.weixin.qq.com/s/b6_-8JB6QigS_uA-txPKLQ) | 2026-08-18 |
+| DeepSeek Harness 与 Pi 深度对决 | clippings \| dsh \| pi | [打开原文](https://mp.weixin.qq.com/s/4tD6eteYY5YUhcNhMifbgw) | 2026-08-18 |
+| DeepSeek Harness Plugins：DSH推荐必装插件 | clippings \| dsh \| plugin | [打开原文](https://mp.weixin.qq.com/s/hpWJCXJkI500W0ffkCb6Xw) | 2026-08-18 |
+| Cordis 到底解决了什么：DSH 与 Pi 的两种答案 | clippings \| dsh \| pi | [打开原文](https://mp.weixin.qq.com/s/WOfqCiO_MrMVknymCNi3nw) | 2026-08-18 |
+| Agent测评框架——怎么判断一个AI Agent好不好用？ | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/KRKKYCaGxZ5aUOWbfm_TBg) | 2026-08-18 |
+| Agent测评框架 ②：什么是\\"好的评测\\ | clippings \| agent-test \| todo \| eval | [打开原文](https://mp.weixin.qq.com/s/L8wUv715BxstcLOruJVatA) | 2026-08-18 |
+| AI测试双维框架：从\\"用AI做测试\\"到\\"测AI系统本身\\ | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/tH318QQCTHg7pNnUmaV7RA) | 2026-08-18 |
+| AI Agent 评测怎么做：六步，从 20 条失败样本开始 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/wYeR_F_2o9LUKirghsuDtQ) | 2026-08-18 |
+| 5 步造一个自己的大模型评测 Benchmark | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/O1v_76Uc5Ypw_o8A6i6vrw) | 2026-08-18 |
+| DeepSeek Harness玩了一周，这6个社区插件让我回不去了：皮肤、视觉、启动器、UI增强、Skill搜索全攻略 | clippings \| dsh \| harness \| plugin | [打开原文](https://mp.weixin.qq.com/s/APNuChyzV-ZPKsTkiZof0w) | 2026-08-17 |
+| DeepSeek Harness 插件目录与安装指南 | clippings \| dsh \| plugin \| harness | [打开原文](https://dsh-plugins.org/) | 2026-08-17 |
+| DSH 插件推荐清单：DeepSeek Harness 必装的 14 个插件 | clippings \| plugin \| dsh \| harness | [打开原文](https://mp.weixin.qq.com/s/x3e7df6m9GvKW8bJeZY8NQ) | 2026-08-17 |
+| Build software better, together | clippings \| plugin \| dsh \| harness | [打开原文](https://github.com/topics/dsh-plugin) | 2026-08-17 |
+| 王虹手写风格 PPT Skills 升级了，增加动画效果，更酷了 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2649016969&idx=1&sn=3128cdf3fc58eec387c12c8ad3561a45&scene=21&poc_token=HDYYgGqjUpi1Yckc5_AhUj1ass6MECyO-Js-Kwbk) | 2026-08-15 |
+| 我扒了 DeepSeek Harness 219 个包，真有价值的是插件内核，附插件推荐 | clippings \| dsh \| deepseek \| harness | [打开原文](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2649017333&idx=1&sn=84dfa00a0c757390caef3a2264d15b6d&scene=21&poc_token=HJPnf2qjA_KkclNkwlH80MFF6paCU9u6nQiNJISz) | 2026-08-15 |
+| 开源\|一款模型/工具/沙箱/UI 皆插件，配置即组合的 Agent 编排框架，可私有部署商用 | clippings \| AI-tool \| codex \| dsh | [打开原文](https://mp.weixin.qq.com/s/3aw05At5bhQ_M5Zf0M8ZHw) | 2026-08-15 |
+| 从0到1带你速通DeepSeek Harness。 | clippings \| dsh \| harness \| deepseek | [打开原文](https://mp.weixin.qq.com/s/xkC1aenHFNSH2BxyzLDfcA) | 2026-08-15 |
+| 从0到1带你速通DeepSeek Harness。 | clippings \| dsh \| deepseek \| harness | [打开原文](https://mp.weixin.qq.com/s/xkC1aenHFNSH2BxyzLDfcA) | 2026-08-15 |
+| 一文带你看懂，火爆全网的Harness Engineering到底是个啥。 | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/yI1rQHVwJqszdpadzAe_4A) | 2026-08-15 |
+| 一份AGENTS.md，让AI代码规范率从60%飙升到95% | clippings \| agent.md | [打开原文](https://mp.weixin.qq.com/s/oPGpfcrDDYepZ2ixzdaorw) | 2026-08-15 |
+| 《Agent 评测实战》27 \| 循环健康度与非功能评测：成本、延迟、稳定性、防失控 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/q0nlxq268sG6m7l86p_xWg) | 2026-08-15 |
+| DeepSeek正式开源Harness：它终于有了自己的Vibe Coding入口 | clippings \| dsh \| deepseek \| harness | [打开原文](https://mp.weixin.qq.com/s/Yie3APPqfL8D3_zkfU-Xmg) | 2026-08-15 |
+| DeepSeek Harness 部署与使用全攻略: 让 Agent 跑在自己的电脑上 | clippings \| dsh \| deepseek \| harness | [打开原文](https://mp.weixin.qq.com/s/el96osSiOgIeE6AuCZihcQ) | 2026-08-15 |
+| DeepSeek Harness 插件推荐第二弹，其中一个是我开发的，附插件开发教程 | clippings \| dsh \| harness \| plugin \| deepseek | [打开原文](https://mp.weixin.qq.com/s/qdtdKKHo1y_oUyBwEImSqw) | 2026-08-15 |
+| DeepSeek Harness 拆解：一套能拼装的 Agent 架构 | clippings \| agent \| dsh \| deepseek \| harness | [打开原文](https://mp.weixin.qq.com/s/DeIty-Nn8tQvE4osy7_bpg) | 2026-08-15 |
+| DeepSeek Harness 实测｜模型之外的那一半，到底带来了什么 | clippings \| deepseek \| dsh \| harness | [打开原文](https://mp.weixin.qq.com/s/vT0K-xNvGik0ddtMkUe3Vg) | 2026-08-15 |
+| DeepSeek Harness 安装与架构解析：从模型决策到插件运行时 | clippings \| deepseek \| dsh \| harness | [打开原文](https://mp.weixin.qq.com/s/hfFfrb1G-S__HMMqHWCp4Q) | 2026-08-15 |
+| DeepSeek Harness 安装与架构解析：从模型决策到插件运行时 | clippings \| dsh \| deepseek \| harness | [打开原文](https://mp.weixin.qq.com/s/hfFfrb1G-S__HMMqHWCp4Q) | 2026-08-15 |
+| 面试官问我：“你会如何测试一个AI Agent？”我的回答让他当场发了offer | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/SRK0jWIts8ct5SLX9bdANw) | 2026-08-14 |
+| 自制缺陷预测Agent：三维度构建精准测试热点地图 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/JtwIUJVc8XdS2t5-1BsQbw) | 2026-08-14 |
+| 用AI做自动化测试，哪些是真不行，哪些是你不会用？ | clippings \| agent-test \| todo \| AI-test | [打开原文](https://mp.weixin.qq.com/s/xBAXuuxMl9ov11gZHC-Kfw) | 2026-08-14 |
+| 测试Agent的"记忆"该怎么设计 | clippings \| agent-test \| mem | [打开原文](https://mp.weixin.qq.com/s/29kP53j5FA2Q5ckqFLfmfg) | 2026-08-14 |
+| 怎么证明测试团队的AI转型真的提升了效率 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s?__biz=MzIwNjQyNTAyMg==&mid=2247488629&idx=1&sn=e5b33e6e4cd703b792650251c1997a78&chksm=97208aa4a05703b2d05b0f698a3f9221c099ae918f8cd663d5528e627bdbd474a706a8df6bc9&cur_album_id=3806885055167823876&scene=189#wechat_redirect) | 2026-08-14 |
+| 大模型生成用例Agent设计 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/5PW_oxsAsl0D3HlxqlYcjA) | 2026-08-14 |
+| 大模型时代下测试人员提升路线 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/3Gy52YwHZGVskhUhHfISXA) | 2026-08-14 |
+| 从0开始，12步学会用好AI。 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/62xZggROULpk34p2P7_TnA) | 2026-08-14 |
+| RAG评测跑出一堆Bad Case，我是怎么做归因的？ | clippings \| agent-test \| rag | [打开原文](https://mp.weixin.qq.com/s/e3P_HojwllSt7XCa_AMDcQ) | 2026-08-14 |
+| Agent评测实战：4大Benchmark真实数据，揭开Agent到底行不行 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/88F_N9lkc9HtSqG_Xqp1Mg) | 2026-08-14 |
+| 智能优化用例AI Agent设计方案 | clippings \| agent-test \| AI-case | [打开原文](https://mp.weixin.qq.com/s/cmQG2m5iLMrr1X3-f5y0ow) | 2026-08-09 |
+| 新坑开局：《Agent 评测实战：从能跑通到可信赖》 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/9PTcmJv32TU8D5lBscL9qA) | 2026-08-09 |
+| 从胡言乱语到精准改代码：我是如何让 AI 读懂老项目的 | clippings \| agent-test \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/acuC164Eh_5bfQJfS8hOXg) | 2026-08-09 |
+| 不用写一行代码的测试时代来了：2026年AI测试智能体搭建全指南 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/SoJxiYBtQf-vDJMpKfzPjg) | 2026-08-09 |
+| 《Agent 评测实战》开篇词 \| 为什么 Agent 时代，评测是你绕不开的核心竞争力 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/73M1V8VbNKGEkFit6WNSRw) | 2026-08-09 |
+| 《Agent 评测实战》22 \| 线上评测：用生产流量做实时质量监控 | clippings \| agent-test \| todo \| eval | [打开原文](https://mp.weixin.qq.com/s/LgIlr9s0_vupR15VVrX8Iw) | 2026-08-09 |
+| 《Agent 评测实战》20 \| 评测框架（Harness）：可复现地把评测跑起来 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/j23GogPsEDapxSNh4HwNkQ) | 2026-08-09 |
+| 《Agent 评测实战》02 \| Harness Engineering 视角：Agent = 模型 + Harness，你评的是它俩的协作 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/Sldy-hFjYTb8ecumVOfgEw) | 2026-08-09 |
+| 《Agent 评测实战》01 \| 从 LLM 评测到 Agent 评测：一次范式跃迁 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/-WwjssI8wBdCbQPkFC3heg) | 2026-08-09 |
+| Eval：有了“什么叫好”，为什么还不能放心上线？ | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/0stDeO_nXZ1gue2Vfwe4Rg) | 2026-08-09 |
+| 重读卡帕西LLM Wiki：知识库的核心不是存资料，而是持续积累知识！ | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/kcXANhnq3wcRp1xm0q4Now) | 2026-08-07 |
+| 重新思考了 AI 测试的正确打开方式，此处参考Claude Code | clippings \| AI-test \| claude | [打开原文](https://mp.weixin.qq.com/s/Csc_sBPRXUCjIF1udJFblg) | 2026-08-07 |
+| 轩辕的编程宇宙 \| 个人官方网站 | clippings \| github \| AI-test | [打开原文](https://www.xuanyuancode.com/) | 2026-08-07 |
+| 评测题太多，评测效率太低，AI帮你减负 ：Model-as-Judge 入门指南 | clippings \| agent-test \| eval \| judge \| todo | [打开原文](https://mp.weixin.qq.com/s/Dz4dq33d8XWwJoaLQ8LSpg) | 2026-08-07 |
+| 淘宝主播Agent的Harness工程实战 | clippings \| agent-test \| harness | [打开原文](https://mp.weixin.qq.com/s/Ky7oM7NIytxThVk4APjiTg) | 2026-08-07 |
+| 测试知识库里到底放些什么 | clippings \| AI-test \| todo \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/xyMVHHFxUT4lzZ8o_oNNzw) | 2026-08-07 |
+| 测试别再“全量回归”了！用这个AI神器，漏测率直降40% | clippings \| AI-test \| code-review \| graph | [打开原文](https://mp.weixin.qq.com/s/boaEH6Bh2_fTBcUZKU1sdg) | 2026-08-07 |
+| 智能客服上线前业务准备⑥：测试验收，如何判断AI客服真的准备好了？ | clippings \| agent-test \| IM-test \| eval | [打开原文](https://mp.weixin.qq.com/s/1kA6cqiTwiDuimdEw7ca_Q) | 2026-08-07 |
+| 快手AI研发范式升级新路径：从研发提效到组织跃迁 | clippings \| pm \| AI-test | [打开原文](https://mp.weixin.qq.com/s/VJty9To_Bt9N18jMnDK_7A) | 2026-08-07 |
+| 大模型评测实战：6 个业务场景与选型指南 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/jN3_eStAKy6_NwXMGkTfJw) | 2026-08-07 |
+| 大模型评测入门指南·精华合集 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/XH98jIihzqWVGnqmKpJ8MA) | 2026-08-07 |
+| 大模型评测入门指南 2 | clippings \| AI-test \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/iIglyviBYo576xE9CebOZg) | 2026-08-07 |
+| 大模型\\"黑话\\"指南 2.0：评测、安全、Agent，一篇搞懂进阶术语 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/yJyVbHQJrWqLWfwZgi35dw) | 2026-08-07 |
+| 大模型\\"黑话\\"指南 2.0：评测、安全、Agent，一篇搞懂进阶术语 | clippings \| agent-test \| judge \| todo \| eval | [打开原文](https://mp.weixin.qq.com/s/yJyVbHQJrWqLWfwZgi35dw) | 2026-08-07 |
+| 一篇文章讲明白：Agent评测怎么做？与LLM评测的区别是什么？ | clippings \| agent-test \| todo \| eval | [打开原文](https://mp.weixin.qq.com/s/WeCvRp1bx6JeeI7bycVPQQ) | 2026-08-07 |
+| 一文读懂AI三大网关：模型网关、工具网关和智能体网关 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/6VdYIkmGtIWFMxye-G36Ug) | 2026-08-07 |
+| 《Agent 评测实战》24 \| 平台与框架选型：测试执行器 vs 可观测平台 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/WaAaUKoKOszjDThR72gwag) | 2026-08-07 |
+| MCP 重回 HTTP 范式，再次证明架构设计和工程实践才是稀缺资源 | clippings \| mcp | [打开原文](https://mp.weixin.qq.com/s/ZjB-AVxe0hPjTz-SCf_sBw) | 2026-08-07 |
+| AnyDoc快到离谱！卸载了MarkItDown | clippings \| md \| github | [打开原文](https://mp.weixin.qq.com/s/2MmtfB0JLQwFt8fRx8I5sg) | 2026-08-07 |
+| AgentScope  API 迄今最完整api全量模拟测试 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/fVKYS3xA88VCR2T-6var5A) | 2026-08-07 |
+| 6个开源框架，快速上手LLM-as-Judge | clippings \| agent-test \| judge \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/dp9KREINjJxmgv3UgCRPEw) | 2026-08-07 |
+| 面试深挖自动化、性能测试细节 被拷打了一个多小时 | clippings \| AI-test \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/pNNRec1DV8hlSGOD7h05_A) | 2026-08-06 |
+| 造工具之前先想清楚三件事 | clippings \| AI-test \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/9_rNlRoY1_fDYSrVOHZYbg) | 2026-08-06 |
+| 造一个失败分析助手：日志扔进去，根因出来（附完整代码） | clippings \| AI-test \| todo \| code-review | [打开原文](https://mp.weixin.qq.com/s/9xgZLrulEHIfNUxf6Yj13Q) | 2026-08-06 |
+| 让AI把碎片化发现变成结构化探索性测试用例 | clippings \| AI-test \| AI-case | [打开原文](https://mp.weixin.qq.com/s/LEaiLq7hROfn703fr4pF1w) | 2026-08-06 |
+| 美团二面被问：\\"多Agent之间怎么实现共享记忆？\\"我立马答\\"用文件来做\\"，又句\\"那并发写入怎么办、权限怎么控制？\\"，我当场就卡住了。 | clippings \| AI-test \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/BbizaiYWziSLRIakmANtqw) | 2026-08-06 |
+| 独家揭秘：拼多多测试团队如何用AI把回归时间从3天压到2小时 | clippings \| AI-test \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/gBoUX6C3M_QGDkAbDRbGCA) | 2026-08-06 |
+| 测试工程师如何写出高质量测试用例？从需求拆解到用例评审 | clippings \| AI-test \| AI-case | [打开原文](https://mp.weixin.qq.com/s/uSG-RWR4BJLH-HU0Q93Rbw) | 2026-08-06 |
+| 测试工程师如何做需求评审？从需求描述到可交付质量的系统方法 | clippings \| AI-test \| prd \| pm | [打开原文](https://mp.weixin.qq.com/s/VTSiA6LwTQ-V2YpzT9DC9A) | 2026-08-06 |
+| 搭建你的AI测试工作流：不是说用AI，而是说怎么天天用 | clippings \| AI-test \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/WXFNHKErTAQW5ylvOBTifA) | 2026-08-06 |
+| 换掉 Claude Code，DeepSeek V4 Flash + OMP/ Pi 太丝滑了！ | clippings \| AI-tool \| codex \| pi \| opencode | [打开原文](https://mp.weixin.qq.com/s/2HITetdpVpQrELhYMNBdPA) | 2026-08-06 |
+| 大模型评测实战：6 个业务场景与选型指南 | clippings \| agent-test \| todo \| eval | [打开原文](https://mp.weixin.qq.com/s/jN3_eStAKy6_NwXMGkTfJw) | 2026-08-06 |
+| 复杂业务团队的 AI Coding 交付实践：知识库、RD 流程和质量门禁 | clippings \| AI-test \| AI-code | [打开原文](https://mp.weixin.qq.com/s/aopO-3KO9lenKF5WHhBD7w) | 2026-08-06 |
+| 几千人催我的 Codex +Obsidian 公众号创作工作流，开源了！ | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/19ULCcKx7U2wnpN-baKDDg) | 2026-08-06 |
+| 从零搭建第一个测试Agent：别被框架吓住 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/_5vDIMocn8XEcwi7rcj_3Q) | 2026-08-06 |
+| 什么时候该自己造工具？别一上来就写代码 | clippings \| AI-test \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/HtEVwghxS5X91pOwmHg6kg) | 2026-08-06 |
+| 《Agent 评测实战》23 \| 评测驱动开发（EDD）+ 回归与 CI：把评测嵌入迭代闭环 | clippings \| agent-test \| edd | [打开原文](https://mp.weixin.qq.com/s/_1iDNiLoPj5gCp-D9Nt7gA) | 2026-08-06 |
+| AI 能帮测试工程师做什么？哪些事情仍然不能交给 AI？ | clippings \| AI-test \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/5FN_-o-eoU8rs40sXoV-QA) | 2026-08-06 |
+| 面试 AI-这 4 个维度必须看 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/LPMcd8IutlpXZdWIS1j7ww) | 2026-08-05 |
+| 这个开源工具，让评测任何AI模型变得像写代码一样简单 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/U3aHHzTNM7_7YeVuYMv1Lw) | 2026-08-05 |
+| 评估工程：构建一个让 Agent 无需人工审查也能合并的闸门 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/cH_QeoDhFmM3XfOhPW6pHA) | 2026-08-05 |
+| 程序员效率神器：ShareX | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/8bViXpIkIwCWd0OiLXneZA) | 2026-08-05 |
+| 智能体全链路可观测技术实现方案（甲方视角） | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/CYIuTk8ddK305l6Mmh6F-w) | 2026-08-05 |
+| 无需逐题写评分标准！Eval-Skill用「可复用评估技能」增强评估模型，推理零开销 | clippings \| agent-test \| eval \| todo \| skill | [打开原文](https://mp.weixin.qq.com/s/-0KdFWUbQa9WkqZ35K3aGg) | 2026-08-05 |
+| 搞了半年团队反而更忙？3个阶段精准发力才真提效 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/ae4iae2c1GSiKOxVlEB1iw) | 2026-08-05 |
+| 手写接口自动化要 3 天？这个 Agent 5 分钟跑完 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/mOfTFHGFlJonVG60xwCgdA) | 2026-08-05 |
+| 大模型评测入门指南 3 评测结果怎么分析才不踩坑 | clippings \| agent-test \| todo \| eval | [打开原文](https://mp.weixin.qq.com/s/m51c6o35c3nHhH7TuZO5DQ) | 2026-08-05 |
+| 一款超酷、高速的终端文件管理神器，火了！ | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/-UGA0dIHGgPsLCI5UZvPcg) | 2026-08-05 |
+| UI自动化的知识库该怎么建 | clippings \| UI-test | [打开原文](https://mp.weixin.qq.com/s/6BlnzAcoDWIHC0sK9NfKDw) | 2026-08-05 |
+| LLM-as-a-Judge不是自动真相：如何用人工样本校准模型评测器 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/qSlZzYoFIUX18zXMP7rylA) | 2026-08-05 |
+| Harness：AI Agent 开发的评测与可观测性基础设施 | clippings \| agent-test \| eval | [打开原文](https://mp.weixin.qq.com/s/AF2aWFtmuAj8YvJY3PTK4Q) | 2026-08-05 |
+| Eval Set 实战：如何为你的 AI 产品建立第一套评测集？ | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/ZMSWz9oV28LLz0UwuUyDqA) | 2026-08-05 |
+| Airtest+Agent+Skill：3D教育交互全链路自动化测试方案 | clippings \| UI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/69c9XIi-dlExRIkrfKt5Yg) | 2026-08-05 |
+| AI测试面试： \\"怎么测一个AI客服\\"怎么答？ | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/xudw53QhuIxj393LStv6xg) | 2026-08-05 |
+| AI代码生成率94%：我们用一个 Skill 跑通需求开发全流程 | clippings \| AI-code \| skill | [打开原文](https://mp.weixin.qq.com/s/mGGIbFyF4U1PrBJVdfgcvg) | 2026-08-05 |
+| AI Agent评测怎么做？从0到1搭建评测体系 | clippings \| agent-test \| eval \| todo | [打开原文](https://mp.weixin.qq.com/s/b0K49OAcB41bqdmKfA48nA) | 2026-08-05 |
+| AI Agent Skill 工程化 11：生产监控与 Skill Review——从真实任务反哺测试集 | clippings \| agent-test \| eval \| skill | [打开原文](https://mp.weixin.qq.com/s/nwjs-0c7b6yZdm9mySWVyA) | 2026-08-05 |
+| AI Agent Skill 工程化 04：在写 Skill 之前，先搞懂 Eval | clippings \| agent-test \| eval \| skill | [打开原文](https://mp.weixin.qq.com/s/antqmWc0ghmmvi10WGU2Qw) | 2026-08-05 |
+| 5款代码理解工具终极pk，终有一款适合你：GitNexus、Graphify、code-review-graph、Understand Anything 与 CodeGraph | clippings \| llm-wiki \| graph \| code-review | [打开原文](https://mp.weixin.qq.com/s/c0LFugDxZr5a28dxzAoGmg) | 2026-08-05 |
+| 面试官：什么是agent的可观测性？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/1a0noxGTuPYEFzkAg7dikQ) | 2026-08-03 |
+| 软件测试筑基全解：测试生命周期、测试模型、测试级别 + 三大用例设计方法实操本系列从零搭建软件测试完整知识体系 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/Q35X5HlNuGRsxBFSMcJZ-A) | 2026-08-03 |
+| 跟Appium设计思路完全不一样，这款开源AI工具，让你实现自动化测试“动口”不“动手”！ | clippings \| AI-test \| UI-test | [打开原文](https://mp.weixin.qq.com/s/yLHrrZXDiHV24I9GIWOtBA) | 2026-08-03 |
+| 评测题太多，评测效率太低，AI帮你减负 ：Model-as-Judge 入门指南 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/Dz4dq33d8XWwJoaLQ8LSpg) | 2026-08-03 |
+| 生产级 Agent 全景：架构、Harness 工程、组织与人才 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/rZEqIQR-RcNBWMH_9xq2bw) | 2026-08-03 |
+| 滴滴 AI 研发岗一面：Agent 有几种设计模式？不能只背 5 个名字 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/Eo4gIh8OtjwVq0WHSapXEg) | 2026-08-03 |
+| 测试界的 AI Native：从 Claude SDK 到测试闭环 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/ozjYtRwC3eDFZZoq-odgxw) | 2026-08-03 |
+| 微软一个神级 skill 神器，改变了 skill 一直存在的大问题 | clippings \| skill \| agent-test \| skillopt \| todo | [打开原文](https://mp.weixin.qq.com/s/vD-s_gNmyHmkSnYe2FAzlw) | 2026-08-03 |
+| 回归测试不再“回归”：测试工程师的现状调查 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/wXwNYmn52Cv4RI_QWbu3KA) | 2026-08-03 |
+| 参数一多用例就爆炸？这个 Skill 用一个算法把 25920 种组合压缩成 31 条 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/oyonkkGX4MNppYbwcULzHA) | 2026-08-03 |
+| 别再重复写提示词了：给你的 AI Agent 做一个 Skill | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/L5wTJQBcl6EWIMFe0HYx_w) | 2026-08-03 |
+| 关于 Agent 评估的一些思考 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/bSrQoOESI_fLcf6WOSa5PQ) | 2026-08-03 |
+| 从 Trace 到评测：如何判断 Agent 真的变好了？ | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/rNPrS9_V6SPifppma60I4A) | 2026-08-03 |
+| 业务客服Agent全链路测试与工程化评估体系实战 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/DcJEAqDm-sjQ3go9Z0RRZA?poc_token=HJWQcGqjeaHdCP4ERTx3_LYVi5XQwlDvXEckRn7T) | 2026-08-03 |
+| 【AI Agent面试题】端到端评估 vs 分步评估，Agent 到底该怎么测？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/TPA5g3ZfX7Idn8_ZVHhuew) | 2026-08-03 |
+| 【AI Agent面试题】LLM-as-a-Judge：让大模型当裁判，怎么做、坑在哪？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/36YOhDaSuzAfMISTnmiwrA) | 2026-08-03 |
+| reverse-skill，两个半月 1.2 万 star，它给 AI 装的是方法论不是工具 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/lcGNEmnmxA8Qp8VnsIzf2w) | 2026-08-03 |
+| Agent 评测体系：从 demo 到生产的完整拆解 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/xRFKrQeyuW4-_CTeG-6S_Q) | 2026-08-03 |
+| Agent 的评测工程化 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/xgseaTm0kh7iDWpjoEcXVQ) | 2026-08-03 |
+| AI时代的新开发范式：先写考卷，再写代码 | clippings \| TDD \| SDD | [打开原文](https://mp.weixin.qq.com/s/1aVuSSc-JL5T3CHDUVKAvA) | 2026-08-03 |
+| AI 应用开发面试必问：Agent 到底该怎么评测？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/0PR8Cz3N9l30rbxhNisIUw) | 2026-08-03 |
+| AI 客服转人工规则怎么设计 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/rStMe2N2NpFndpIuG8pMIw) | 2026-08-03 |
+| AI Agent系列(九)：上下文管理、记忆类型、长期记忆、滑动窗口、摘要技术、混合存储架构、记忆加载策略 | clippings \| agent-test \| context | [打开原文](https://mp.weixin.qq.com/s/Ofrz3saUzqKuf54RbF6WIQ) | 2026-08-03 |
+| AI Agent 评测工程实践（08）—— 多 Agent 系统怎么评测 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/0SYek2jzjuk9A_R4J79_Bw) | 2026-08-03 |
+| AI Agent 评测工程实践（07）—— Agent 上线后怎么持续评测？生产监控的完整方案 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/ha4mq0SBk3GLzsU64sEcTA) | 2026-08-03 |
+| AI Agent 评测工程实践（06）—— 评测结果怎么用？从分数到代码改进的完整链路 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/Hk7ricHrP7J96s3otM4vjw) | 2026-08-03 |
+| AI Agent 评测工程实践（05）—— 测试用例从哪来？评测数据集的三种构建方式 | clippings \| agent-test \| todo \| datasets | [打开原文](https://mp.weixin.qq.com/s/YFMFzQFdUSAoVj_QiE5m5g) | 2026-08-03 |
+| AI Agent 评测工程实践（04）—— DeepEval 实战：10 分钟跑起来第一个 Agent 评测 | clippings \| agent-test \| deepeval | [打开原文](https://mp.weixin.qq.com/s/cI3hdNSxijVUvqhhiAmqlw) | 2026-08-03 |
+| AI Agent 评测工程实践（03）—— 让 AI 来定评估标准，微软 AgentEval 框架拆解 | clippings \| agent-test \| agenteval \| todo | [打开原文](https://mp.weixin.qq.com/s/VNS8ziJQZuNDcKHMOP4yXA) | 2026-08-03 |
+| AI Agent 评测工程实践（02）—— Anthropic 内部怎么评测 Agent？ | clippings \| agent-test \| claude | [打开原文](https://mp.weixin.qq.com/s/ii_uXNaSKdUAtfg6jlMfOg) | 2026-08-03 |
+| AI Agent 评测工程实践（01）—— Agent 到底好不好用？ | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/PoZ4LXrKZ0O-8bLVIIrxgg) | 2026-08-03 |
+| 90% 的 Codex 用户都在浪费 Sol 额度。改一下就行。 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/VsYf-vmYnC0P9CHSkD2LrA) | 2026-08-03 |
+| 80%的AI客服回答可以用关键词匹配替代：花了20万做的智能客服，8成问题没用到大模型 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/wm1I2qJfGbUc6dpr38rigQ) | 2026-08-03 |
+| 需求预测技术：统计模型到深度学习的实战对比与选型决策 | clippings \| agent-test \| prd | [打开原文](https://mp.weixin.qq.com/s/aZHZ1ZmEQnf92sJb7ksZbw) | 2026-07-31 |
+| 阿里云面试官问：给编码 Agent 设了超时和轮数上限，为什么还是拦不住？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/viKPKFDA1wPFcKJavW_M2w) | 2026-07-31 |
+| 链路分析与用例推荐大模型方案 | clippings \| agent-test \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/7wplbdnCBp2wFEL3ZGNYfA) | 2026-07-31 |
+| 前端 Skill 驱动的团队 AI Coding 实践：从个人到整体提效 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/cMzngHjtMacdXNnD-Y6Ieg) | 2026-07-31 |
+| 分享神级skills：一个非常漂亮的文章配图 SkillGuizang-Material-illustration | clippings \| skill \| mermaid | [打开原文](https://mp.weixin.qq.com/s/jHFenjjw2nEJ-sH1hiY9rg) | 2026-07-31 |
+| 分享一个打破信息差的 skill，巨好用 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/FfCyZIPhlb4Y2gu0uEfktg) | 2026-07-31 |
+| 什么样的Agent产品才敢上线？我靠这套评测集判断（附模板） | clippings \| agent-test \| datasets | [打开原文](https://mp.weixin.qq.com/s/_JIbFz6JNw7YPNH3a0477Q) | 2026-07-31 |
+| 产品经理做需求分析，可以先用这几类 Skill | clippings \| skill \| prd | [打开原文](https://mp.weixin.qq.com/s/A6fMUljyFuI9dg6sQIiaPg) | 2026-07-31 |
+| 上下文工程（下）：从提示词设计到上下文压缩 | clippings \| skill \| context | [打开原文](https://mp.weixin.qq.com/s/4wjkQUrUwz4sLyqSnY__pg) | 2026-07-31 |
+| Agent测评学习Day5：第一次跑通DeepEval | clippings \| agent-test \| deepeval | [打开原文](https://mp.weixin.qq.com/s/ZSqn7E7wUfSXyGzKGBqRuw) | 2026-07-31 |
+| AI测试实战篇二：智能客服大模型全流程测试，从意图识别到体验合规逐项拆透 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/JOhfNSAXom29yTSx00nVsQ) | 2026-07-31 |
+| AI时代CR工具如何选型 | clippings \| code-review | [打开原文](https://mp.weixin.qq.com/s/PSw-XUIJuHYZQgnSb7n3dQ) | 2026-07-31 |
+| AI 评测开源框架全景 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/z091tIl3laakSDSPeCDTAg) | 2026-07-31 |
+| 79.9k Star！装完不用配的 AI 全栈监控利器，服务器抖一下都能看见 | clippings \| github \| 监控 | [打开原文](https://mp.weixin.qq.com/s/Z02Rql1EaxbQlyS2M8FnVw) | 2026-07-31 |
+| 阿里云面试官问：AI 客服测到什么程度，才敢放给真用户？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/DH6oA6YCQ0tpb8AJ07juOg) | 2026-07-29 |
+| 还不知道Skill是什么？一篇文章教你怎么全自动设计属于自己的Skill | clippings \| agent-test \| skillopt | [打开原文](https://mp.weixin.qq.com/s/7nFPQZ0oZ3aYG_i-VI-RLw) | 2026-07-29 |
+| 电脑也能控制 Android：Another 把手机操作接进 AI | clippings \| UI-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/SpQ4kb0qgbecpISt1eI6mg) | 2026-07-29 |
+| 用自然语言控制手机，一条命令让 AI 帮你操作 Android 和 iOS 设备！ | clippings \| UI-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/nZYCDFg8oje9ckf-UZOf2Q) | 2026-07-29 |
+| 我发现 90% 的人用 Codex 的方式都是错的——这才是每天该用的 10 个技巧 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/PA898UwxA9qGnr3_OVP6Cw) | 2026-07-29 |
+| 微软开源 SkillOpt：把 Agent Skill 当神经网络训练，6 个 benchmark 全部 SOTA | clippings \| agent-test \| skillopt | [打开原文](https://mp.weixin.qq.com/s/FwPgVoFhGfqqVbPMK6HY6Q) | 2026-07-29 |
+| 实战落地｜基于LangChain+LangGraph 构建生产级客服意图识别系统（解决意图漂移/置信度/多轮会话难题） | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/tYtwN9INYMeMXxBHpWvNmQ) | 2026-07-29 |
+| 北大刷屏了，SkillCorpus生态起飞 | clippings \| skillopt \| agent-test | [打开原文](https://mp.weixin.qq.com/s/TqIr768W8YVaDuxO0t2uTQ) | 2026-07-29 |
+| 从手写 SOP 到自动训练：SkillOpt 重新定义了 Agent Skill 的玩法 | clippings \| agent-test \| skillopt | [打开原文](https://mp.weixin.qq.com/s/jZwMFxnBz2WYxlUUGheWfA) | 2026-07-29 |
+| 不花一分钱：我的 OpenCode 全免费工作流（Gemini Flash + 免费模型） | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/MZ6q_LM0wVPdb2Hhj9l1Wg) | 2026-07-29 |
+| 一文读懂 SkillOpt：把 Skill 当做神经网络一样训练 | clippings \| agent-test \| skillopt | [打开原文](https://mp.weixin.qq.com/s/DcRMaM1eJ-1MM3P7YR0QwQ) | 2026-07-29 |
+| SkillOpt：像训练神经网络一样，训练 Agent skills | clippings \| agent-test \| skillopt | [打开原文](https://mp.weixin.qq.com/s/PXa-iq_UHuSkgF-1Gh1lRQ) | 2026-07-29 |
+| OpenCode 10 个最常用的斜杠命令速查 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/9C9uJJEMVzk-dp0ds3hTTw) | 2026-07-29 |
+| Codux：一个开源的多项目 AI 终端，Codex、Claude Code 按项目统一管理——聊聊设计思路 | clippings \| AI-tool \| codex \| github | [打开原文](https://mp.weixin.qq.com/s/eLgG3-TROR3cDG8P6VS1eg) | 2026-07-29 |
+| Codex 多模型切换，我现在更推荐 OpenCodex | clippings \| codex \| opencodex \| github | [打开原文](https://mp.weixin.qq.com/s/q4rkcmt93p0vQ69LoU_ZfQ) | 2026-07-29 |
+| AI Agent评测体系怎么搭：90% 的团队都漏了这几环... | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/25GJOqvbWUNCioIz3kr5cA) | 2026-07-29 |
+| 直接抄卡帕西的方法，你的codex秒变聪明，战斗力即刻拉满 | clippings \| codex \| skill | [打开原文](https://mp.weixin.qq.com/s/fNsd7CsZ5VJniIw49MN7xw) | 2026-07-28 |
+| 卡帕西炸场分享：别再卷智能体了，90%开发者都搞反了AI研发顺序 | clippings \| AI-认知 \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/_9DDsIelrL_aXUiRdFOm_Q) | 2026-07-28 |
+| 你绝不会想到，这样一个文档，居然成了GitHub趋势榜前三 | clippings \| codex \| todo \| skill \| agents.md | [打开原文](https://mp.weixin.qq.com/s/QJuWudLg5nXQGBqsoWjUXA) | 2026-07-28 |
+| 三种文本相似计算方法：规则、向量与大模型裁判 | clippings \| agent-test \| diff \| todo | [打开原文](https://mp.weixin.qq.com/s/qB9DPBCHZwt9xg6MOmZaOw) | 2026-07-28 |
+| bojieli/ai-agent-book: 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | clippings \| github \| agent-test | [打开原文](https://github.com/bojieli/ai-agent-book/blob/main/README.md) | 2026-07-28 |
+| Skill 搭建别再从头造轮子了！这套超全落地流程直接复制，一键上线(附MD) | clippings \| skill \| todo | [打开原文](https://mp.weixin.qq.com/s/RDqD5ZkDlexB8qEHPlhseg) | 2026-07-28 |
+| OCR：阿里开源的 AI 代码审查神器迎来重大升级，精准度碾压通用 Agent，Token 消耗仅 1/9！ | clippings \| ocr \| code-review \| github | [打开原文](https://mp.weixin.qq.com/s/Rh45U4mzg4cfgb0ImXJd8A) | 2026-07-28 |
+| CodeX卡帕西自定义指令（karpathy）——让CodeX更省Token更高效 | clippings \| skill \| codex | [打开原文](https://mp.weixin.qq.com/s/MMfffJsBt5OfvLv0pnE11Q) | 2026-07-28 |
+| AI从零开始 | clippings \| agent-test \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MjM5MDcwMjM5NA==&scene=1&album_id=3913770198649765895&count=10#wechat_redirect) | 2026-07-28 |
+| AI Agent 评测工程实践（05）—— 测试用例从哪来？评测数据集的三种构建方式 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/YFMFzQFdUSAoVj_QiE5m5g) | 2026-07-28 |
+| AI Agent 评测工程实践（03）—— 让 AI 来定评估标准，微软 AgentEval 框架拆解 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/VNS8ziJQZuNDcKHMOP4yXA) | 2026-07-28 |
+| AI Agent 评测工程实践（02）—— Anthropic 内部怎么评测 Agent？ | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/ii_uXNaSKdUAtfg6jlMfOg) | 2026-07-28 |
+| AI Agent Loop 工程实践（7）—— Agent 跑起来之后，你怎么知道它在干什么？ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/4EOaGMh3XULwLNjgbwGrSg) | 2026-07-28 |
+| AI Agent Loop 工程实践（6）—— 选型指南：三种方案，5 分钟决策 | clippings \| agent-test \| loop | [打开原文](https://mp.weixin.qq.com/s/cBli1oldjoY1x9w4etmjBg) | 2026-07-28 |
+| AI Agent Loop 工程实践（5）—— 当一个 Agent 不够用：多 Agent 协作的编排之道 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/Xi_02AiUf2KzSIzefyTCJQ) | 2026-07-28 |
+| AGENTS.md 写了等于白写？ 我总结了 9 条真正有效的规则 | clippings \| agent-test \| agents.md | [打开原文](https://mp.weixin.qq.com/s/_T_YF4-eQu4PvI_jj9hUuA) | 2026-07-28 |
+| 25期：AIAgent测试方法论与项目落地实践-从可观测性建设到持续迭代闭环的完整指南 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/W_C52qkm8w1WWIbfibPEVw) | 2026-07-28 |
+| 自动化测试被验证码卡住？这套方案识别率90%+，直接抄！ | clippings \| UI-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/tIpeN9jTocoR2y85LGtVgQ) | 2026-07-27 |
+| 聊聊agent skills的设计模式 | clippings \| skill \| todo \| agent-test | [打开原文](https://mp.weixin.qq.com/s/KQgCJ19VibRhQ29xleenJQ) | 2026-07-27 |
+| multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | clippings \| codex \| skill | [打开原文](https://github.com/multica-ai/andrej-karpathy-skills) | 2026-07-27 |
+| karpathy-guidelines（卡帕西编码准则）：把大佬的AI编程避坑经验压成 4 条行为守则 | clippings \| codex \| skill | [打开原文](https://mp.weixin.qq.com/s/miG3XMWPodgSUfay4VTnNQ) | 2026-07-27 |
+| Agent 轨迹规则引擎怎么衡量好坏？一套可落地的评估指标框架 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/pXObw2Kki9p4zr1NSlXwQw) | 2026-07-27 |
+| 火山引擎开源 Agent 驱动的搜索自迭代技术 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/n_9jHMwdI-TWr4E-dL35uw) | 2026-07-26 |
+| DeepAgents深度源码解析与工程实践 | clippings \| agent-test \| deepagents | [打开原文](https://mp.weixin.qq.com/s/cvyVzwXaWeL9prjxxGK8Zg) | 2026-07-26 |
+| AI测试入门第五篇：测试工程师必备工具链清单，全链路覆盖，照着学就行 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/NhEIYbq_WFVzjkVpfD3ThA) | 2026-07-26 |
+| 阿里开源 skill-up：让 Agent Skill 可评测可回归 | clippings \| agent-test \| skill | [打开原文](https://mp.weixin.qq.com/s/lTdRNB3vTJoU0nAPBkHNtw) | 2026-07-24 |
+| 这段提示词可以让你的Codex自我进化，让 Codex 越用越懂你 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/sw7bPZ1NYYxt82iKJ1IfOQ) | 2026-07-24 |
+| 字节二面：你做的智能问答 Agent，到底怎么评估效果？我说："我们主要靠人工看效果，业务方觉得答得不错就上线了……"，面试官沉默了... | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/ybaHO7HIEDBm4NkGQagDmg) | 2026-07-24 |
+| 为什么你的 Codex 总是犯蠢？ | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/avIGpmzO-B5lzJ-mmgLJ8w) | 2026-07-24 |
+| 《Agent 评测实战》12 \| 代码型评分器（Code-based）：确定性检查怎么写 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/GdhNyfMUI_JQr1XuwjI-1Q) | 2026-07-24 |
+| Agent 评测：方法论与体系设计（精简版） | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/c1-RnDGL9fG6zAAf9R6FyA) | 2026-07-24 |
+| AI Agent 评测工程实践（01）—— Agent 到底好不好用？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/PoZ4LXrKZ0O-8bLVIIrxgg?poc_token=HP-wYmqjd6iQBXn6S4XqM81gICJgAeHFlFwreHeh) | 2026-07-24 |
+| 让 Agent 越用越准、成本越来越低：AgentLoop 的 Agent 经验自进化闭环 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/imwXP56r-llaQwD-qAQM6Q) | 2026-07-22 |
+| 给Agent做单元测试：Skillgrade让AI技能可验证 | clippings \| agent-test \| skill | [打开原文](https://mp.weixin.qq.com/s/AexEXSnia_BCPa2Hxu1gtw) | 2026-07-22 |
+| 深入理解 BM25：原理篇 | clippings \| BM25 | [打开原文](https://mp.weixin.qq.com/s/AL_PYyhsz1oEBNzKx7O_4w) | 2026-07-22 |
+| 测试工程师转型AI评估专家：LLM质量保障的完整实战指南 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/miD9PQ0P0oA9E_OKc79Igw) | 2026-07-22 |
+| 测试工作量暴增58%，0人敢完全信任AI代码——第一份QA报告出炉 ｜ AI测试情报局 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/4Lh8R3eWNWgJgxBzgOvr9Q) | 2026-07-22 |
+| 推荐一款开源工具：让 AI Agent 替你做 iOS、Android 自动化测试，能平替 Appium？ | clippings \| AI-test \| UI-test | [打开原文](https://mp.weixin.qq.com/s/VNUgCOX1PUqDhMwHKkpycQ) | 2026-07-22 |
+| 实操｜基于抽象语法树（AST）的代码问题修复 | clippings \| code-review \| ast | [打开原文](https://mp.weixin.qq.com/s/3g5aHnLXFoouqVKL3yXzvw) | 2026-07-22 |
+| 大模型评测与Agent评测对比 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/7VnDbsRWzfEJaGJ4wIK8fw) | 2026-07-22 |
+| 三代知识检索范式：RAG/GraphRAG/LLM Wiki，检索解决不了理解的问题 | clippings \| RAG \| llm-wiki \| graph | [打开原文](https://mp.weixin.qq.com/s/tjUNZ2IVRZe7rzhDoNuJfg) | 2026-07-22 |
+| 一个可以直接复制使用的全局 AGENTS.md（2.0 版） | clippings \| codex \| agents.md | [打开原文](https://mp.weixin.qq.com/s/YC-GvdxAk1wkgwVdD37k9g) | 2026-07-22 |
+| 《Agent 评测实战》11 \| 自动化评测总览：规则、模型、人工怎么配比 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/EjS-Lj4p_qXHf-t8k-KxLQ) | 2026-07-22 |
+| 《Agent 评测实战》10 \| 评测数据治理：任务质量、Oracle 参考解与防污染 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/9ZfgK50A0DRkmRH6ERvsWA) | 2026-07-22 |
+| 《Agent 评测实战》09 \| 别只会刷榜：为你的业务构建专属评测集 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/RvM6ScOLYePjxJgjp1Oblg) | 2026-07-22 |
+| 《Agent 评测实战》08 \| 案例拆解：从 τ-bench 与 Terminal-Bench 看一个好基准如何设计 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/iWv8Qn9cH2-xN97ub9IL6A) | 2026-07-22 |
+| RAG系列之——BM25 + 向量混合检索 | clippings \| RAG \| llm-wiki \| BM25 | [打开原文](https://mp.weixin.qq.com/s/5bIPjJnjxyo8g5B9bFfSsg) | 2026-07-22 |
+| QMD + LLM Wiki：本地优先的知识系统 | clippings \| llm-wiki \| qmd \| rag | [打开原文](https://mp.weixin.qq.com/s/Kjj3uouDZtL2z62zLneOqQ) | 2026-07-22 |
+| Loop工程已死，Graph工程永生 | clippings \| graph | [打开原文](https://mp.weixin.qq.com/s/i3zHIqkJU9cX1G1Nc5RUzA) | 2026-07-22 |
+| Andrej Kaparthy：如何用LLM构建你的个人知识库（LLM Wiki 完整指南） | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/T1rUk-lHaqvFhX3548ftMw) | 2026-07-22 |
+| AI说不出的随机数，成了鉴别套壳大模型最好的照妖镜。 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ) | 2026-07-22 |
+| AI 生成接口自动化：从“随机抽奖”到“确定性交付”的 工程实践 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/mwh2JyNXyr3ETH7jw4ewhw) | 2026-07-22 |
+| AI Agent 的回归测试工程：当模型升级不再意味着「从头验证」 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/aecnUOv44My6EIjHd92uHQ) | 2026-07-22 |
+| 20.2K Star！智能代码审查神器，减少 82 倍 Token 消耗 | clippings \| code-review \| graph | [打开原文](https://mp.weixin.qq.com/s/sCjVUReF0626JH1uTzDjaw) | 2026-07-22 |
+| 装了 agent-skills 之后，AI 写的代码终于像一个有十年经验的工程师了 | clippings \| skill \| agent-test | [打开原文](https://mp.weixin.qq.com/s/OvXMIpmHrejXp4gQBkHNtw) | 2026-07-20 |
+| 系统Cli化，流程Skill化，人员Agent化 | clippings \| agent-test \| cli \| skill | [打开原文](https://mp.weixin.qq.com/s/7upihEt56PjsjLZtZvltFA) | 2026-07-20 |
+| 混合检索是什么？为什么纯关键词和语义搜索都会翻车 | clippings \| AI-RAG \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/usg5kFskzzKQpgxctIRfNQ) | 2026-07-20 |
+| 智能客服评测体系与规范 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/lAU2Up6tXKmDx8aN21grxQ) | 2026-07-20 |
+| 智能客服是“智能”还是“智障”的两个核心评估维度及相关指标 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/xCW8oKkKlG1PpTHdIH-VDg) | 2026-07-20 |
+| 把K神的AGENTS.md 抄过来，Codex立刻变聪明 | clippings \| skill \| agent.md | [打开原文](https://mp.weixin.qq.com/s/xpCZx0E3u6dDoDwfcO1AlA) | 2026-07-20 |
+| 如何打造一个会自我进化的代码评审 Agent | clippings \| code-reivew | [打开原文](https://mp.weixin.qq.com/s/8XyZbKjdaWzW-g9cQRDVeg) | 2026-07-20 |
+| 大厂程序员被AI干掉，创业三个月，我都做了哪些事情 | clippings \| AI-job | [打开原文](https://mp.weixin.qq.com/s/X6b1mk-AzzsvRxmhCW-Lcg) | 2026-07-20 |
+| 不会代码也能做产品，这是一份从0开始的Vibe Coding保姆级教程。 | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg) | 2026-07-20 |
+| OpenSpec + Superpowers：用 OpenCode 搭建 SDD+TDD 双驱动 AI 编程工作流 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/Et3q4VVVH4e2VHk597Im4Q) | 2026-07-20 |
+| Codex 工作流：Explore → Plan → Code → Verify → Review | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/E8tR-5LZkFWiKK8Tlp2mMg) | 2026-07-20 |
+| AI效果评估：从传统ML到LLM时代的全链路指标体系 | clippings \| AI-test \| AI-agent | [打开原文](https://mp.weixin.qq.com/s/vM0b_geuB8XBNthFtJFWcQ) | 2026-07-20 |
+| AI Agent评测体系：如何判断一个Agent到底好不好 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/jn16lK7EpPkDE1qysILs-w) | 2026-07-20 |
+| AI Agent 面试追问：怎么证明它真的变好了？评估与测试 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/uV6x3caL_faDC6dameahcQ) | 2026-07-20 |
+| AI Agent 评测指南 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/emNgDJciraMSQIshpcZIIw) | 2026-07-20 |
+| AGENTS.md：Codex 项目说明书 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/OMuAJEyMnVp9QhS5Sevx9w) | 2026-07-20 |
+| 2602课程 - “AI 答疑机器人”的评测指标深度建议 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/t_pw1cdIz9McfThzCRFCNQ) | 2026-07-20 |
+| 19k Stars，日志、指标和链路分散在三套系统？OpenObserve 把排障入口收进一个后台 | clippings \| langfuse \| agent-test | [打开原文](https://mp.weixin.qq.com/s/mp0EGxfxEx_ZvMJlFUWHXQ) | 2026-07-20 |
+| 16 万星的 mattpocock/skills，我试用一周后的真实感受 | clippings \| AI-code \| skill | [打开原文](https://mp.weixin.qq.com/s/wOUwzDoXIM76-KFt2hPFog) | 2026-07-20 |
+| 日志里的幽灵：AI 辅助异常日志识别 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/YebQDIeoWFAhUTmFN6aonw) | 2026-07-18 |
+| 意图识别：从关键词匹配到语义路由 | clippings \| agent-test \| todo \| 意图识别 | [打开原文](https://mp.weixin.qq.com/s/StHixxSDs3_FuRQB2ao9Gg) | 2026-07-18 |
+| 开源的 Codex 一键换肤 App 来了！跨平台，内置多个主题，简单易用！ | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/Bg4JAuBsfyjaDdvydBVRWA) | 2026-07-18 |
+| 分享几个直接解决测试痛点的Skill | clippings \| AI-test \| skill \| todo | [打开原文](https://mp.weixin.qq.com/s/yHn3xBaUqqlwvGx8If_MSQ) | 2026-07-18 |
+| 从聊天框到真实工作，AI&Skills已是必选项 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/r7WIlc5roeFERodZQtDkLA) | 2026-07-18 |
+| 【AI单元测试系列】6 家大厂单元测试方案全解：从工程化到 AI Agent 的演进 | clippings \| agent-test \| code-reivew | [打开原文](https://mp.weixin.qq.com/s/GWfvqvQFxzsCkztzsyP73A) | 2026-07-18 |
+| to-prd：把聊天记录整理成需求文档 | clippings \| prd \| skill | [打开原文](https://mp.weixin.qq.com/s/OxbvvTEHrGvVPqfqYeCwfQ) | 2026-07-18 |
+| henry56714/apk_auto_test: Automated Android APK performance & stability testing via adb — AI-ready reports, no root required | clippings \| github \| AI-test \| android \| 性能 | [打开原文](https://github.com/henry56714/apk_auto_test/blob/main/README.zh.md) | 2026-07-18 |
+| UI 自动化自愈 Agent：从定位修复到根因自治 | clippings \| AI-test \| UI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/BVbsxveUCf7udE_8DvmRoA) | 2026-07-18 |
+| Codex 配置完全指南（2026 最新版）：配置、个性化、插件、钩子、定时任务 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/tWRLhZEbfOTlfxB--q82Dg) | 2026-07-18 |
+| AI Agent 第四期：AI Agent赋能车机测试：技术纵深与工程落地难点 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/bEp0L-Mw_YKT2BTBY2V47A) | 2026-07-18 |
+| 自动化代码审查系统实践 | clippings \| code-review \| AI-test | [打开原文](https://mp.weixin.qq.com/s/NH8A7sewiU9-ormQ4gDjdA) | 2026-07-17 |
+| Anthropic 怎么评估 AI Agent：从术语体系到落地路线图 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/u__MBbbn-BTS6WMkOxoacw) | 2026-07-16 |
+| AI产品经理工作流08：我怎么用AI做埋点设计，避免上线后看不懂数据 | clippings \| prd \| skill | [打开原文](https://mp.weixin.qq.com/s/2xcGc5JTQGX8YUYmxJ2MNw) | 2026-07-16 |
+| 链式编排 vs Skills 集编排：多 Agent 编排选型指南 | clippings \| agent-test \| skill | [打开原文](https://mp.weixin.qq.com/s/HJul5bKCOIcBTbTsarfDYg) | 2026-07-15 |
+| 过去三个月对我帮助最大的一个 Skill 之一：grill-me | clippings \| skill \| grill | [打开原文](https://mp.weixin.qq.com/s/VfQ24qUIuywP3XcM8X58Gw) | 2026-07-15 |
+| 让 AI 自己测 App：Revyl CLI 把移动端测试接进 Agent 工作流 | clippings \| AI-test \| UI-test | [打开原文](https://mp.weixin.qq.com/s/vtfHlsecw2WWAuKtI0-oxg) | 2026-07-15 |
+| 测试闭环：如何让 Agent 验证自己改对了？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/A-qn4HQSIseUBazxrxbMjw) | 2026-07-15 |
+| 多轮对话与上下文窗口管理 | clippings \| agent-test \| context | [打开原文](https://mp.weixin.qq.com/s/Qd3c27f4SL-wnhAJ53assQ) | 2026-07-15 |
+| 从零设计一个准生产级 LLM Agent：可靠性、上下文与恢复机制 | clippings \| agent-test \| AI-code \| llm-agent | [打开原文](https://mp.weixin.qq.com/s/UTEdhrkV3G3Ycfrg0Jng_A) | 2026-07-15 |
+| 从Prompt到Skill：测试效率翻倍的关键一步 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/-azB4gtVY47GG9-fjS1T4g) | 2026-07-15 |
+| 【AI 研发实战】AI 时代的端到端测试:让 Agent 替你点完整条用户旅程 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/tDIwzJUH7lsXKOmTrm3RFA) | 2026-07-15 |
+| Agent评估基准-τ-bench-SWE-bench与轨迹评估 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/Vjaqr_GcENuvf9eVBrJ-eQ) | 2026-07-15 |
+| Agent 评测别急着造平台，第一版我只建议这 3 个工具 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/FyGXB4L-rPX9ngFe32UMAg) | 2026-07-15 |
+| AI编程效率翻倍指南：10个实用技巧 | clippings \| AI-test \| AI-code | [打开原文](https://mp.weixin.qq.com/s/hNBHDicB_CWTTufuc9KHnA) | 2026-07-15 |
+| AI性能与压力测试全维度专业详解 | clippings \| AI-test \| locust | [打开原文](https://mp.weixin.qq.com/s/ZNj2G9ZFU_EtkeK0FLUtsA) | 2026-07-15 |
+| AI产品经理工作流04：需求评审前，我会先让AI当一次最难缠的研发 | clippings \| skill \| prd | [打开原文](https://mp.weixin.qq.com/s/UlZKVsltWKcgxDP0eu1U8g) | 2026-07-15 |
+| AI产品经理工作流01：收到一个需求后，我现在会先让AI跑完这套分析流程 | clippings \| prd \| skill | [打开原文](https://mp.weixin.qq.com/s/cKW9DbaqiFghp3e-Fi5SEA) | 2026-07-15 |
+| AI Agent 代码记忆方案对比：CodeGraph、Serena、RepoMap 与 AGENTS.md | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/H2Xg-q9CNOgmg28Ycvw9wg) | 2026-07-15 |
+| AI Agent Loop 工程实践（2）—— 50 行代码实现一个能跑的 Agent Loop | clippings \| loop \| agent-test \| harness | [打开原文](https://mp.weixin.qq.com/s/_pU_LtmqSotCE5P3a3aiuA) | 2026-07-15 |
+| 3个最实用的代码审查Skill，第1个直接替代人工Code Review | clippings \| AI-code \| skill | [打开原文](https://mp.weixin.qq.com/s/F_IcJ8Le-dL8-e3n0BjEVg) | 2026-07-15 |
+| 3.3k Stars，Appium 脚本还没写，AI Agent 已经能自己操作 Android | clippings \| AI-test \| UI-test | [打开原文](https://mp.weixin.qq.com/s/qnMl0OqjV0EHRPBPEPu6lQ) | 2026-07-15 |
+| 11.5K Star，16 个 AI Agent 塞进一个终端，谁卡住了看一眼就知道 | clippings \| github \| cli \| 终端 | [打开原文](https://mp.weixin.qq.com/s/F9_wBy88xP054oHFfC-7JA) | 2026-07-15 |
+| 面向生产的 Agent 工作流：编排、重试、补偿与观测 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/LTsVWHQsiIjZBd_w9W1XCw) | 2026-07-14 |
+| 多轮对话 Agent 怎么测？确定性与不确定性分离的四层测试金字塔 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/uYEnOAOk0mfWC1bi_mBTIg) | 2026-07-14 |
+| 一天一个 Skill——一句话生成后端骨架 Java/Python/Nodejs/Go  + MySQL/MongoDB/PostgreSQL | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/UuiXwmg2fXeWbTXruHFHOQ?poc_token=HIOSVWqj3aQtAMua3Zg0JMzoxld4U0o0vCdOYdLx) | 2026-07-14 |
+| gzh-design-skill：专为 AI Agent 打造的公众号排版技能！Markdown一键变精致 HTML，6 套主题任选！ | clippings \| skill \| html \| github | [打开原文](https://mp.weixin.qq.com/s/FYOMmtcgWpCi1RNeV3DQ3Q) | 2026-07-14 |
+| LangGraph 上生产实战：Langfuse 可观测性与 Studio 可视化调试怎么配合 | clippings \| agent-test \| langfuse | [打开原文](https://mp.weixin.qq.com/s/ugxLkYfKpqN5UiKc2IgLBg) | 2026-07-14 |
+| LangGraph DeepAgent 实战：长任务的规划、文件工作区与子代理委派 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/VMZosQxkrk_rs_-cHBetYw) | 2026-07-14 |
+| AI Agent 可观测性：如何记录推理、工具调用、失败与成本 | clippings \| agent-test \| langfuse | [打开原文](https://mp.weixin.qq.com/s/ddyhoklrgzojRZc6JvQTVw) | 2026-07-14 |
+| 30秒装上、6步管住AI：手把手用mattpocock/skills  跑通真实工程流 | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/SyyVgb5FNCTOzPzv0196ww) | 2026-07-14 |
+| 验证层设计：沙箱隔离、结果验证与自动化 Eval | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/cwRqckH8avXctbROj5cf6w) | 2026-07-13 |
+| 需求自动化Skill设计 | clippings \| prd \| skill | [打开原文](https://mp.weixin.qq.com/s/Sd0ggtC99DyF0HMTFqmJ7g) | 2026-07-13 |
+| 采用 OpenAI Agents SDK 之前，先写运行契约 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/L0oE04Uu5mXBAVDrzHtvew) | 2026-07-13 |
+| 让 AI Agent 系统自己发现 bug、自己提修复 PR：自我进化的 Harness | clippings \| agent-test \| harness | [打开原文](https://mp.weixin.qq.com/s/XlnoRIEivGJzf-BOiXZDbQ) | 2026-07-13 |
+| 测试用例写得越多，线上Bug不减反增？这个Skill 彻底解决漏测盲区 | clippings \| AI-test \| bug \| test-case | [打开原文](https://mp.weixin.qq.com/s/_6Y2KXZXvwD5Qto_S0Pwyg) | 2026-07-13 |
+| 大模型测试技术全景总结：分类、指标、实现与生产实践 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/_P1Ry6w3tSe9ES_knD6kbQ) | 2026-07-13 |
+| 大模型时代的“白嫖”新姿势：codex额度不够用？用 CodexPro 彻底榨干你的 ChatGPT 网页端 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/-0IazOpRFqRG1U8fJkKgzw) | 2026-07-13 |
+| 别等 Agent 上线后补评估：先用 DeepEval 写失败样本 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/B8XhH-2YqrGlWeDAINzaow) | 2026-07-13 |
+| 从“影响面分析”到“修复可信度审查”：AI 如何辅助判断 Bug 是否真的修好 | clippings \| AI-test \| bug | [打开原文](https://mp.weixin.qq.com/s/WcOmrcirE4tCv5uL8nP0Hg) | 2026-07-13 |
+| 万字 Harness 白皮书：把 Agent 从 Demo 推进到生产，必须补齐的 6 层架构 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/2Y2UplcrqQVUGTXNP6SZaQ) | 2026-07-13 |
+| 【实操】 Opencode + Oh-My-OpenAgent（OmO）使用教程，装备一支 AI 团队，效率直接翻倍 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/YvPnp-jAb4LINiUGgR3K-A) | 2026-07-13 |
+| shanggqm/codexU: macOS desktop widget for OpenAI Codex usage, quota tracking, token usage, and today task board | clippings \| codex \| github | [打开原文](https://github.com/shanggqm/codexU) | 2026-07-13 |
+| liangdabiao/liurun-bookwriter-skills: 蒸馏skill : 基于刘润28 年商业写作经验的完整复刻。基于其《我这28年的写作心法》提炼的 8 大心法、3 种结构、SCQA 逻辑势能、5商派 SCA++ 模板、7 种 callout，专为商业长文创作设计。你让它随便写任何 东西的 商业评论，都没有问题，都有意思，有洞见。 | clippings \| skill \| github | [打开原文](https://github.com/liangdabiao/liurun-bookwriter-skills) | 2026-07-13 |
+| Transfer 实战：别再一股脑把代码全丢给 AI 了 | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/WpMijeG3-ar-2hbqtDn2Yw) | 2026-07-13 |
+| Skills 目录结构：SDLC 全流程覆盖指南 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/CSahWzAu--FkfIwNBck8qQ) | 2026-07-13 |
+| RMUX：One Is All —— 终端复用器的下一次进化 | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/pBvufSmQJYI4ATC6GXdVvg) | 2026-07-13 |
+| OpenCode自动化工作流实战：让AI帮你干完整个项目 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/GJGHFxnPzeu2A7ikPNbDlg) | 2026-07-13 |
+| OpenCode 进阶：别再重复造轮子了，用 Skill 打造你的专属 AI 编程助手 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/yW4ZJ7lmFBepnzsqGQ0Vcg) | 2026-07-13 |
+| OpenCode 又一个神级项目开源：models.dev，5k Star的模型信息统一库 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/A622aHTCBJYyRXs9mgDWPw) | 2026-07-13 |
+| MattPocock Skills：给真实工程师的 AI Agent 工作流 | clippings \| AI-code \| skill | [打开原文](https://mp.weixin.qq.com/s/IVWcktVvwOqiPJwzLgJSNA) | 2026-07-13 |
+| LLM-as-a-Judge：如何构建真正有效的评估器 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/D2B8_XMifxlYZdP-iYDjeA) | 2026-07-13 |
+| Day50:Agent测试到底怎么测？手写ReAct循环+工具调用链验证+决策路径断言，一套全跑通 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/XTA2H6ACl461qk4fU4vGAQ) | 2026-07-13 |
+| Codex Hygiene：给 Codex Desktop 做一次"体检"，省下大把 Token! | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/YK7zO0yRNtonDab08uv5Kg) | 2026-07-13 |
+| Agentforce Testing API 开发者指南 \| Salesforce CRM 中文站 | clippings \| agent-test | [打开原文](https://www.salesforcecrm.cn/article/agentforce/agentforce-testing-api-guide.html) | 2026-07-13 |
+| Agent 可观测与质量评测体系：从数据采集到数据飞轮的完整实践 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/RvdRQe_5O2ZpW8YmZaOe4w) | 2026-07-13 |
+| AI智能体测试实战：当Agent开始自主决策，我们怎么测？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/4XKv9TtxCdQZWuVbrpH0TA) | 2026-07-13 |
+| AI 测试常用提示词 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/aO-5EDu0Wg6PbuIp5pXgqA) | 2026-07-13 |
+| AI 接手一个项目之前，先给它一张可验证的上下文包 | clippings \| AI-code \| github \| skill | [打开原文](https://mp.weixin.qq.com/s/5i1AAQ7zjOc0gkeIJqlccg) | 2026-07-13 |
+| AI 接手 repo 前，我先让它回答这 7 个问题 | clippings \| skill \| AI-code \| github | [打开原文](https://mp.weixin.qq.com/s/4qSo6IZBX48NzbMbtmcDEg) | 2026-07-13 |
+| AI Agent评测体系：四层质量评估框架 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/2aYxkiWa89pr9lcSwgKbpw) | 2026-07-13 |
+| AI Agent 性能评估：指标、基准与方法论 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/wO0jLaj92OCbbQ_Tr65yng) | 2026-07-13 |
+| 5个最好用的OpenCode Skills推荐，最后一个太实用了 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/Ba0Yz4_2a3zMYO0LFw6AKw) | 2026-07-13 |
+| 2026 年五大 Agent 可观测性工具 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/SIw_uw0raK2dhy0wIzzp4w) | 2026-07-13 |
+| 1c7/chinese-independent-developer: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | clippings \| github | [打开原文](https://github.com/1c7/chinese-independent-developer) | 2026-07-13 |
+| 19个AI测试平台必装的Tool Calling，测试人建议收藏！ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/PR47uSr9yuz7JOf9CwDgJQ) | 2026-07-13 |
+| 还只用Superpowers吗？别错过这个黑马项目！融合了Karpathy思想的团队级Agent Harness框架，一文拆解Trellis到底强在哪 | clippings \| AI-code \| codex \| openspec | [打开原文](https://mp.weixin.qq.com/s/qG7SYIc2IQ2UbhUub2Hwcg) | 2026-07-09 |
+| 被AI严刑拷问，但我居然莫名爽感？是时候替换Superpowers了，因为我终于找到Claude Code最佳实践工作流，准确无误Vibe Coding方案 | clippings \| skill \| grill \| codex | [打开原文](https://mp.weixin.qq.com/s/ZLRFqsU23WElKGB6FlOfxQ) | 2026-07-09 |
+| 完整实战：从零迭代一个数据分析 Skill | clippings \| skill \| 数据分析 \| todo | [打开原文](https://mp.weixin.qq.com/s/QfCv45ec9jC8oZ9g7aL04A) | 2026-07-09 |
+| 公众号运营者的救命稻草：一句话就能生成完整推文的GitHub开源神器来了！ | clippings \| github \| 公众号 | [打开原文](https://mp.weixin.qq.com/s/qqD7qBa7mh4uoYCJ3t7rBg) | 2026-07-09 |
+| 全面思考 Skill | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/2_IY-dhDFaO9Fz2ND1Tb-A) | 2026-07-09 |
+| Oh-My-OpenCode上手指南：从Build/Plan到Agent工作流 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/IJW3SwDThm9Q937EOu9CVA) | 2026-07-09 |
+| AI辅助下的需求探索-完整提示词 | clippings \| skill \| prd | [打开原文](https://mp.weixin.qq.com/s/TzcxN9L8cMCk-dLgmDzkYA) | 2026-07-09 |
+| AI 应用测试的工程化突围：Evaluation-Driven Development 如何成为 LLM 交付的新基线 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/jA3EOTixCzGyWSgyvyZVvQ) | 2026-07-09 |
+| AI Agent 上线监控体系怎么搭 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/acgd3mHzG8yAalbglD7jYA) | 2026-07-09 |
+| 5个最好用的OpenCode Skills推荐，最后一个太实用了 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/Ba0Yz4_2a3zMYO0LFw6AKw) | 2026-07-09 |
+| 精华：去哪儿网AI Coding研发平台实践，值得读三遍的样本 | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/Ug_fMuGkQmM4tECUbpfXOg) | 2026-07-08 |
+| 第15篇：Harness Engineering 实践指南——从零到生产的完整路线图 | clippings \| harness \| agent-test | [打开原文](https://mp.weixin.qq.com/s/5GmESz1z9MCRp0KzoYUOSw) | 2026-07-08 |
+| 测试工程师五大维度能力提升框架 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/Pxh4q5vI6IEWl5LZ154JeA) | 2026-07-08 |
+| 我是怎么把“拆测试点”这件事，做成一个可复用 Skill 的 | clippings \| skill \| case \| todo \| AI-test | [打开原文](https://mp.weixin.qq.com/s/64RRlvig3KzqWvYNG5psDQ) | 2026-07-08 |
+| 我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ) | 2026-07-08 |
+| 开源一个非常漂亮的文章配图 Skill | clippings \| skill \| mermaid | [打开原文](https://mp.weixin.qq.com/s/H-NlNfk7N0cYotjD5yJs8Q) | 2026-07-08 |
+| 图谱skill Hyper-Extract：一条命令，把文档变成知识图谱 | clippings \| skill \| todo \| 图谱 \| AI-test | [打开原文](https://mp.weixin.qq.com/s/e7UUwu5zaYliGSXNvyZz5Q) | 2026-07-08 |
+| 可观测性：Langfuse、Langsmith 集成 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/6Rr4Szv08JDAVK2lYZPeUA) | 2026-07-08 |
+| 代码还没写，测试用例已经定了：MumuSpec 13 测试策略 + 14 追溯矩阵到底管什么 | clippings \| case \| AI-test \| todo \| skill | [打开原文](https://mp.weixin.qq.com/s/-X0T6ZhSz0eYbTY9qd1Mqg) | 2026-07-08 |
+| 从零搭建 Harness Engineering 框架 ：Rule、Skill、Sub-Agent等工程落完整路径 | clippings \| harness \| skill \| agent-test | [打开原文](https://mp.weixin.qq.com/s/zZSmkxfWYFijoGR8onbi-Q) | 2026-07-08 |
+| microsoft/SkillOpt: SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts. | clippings \| skill \| agent-test \| todo | [打开原文](https://github.com/microsoft/SkillOpt/tree/main) | 2026-07-08 |
+| QA × AI 全景图：三条路径，重塑测试工程师的工作方式 | clippings \| AI-test \| case \| skill \| todo | [打开原文](https://mp.weixin.qq.com/s/vL9gZ-7R4QNj8bHevLF0pw) | 2026-07-08 |
+| OpenCode 推荐安装插件：让 AI 编程效率翻倍的必备指南 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/VdUsrsz8TBXPfThNsnLOQg) | 2026-07-08 |
+| LLM/Agent分层测试Harness产品化：三层评估框架落地破局，Benchmark资产化补齐行业短板 | clippings \| harness \| agent-test | [打开原文](https://mp.weixin.qq.com/s/43xHU7hp96sm5pauGIXCPQ) | 2026-07-08 |
+| 需求评审从3小时到40分钟，我做了这4个改变 | clippings \| prd \| todo | [打开原文](https://mp.weixin.qq.com/s/ru1YD0vWrdL2MTdqC0AxXQ) | 2026-07-07 |
+| 阿里云发布 AgentTeams 与 AgentLoop：破解企业智能体规模化落地两大难题 | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/QNw80wAKyaNJ7qDMiCu_dQ) | 2026-07-07 |
+| 重新学习 Harness 系列 7：Trace 与 Evaluation：Agent 可观测性、评测和持续改进的工程基础 | clippings \| agent-test \| harness \| todo | [打开原文](https://mp.weixin.qq.com/s/FXylj19OA1CE1RMBzzECcw) | 2026-07-07 |
+| 重新学习 Harness 系列：Skills、MCP 与 SubAgent / Multi-Agent：Agent 能力扩展的三种工程形态 | clippings \| agent-test \| harness | [打开原文](https://mp.weixin.qq.com/s/NrULnQmVwVHd5hXWoptAoA) | 2026-07-07 |
+| 重新学习 Harness 系列 6：Memory：Agent 长期记忆、状态与知识管理的工程基础 | clippings \| agent-test \| harness | [打开原文](https://mp.weixin.qq.com/s/p4ioDOob4UPVuEgHxIVgiw) | 2026-07-07 |
+| 这些流程图不用自己美化了，AI还能生成可编辑版 | clippings \| skill \| github \| 图 | [打开原文](https://mp.weixin.qq.com/s/cbjbZXgEA8s8P9MDz8PVKA) | 2026-07-07 |
+| 近 4 万 Star！一个终端搞定 DeepSeek/Claude/GPT，编程助手全都要下岗了？ | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/Vykbw-tUzxbOup4SjKBPrg) | 2026-07-07 |
+| 评测集建好了，怎么真正用起来（四） | clippings \| agent-test \| skill | [打开原文](https://mp.weixin.qq.com/s/LvvFNSjn3-R6QUyPdZPYAA) | 2026-07-07 |
+| 聊聊Anthropic这篇最新研究，我觉得可能是AI意识诞生的前夜。 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/Qsh68u0yFOTuJtBXNVKH0w) | 2026-07-07 |
+| 第8篇：Agent 评估与基准测试 —— 你的 Harness 到底有多好？ | clippings \| harness \| agent-test | [打开原文](https://mp.weixin.qq.com/s/UgbmVxnzma2i-WpOQ6iKBQ) | 2026-07-07 |
+| 看透并读懂代码(下)——用ZAgent的code analyzer工具深入分析理解代码 | clippings \| AI-code \| github | [打开原文](https://mp.weixin.qq.com/s/gEOGnEkqpb1jmimuQ22TBA) | 2026-07-07 |
+| 盘点5组高级感满满的低饱和配色 | clippings \| color \| github | [打开原文](https://mp.weixin.qq.com/s/JsWtZMC8ZAmegwAU7GW4sA) | 2026-07-07 |
+| 测试工程师必备 Skills 合集：从需求→用例→报告全流程提效 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/Dtt7lbQMWx4UF_RkQ6s-tA) | 2026-07-07 |
+| 有人正式开源了 html-anything，1:1 复现了全网爆火的 Claude Code 作者提到的 HTML 效果 | clippings \| html \| github | [打开原文](https://mp.weixin.qq.com/s/Jwrdj3AuH5g7gyoiV0Skew) | 2026-07-07 |
+| 新坑开局：《Agent 评测实战：从能跑通到可信赖》 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/9PTcmJv32TU8D5lBscL9qA) | 2026-07-07 |
+| 文章AI味儿重？去除AI味的8个skills来了！ | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/_PdYGQS2vy59tN_zGawemw) | 2026-07-07 |
+| 我用 Codex 做测试，不是让它替我写用例 | clippings \| agent-test \| todo \| codex | [打开原文](https://mp.weixin.qq.com/s/xN9DWv_E8aSfknVPh8H-ww) | 2026-07-07 |
+| 我把埋点测试做成了一条闭环流水线：真机自动验证、自动提 Bug、自动回归复测 | clippings \| skill \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/UbzYVLIiEaFZ6ceuylVUrA) | 2026-07-07 |
+| 我做了一个自动版持久性会话skill：session_protocol | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/z_dS67fWVQn4V-rXtaAfng) | 2026-07-07 |
+| 性能测试Skill清单：从需求澄清→造数→JMeter→报告全流程提效 | clippings \| skill \| locust \| AI-test | [打开原文](https://mp.weixin.qq.com/s/CIFGTU8FUsQgblGPZ9sE2g) | 2026-07-07 |
+| 怎么判断一个业务流程 该用 LLM Workflow，还是 Agentic Workflow？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/2G8gHb8pzZWvMavvxJhkpg) | 2026-07-07 |
+| 微软开源Skill训练框架，让Agent白天干活，晚上自动复盘，Skill的自进化终于可监控了 | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/ZR-rPVaHrj7r5Umo7iq7sg) | 2026-07-07 |
+| 开源一个排版 Skill｜彻底解决公众号排版难题（建议收藏！） | clippings \| skill \| 公众号 \| github | [打开原文](https://mp.weixin.qq.com/s/ebjjsO_rCh5LPlUlqgjBzw) | 2026-07-07 |
+| 埋点skill使用与自动化 | clippings \| skill \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/644ycTE9JhNDhCYU91_-bg) | 2026-07-07 |
+| 又一个画图 Skill 开源，再见 draw.io！ | clippings \| skill \| github \| mermaid | [打开原文](https://mp.weixin.qq.com/s/tGk-mKKDeFn9uO3KaIUPpw) | 2026-07-07 |
+| 别让 AI 把合理推理，伪装成需求事实 | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/BBubAsgFcRq0jCAjUxreeA) | 2026-07-07 |
+| 别急着让 AI 改代码：先让它学会根据代码地图定位问题 | clippings \| skill \| github \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/FvhNk8g5K2pUIEGWffOvcQ) | 2026-07-07 |
+| 你真的会用Agent自动化来找漏洞吗 | clippings \| agent-test \| github \| skill | [打开原文](https://mp.weixin.qq.com/s/VUVbTdL7P9eCwytMjf7ZnA) | 2026-07-07 |
+| 一个神级 PR Review Agent 诞生了：读 diff、写总结、找风险全自动！ | clippings \| AI-test \| prd | [打开原文](https://mp.weixin.qq.com/s/6bAFmjP6sdGau6Of4UsE0w) | 2026-07-07 |
+| 一个 Skill 落地 UI 自动化的真实案例 | clippings \| AI-test \| UI \| skill | [打开原文](https://mp.weixin.qq.com/s/ZYVQKU-9QgZ5GgTR1PlyDQ) | 2026-07-07 |
+| 《Agent 评测实战》01 \| 从 LLM 评测到 Agent 评测：一次范式跃迁 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/-WwjssI8wBdCbQPkFC3heg) | 2026-07-07 |
+| drawio-skill：让AI真正能画图的图表生成神器，我愿称之为今年最实用的开源项目之一 | clippings \| skill \| mermaid | [打开原文](https://mp.weixin.qq.com/s/eYxLRnWueLlfvhXVFv1PeQ) | 2026-07-07 |
+| Superpowers 6.0发布：让 AI 自己优化自己，Token 省了 60% | clippings \| superpowers \| openspec | [打开原文](https://mp.weixin.qq.com/s/pAE8mF1CQbjxgfzujZoShA) | 2026-07-07 |
+| OpenSpec + Superpowers 融合方案对决：spec-superflow vs Comet 深度拆解 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/8hO_Xxxzl5p2pCJgC1oLNg) | 2026-07-07 |
+| OCR：阿里开源的 AI 代码审查神器迎来重大升级，精准度碾压通用 Agent，Token 消耗仅 1/9！ | clippings \| code-review | [打开原文](https://mp.weixin.qq.com/s/Rh45U4mzg4cfgb0ImXJd8A) | 2026-07-07 |
+| HyperSpec(OpenSpec+Superpowers)加了知识图谱，我没想到实测会撞见设计的盲点 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/cE4AjvnwUepv3qL42mZyoA) | 2026-07-07 |
+| GSD 完胜 OpenSpec 和 Superpowers？源码拆完发现：三者防的是 context rot 的三道防线 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/JvLeQjHJvrf06iLtK6XmIg) | 2026-07-07 |
+| CodeDelta：一个帮我追代码变化的小工具 | clippings \| AI-test \| AI-tool \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/QXzh5Ra9o93cEBNq1d3qWg) | 2026-07-07 |
+| AgenticDataBench：数据 Agent 评测正在从任务分数走向技能诊断 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/YRa4PVLcRG9q5wo-I8qhdw) | 2026-07-07 |
+| AI生成测试用例总在返工？这3步，一次做对 | clippings \| prd \| todo \| AI-test | [打开原文](https://mp.weixin.qq.com/s/KS2vX7srxeVQVNuw-yn_eQ) | 2026-07-07 |
+| AI Agent从“能用”到“可靠”：一套经实战检验的测评体系 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/HB2-NmXJJ_D6XhzbNd0Mdg) | 2026-07-07 |
+| 阿里面试：如果Agent 挂100个 Skill  ，如何提升召回率、准确度、F1综合值？尼恩 《Skills调优圣经》，来一次 泰山压顶  式的 降维打击 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/c1x1JOkQjcERpJHc60yh5g) | 2026-07-06 |
+| 讲透需求评审Skill（7）：我做了两个交互类需求的评审Skill，用真实需求验证了它们 | clippings \| AI-test \| prd \| skill | [打开原文](https://mp.weixin.qq.com/s/HQ7eauv5ufKY-wasPX55IQ) | 2026-07-06 |
+| 如何使用评测集持续调优 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/Dt31HAYDn3N0imzTjoKHwA) | 2026-07-06 |
+| 分享一个让我大受启发的开源Agent项目，老板听完拍手叫好。 | clippings \| agent-test \| skill \| agents.md \| codex | [打开原文](https://mp.weixin.qq.com/s/CImGiCTN62CGsN42IbQ7-Q) | 2026-07-06 |
+| 从AI Coding到Harness Engineering的端到端工程开发实践 | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/UE-RZH9hnbBd06CVapFGrA) | 2026-07-06 |
+| 【AI Agent 第二期：AI Agent 重塑软件测试】 | clippings \| AI-test \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/642k9F6mYdLHcBJklP1r8A) | 2026-07-06 |
+| Codex 满配实战：从 AGENTS.md、Skills、Plugins 到 Automations | clippings \| codex \| agents.md | [打开原文](https://mp.weixin.qq.com/s/PeO54FGt0lGFAUDyKhP2mg) | 2026-07-06 |
+| ChatGPT Plus 上下文管理最佳实践 | clippings \| codex \| context | [打开原文](https://mp.weixin.qq.com/s/NUvLPINc4rR3uARe9N3wTg) | 2026-07-06 |
+| AI重塑测试：从效率到风险，你团队在哪层？ | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/0edKEG6u3mrCGmk9WyMSQA) | 2026-07-06 |
+| AI编程实战：用gstack + OpenSpec + Superpowers + Ralph 做到真正的AI 驱动开发 | clippings \| AI-code \| openspec \| skill | [打开原文](https://mp.weixin.qq.com/s/j_YUIJWLjV5beZgqhkK0fQ) | 2026-07-06 |
+| AI写的稿一眼假？试试这几个skill | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/N97Cm8_mWaeKGodPndwRSw) | 2026-07-06 |
+| 让 LLM 当裁判：怎么构建自动评估器 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/j8E-HFDdRnjQfBduxkc_eA) | 2026-07-03 |
+| 融合 OpenSpec + Superpowers 两套研发规范的全流程工程化工作流编排框架spec-superflow：让 AI 编程不再"写对代码但做错事 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/CxzKnNE0CRuWSlL8iThvtg) | 2026-07-03 |
+| 爆肝长文：SDD 实战下篇，从渐进式 SDD 到 Lattice Harness：AI Coding 的团队级闭环 | clippings \| harness \| openspec \| todo \| sdd \| AI-code | [打开原文](https://mp.weixin.qq.com/s/VlEVdzRsuX_uEyyVVfs9RQ) | 2026-07-03 |
+| 基于SSD的OpenSpec工作流 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/gvmAxkYtJLKKDr2PL3FCPA) | 2026-07-03 |
+| 十分钟上手 OpenObserve 19.4k star 的可观测性平台，凭什么值得你关注？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/rpBRIdnqYiPclJP9XDfpDg) | 2026-07-03 |
+| 一个让  AI  更有效  Review 代码的 Skills ：review-swarm | clippings \| AI-test \| code-review | [打开原文](https://mp.weixin.qq.com/s/yE7LhSy4fqYcJcb8DRxbzg) | 2026-07-03 |
+| Matt Pocock 发了新 loop-me Skill：拷问 27 轮后，它把你的日常工作变成了自动流程 | clippings \| harness \| skill | [打开原文](https://mp.weixin.qq.com/s/9iOh0gG0Vp_gXip3FP6Xwg) | 2026-07-03 |
+| Harness架构介绍与示例 | clippings \| harness \| agent-test | [打开原文](https://mp.weixin.qq.com/s/tIHtG8T3ufuFWiMi86-C1A) | 2026-07-03 |
+| AI可观测性-Trace-Cost-质量三合一 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/-sUrOQ4S_tgR0gXLTiiyZQ) | 2026-07-03 |
+| 从历史 bug 到回归场景：AI 测试真正该学会的事 | clippings \| AI-test \| case \| todo | [打开原文](https://mp.weixin.qq.com/s/yeGRYdmdXLLRCX30LE01eg) | 2026-07-02 |
+| 亲测实践！这款Skill提升90%的复杂测试报告编写效率 | clippings \| AI-test \| html \| report | [打开原文](https://mp.weixin.qq.com/s/5FrFZvaBzTWbnIzRFAjQFw) | 2026-07-02 |
+| Skill一键生成专业性能测试计划，7个Skill技能亲测好用，实现全链路压测落地（第二篇） | clippings \| AI-test \| skill \| case | [打开原文](https://mp.weixin.qq.com/s/4EGyBR704IAaCjC3D2djFQ) | 2026-07-02 |
+| OpenCode 160k star：把 coding agent 变成服务器进程 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/MN5gy2Jd0nKVoLvFJY6h6A) | 2026-07-02 |
+| Harness DeepAgent 实战：长任务 Agent 的任务编排、中间件设计与落地实践 | clippings \| agent-test \| deepagent | [打开原文](https://mp.weixin.qq.com/s/p1OcSslxOSOAW8180Bg-JA) | 2026-07-02 |
+| AI 测试用例审核 Skill：把用例评审从“凭经验”变成“可评分” | clippings \| AI-test \| case \| skill | [打开原文](https://mp.weixin.qq.com/s/O-BnqthPyQaMaKy_iKR0Ww) | 2026-07-02 |
+| 99%测试还在复制粘贴提bug 单？这个Skill 10 秒批量入库飞书表格 | clippings \| AI-test \| case \| skill | [打开原文](https://mp.weixin.qq.com/s/Upye5D8rdw7a46pYpAdBbA) | 2026-07-02 |
+| 配置即资产：团队的 Claude Code 配置，怎么管才不会烂 | clippings \| claude \| todo | [打开原文](https://mp.weixin.qq.com/s/0KnE-aGvFN_c9bzNTlCVfA) | 2026-07-01 |
+| 调教 AI ：我的 AGENTS.md 实战经验 | clippings \| agent-md | [打开原文](https://mp.weixin.qq.com/s/rQQpthm72v8leXn8cbgHaQ) | 2026-07-01 |
+| 规范驱动开发：用 OpenSpec + Harness 让 AI 精准执行 | clippings \| AI-test \| openspec \| todo | [打开原文](https://mp.weixin.qq.com/s/wuGaVL8hWUfZPuKjcaCA3Q) | 2026-07-01 |
+| 第一次提测，我希望研发至少把这5件事说清楚 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/eCxJ8ZWb-o3sMY6F3QI4iw) | 2026-07-01 |
+| 第14篇：AI 应用测试与评估 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/sqINVWhn0AX90PGFGGnXiw) | 2026-07-01 |
+| 我们团队的研发规范，现在是一个 Git 仓库 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/WLdeSD29mbRuqdHFyEUaWQ) | 2026-07-01 |
+| 大模型调用上下文查看器 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/3GjSKXDBcGabGD0lhxbK7g) | 2026-07-01 |
+| 基于 Mermaid 的画图 SKILL：让 AI 也能画出好看的图 | clippings \| skill \| mermaid | [打开原文](https://mp.weixin.qq.com/s/YPc7MeqoObVAQp9kWLcbQw) | 2026-07-01 |
+| 别再到处拷 Skill 了：一个私有仓库 + 软链，换机一行命令全恢复 | clippings \| skill \| todo | [打开原文](https://mp.weixin.qq.com/s/WNgEr4SCKPMXgS380O29sg) | 2026-07-01 |
+| GitHub狂揽16k+Star！这个开源神器让你的AI Agent秒变"网瘾少年"，一键解锁全网冲浪能力！ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/qbiHI2zJeluZyVSGYawkHw) | 2026-07-01 |
+| Claude Code｜CLAUDE.md 一次写好，告别"说三遍还写错"（2026 全解析 + 超全模板） | clippings \| claude \| md | [打开原文](https://mp.weixin.qq.com/s/fkJr9AVx0nmw22OzCs75SA) | 2026-07-01 |
+| AI Coding 实践中的一些感悟：脚手架、文档体系与测试 | clippings \| AI-test \| AI-code \| todo | [打开原文](https://mp.weixin.qq.com/s/nw436-eVV-ZW1ziMxEEY5w) | 2026-07-01 |
+| 鼎享会 \|用 Hermes + OpenCode 搭一套「开发 Agent」工作流 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/_OpT6IW4Xt51jIJoeijYWw) | 2026-06-30 |
+| 需求评审智能体，测试人员在需求评审中的核心关注要点 | clippings \| AI-test \| pm \| prd | [打开原文](https://mp.weixin.qq.com/s/i-k-D1BDlIJN5bBwgRXxrw) | 2026-06-30 |
+| 需求评审会上，测试怎么用 AI 提前发现坑？ | #clippings \| #AI-test \| #pm \| #prd \| Todo | [打开原文](https://mp.weixin.qq.com/s/npzBk10E38n8qIf85-5NcQ) | 2026-06-30 |
+| 需求评审会上，测试怎么用 AI 提前发现坑？ | clippings \| AI-test \| pm \| prd | [打开原文](https://mp.weixin.qq.com/s/npzBk10E38n8qIf85-5NcQ) | 2026-06-30 |
+| 需求评审0翻车：我靠AI预审，把PRD漏洞提前堵死了 | clippings \| skill \| pm \| prd | [打开原文](https://mp.weixin.qq.com/s/4JXgj_Lil8z95rCDR809Ww) | 2026-06-30 |
+| 阿里二面：说说LLM Agent 6大 plan 范式： CoT、ToT、GoT、ReAct、Plan-and-Execute、Reflexion？怎么做的选型？ 小伙伴懵了 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/3JxfsuAPADR5vMhex7vZkw) | 2026-06-30 |
+| 这款 Skill 是怎么把测试“左移”落地的？ | #clippings \| #AI-test \| #skill \| Todo | [打开原文](https://mp.weixin.qq.com/s/S6bjF42jqv_OlW_QaJ6vVw) | 2026-06-30 |
+| 近2万star的开源实时系统监控工具btop：高颜值、支持Linux和Mac，用了就再也回不去了！ | clippings \| mac | [打开原文](https://mp.weixin.qq.com/s/QQIgyEOODZeVLKihTIYxgA) | 2026-06-30 |
+| 软件测试5月月度观察 \| Gartner预测2028年AI测试占 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/z3L17wFr-ZIUhj7--wk8Bw) | 2026-06-30 |
+| 调度即查询：路由与意图分类漏斗 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/ANzGkjOItSRD1JP-Q4K9hA) | 2026-06-30 |
+| 评测不是打分，而是 AI 应用的回归系统 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/spZbX71vqxMmWvPWSEoLxA) | 2026-06-30 |
+| 讲透需求评审Skill（5）：AI 评审需求的定位，以及结论出来后你该做什么 | clippings \| AI-test \| pm \| prd \| skill | [打开原文](https://mp.weixin.qq.com/s/AX6ofOph9uml8mvWL94IPg) | 2026-06-30 |
+| 让 AI 编程助手少用 99% 的 token，照样摸透你的代码库：codebase-memory-mcp 拆解 | clippings \| AI-code \| token | [打开原文](https://mp.weixin.qq.com/s/G3wqsI88UcfNdClrLUiVYg) | 2026-06-30 |
+| 螺丝刀换成了电钻，你还在拧螺丝吗？——AI时代测试范式变革解读 | clippings \| AI-test \| code-review | [打开原文](https://mp.weixin.qq.com/s/kzhhmYkNkzOXjj-sHBwCVw) | 2026-06-30 |
+| 腾讯二面被问：如何设计 Skill 来降低 Token 消耗？我说"渐进式加载"。面试官：就这一个？还有呢？我当场卡壳了。 | clippings \| skill \| token | [打开原文](https://mp.weixin.qq.com/s/qisdtJKObmrNS2n67jRbGg) | 2026-06-30 |
+| 真实团队从 0 落地 AGENTS.md 完整复盘：一份被 Codex 当空气的文件，是怎么救活 8 人后端组的 | clippings \| codex \| agent.md | [打开原文](https://mp.weixin.qq.com/s/WUTzjSl0QqeJgDr6WP20qg) | 2026-06-30 |
+| 用例评审智能体：分离覆盖度与质量评审，让AI评审更专业 | clippings \| AI-test \| pm \| prd \| skill | [打开原文](https://mp.weixin.qq.com/s/UvS0TuLkrdK0_c0x6ZvcLQ) | 2026-06-30 |
+| 测试质量进阶｜前沿趋势融合(4)测试左移与右移：全生命周期质量保障体系搭建 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/j9m2GmQEnXaMmvBciMV1NA) | 2026-06-30 |
+| 测试左移的关键一步：用 AI Skill 自动化需求审查，把 Bug 扼杀在摇篮里 | clippings \| AI-test \| pm \| prd | [打开原文](https://mp.weixin.qq.com/s/v49hf8TjnwGbcQ_0NCXC7w) | 2026-06-30 |
+| 测试左移的"终极形态"：当 AI 成为需求澄清阶段的"无情杠精 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/3DBmgsErs5uMOtfEMfuqNw) | 2026-06-30 |
+| 测试人最头疼的"需求没说清"，我让AI 90秒搞定了 | clippings \| AI-test \| pm \| prd | [打开原文](https://mp.weixin.qq.com/s/72ifxfvISk7mmhzf1Drlhg) | 2026-06-30 |
+| 架构图别只会 draw.io：试试 Archify | clippings \| mermaid \| github | [打开原文](https://mp.weixin.qq.com/s/m4ngE44MCgEZ2Qm0cEd7yw) | 2026-06-30 |
+| 本地跑大模型，这个工具终于靠谱了。 | clippings \| model | [打开原文](https://mp.weixin.qq.com/s/eZQC-ggs-AYvgRFM-YL8IA) | 2026-06-30 |
+| 有人把 5.7 万星 OpenSpec 和 24 万星 Superpowers 融合成一个工作流在 Github 开源...... | clippings \| github \| openspec | [打开原文](https://mp.weixin.qq.com/s/FpaEpKeP1hpz9B-tHEDfOA) | 2026-06-30 |
+| 更可靠的主播助理：淘宝主播Agent的Harness工程实战 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/Mv5U5kr_viixmB0JJronPA) | 2026-06-30 |
+| 智能体开发实战 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzkzOTI5NjU1OA==&scene=1&album_id=4522488915869581314&count=3#wechat_redirect) | 2026-06-30 |
+| 智能体实战03\|上下文工程：吃透 Context，Agent 花费立省 80% | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/tLrChtHYHHmE5IZWByAqRA) | 2026-06-30 |
+| 效率翻倍，Token减半：让OpenClaw学习后再做测试用例设计 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/SvWXUy7xaJL7JCyKAIyX9w) | 2026-06-30 |
+| 把 OpenSpec+Superpowers 做成 Agent Skill，Comet 一条命令跑通全流程 | clippings \| AI-code \| openspec \| github | [打开原文](https://mp.weixin.qq.com/s/Pl9gco7jXXKa7whi0vCuZw) | 2026-06-30 |
+| 扒了69个需求评审Skill，我发现需求评审还可以这么做 | clippings \| skill \| prd \| pm | [打开原文](https://mp.weixin.qq.com/s/BgdOyaHSB6uig44EVz06pg) | 2026-06-30 |
+| 我把 AI 补单测的实践，沉淀成了一个可以复用的 Skill | clippings \| AI-test \| skill \| todo \| code-review | [打开原文](https://mp.weixin.qq.com/s/G_35I0ImDrnWbtCdkwWtqQ) | 2026-06-30 |
+| 我怎么把上线前检查整理成一个交付 Skill | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/nH50KWP6n8sNvLM5QTk1_A) | 2026-06-30 |
+| 意图识别的五种设计：从关键词到 Classifier 到 LLM 自路由，这张决策树帮你一次选对 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/5fp-l45UEzwrswgs_UnWUA) | 2026-06-30 |
+| 想玩Loop Engineering，可以先从这6个Hook玩法开始。 | clippings \| loop \| harness | [打开原文](https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw) | 2026-06-30 |
+| 怎么做好AI评测，并不简单！！ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/NM6viFgkLG2Xd7BG0yVyRw) | 2026-06-30 |
+| 微软开源FastContext：4B 小模型专管找代码，Coding Agent Token 直降60%、修复率升5.5% | clippings \| AI-test \| AI-tool \| model | [打开原文](https://mp.weixin.qq.com/s/WXlr_M2YzRto45Y7bE52Qw) | 2026-06-30 |
+| 微信文章一键存入Obsidian，就用这款免费的同步助手小程序 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/Uo9OjDkhAFDC7odIjwUiMg) | 2026-06-30 |
+| 引入 AI 半年，13 人测试团队什么都没沉淀下来 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/uHFHnDzJkThg60r1sFsiFQ) | 2026-06-30 |
+| 对于 Token 这件事，大厂的态度集体变了！ | clippings \| token | [打开原文](https://mp.weixin.qq.com/s/SPwzWKY4g1zKOgeDl0mCCA) | 2026-06-30 |
+| 对AI Agent进行测试光测试左移是远远不够的，还需要加围栏。 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/uSW-jgytlckzZUbrP_SjDA) | 2026-06-30 |
+| 大模型下测试方案改进探讨 | clippings \| agent-test \| todo | [打开原文](https://mp.weixin.qq.com/s/bImBQ82D0e-P7YXxBB_lOw) | 2026-06-30 |
+| 基于需求描述的测试生成智能体IntentionTest：从需求可描述到需求可执行 | clippings \| AI-test \| case | [打开原文](https://mp.weixin.qq.com/s/wPnwSHpD5YL4dwBVZ43GCw) | 2026-06-30 |
+| 告别“面条式”脚本！当移动端测试利器 Maestro 遇上 Page Object Model | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/VxGGGHqT7xv7Pw9W1bw_dw) | 2026-06-30 |
+| 后端开发，我反复在用的3个skill | clippings \| AI-code \| skill | [打开原文](https://mp.weixin.qq.com/s/Z2B05xYnS3gJq2EbIjVz1w) | 2026-06-30 |
+| 功能测试全流程大模型(LLM)提效方案 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/Q1V-L0eeftMIbWbfLR6xBg) | 2026-06-30 |
+| 刚刚，全网爆火的Loop Engineering，保姆教程来了！ | clippings \| harness \| loop | [打开原文](https://mp.weixin.qq.com/s/uIWs8NJodx-zuZEpwHNfBA) | 2026-06-30 |
+| 分享神级 skills：fireworks-tech-graph 专门用于各类架构图生成 | clippings \| skill \| mermaid | [打开原文](https://mp.weixin.qq.com/s/DZSX7_dG_bpzG7TRh5FpNA) | 2026-06-30 |
+| 分享2个Vibe Coding必备的超实用Prompt。 | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ) | 2026-06-30 |
+| 写给程序员的 AGENTS.md：让 AI 编程助手效率翻倍 | clippings \| agents.md \| AI-code | [打开原文](https://mp.weixin.qq.com/s/jYyw-oKYRooshLy6SOuEDA) | 2026-06-30 |
+| 企业级 Agent 端到端开发指南：从立项到上线，每一步该怎么走 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/AVwy2XRWLnm4HoPPL0EPzA) | 2026-06-30 |
+| 从功能测试到 AI 智能体评测，完整可落地实战手册 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/ARYhDp82xK4jSZvKqNZe1g) | 2026-06-30 |
+| 仅4MB大小，Mac秒开iOS/Android模拟器！ | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/jv2OHebaqvUJhcEjp1nTKw) | 2026-06-30 |
+| 仅 7MB 就把 VS Code 和 Cursor 的事儿全干了？这个 Tauri 项目凭什么这么狂 | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/smQJnTTCdMFfl8vOEJH9Ng) | 2026-06-30 |
+| 产研团队 Skill 搭建指南：从单兵提效到团队协同 | clippings \| AI-test \| pm \| prd \| skill | [打开原文](https://mp.weixin.qq.com/s/yi3SmG_ii97kQTgasY5uvw) | 2026-06-30 |
+| 专治App自动化痛点！从零打造移动端App自动化Skill，告别臃肿Appium脚本 | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/wwNtdXAjBmScvDKlW95_3g) | 2026-06-30 |
+| 不想再订阅 CleanMyMac？这个Mac清理工具免费、无订阅、无遥测 | clippings \| mac | [打开原文](https://mp.weixin.qq.com/s/t6B9OydeFccO_mtXEc6r_w) | 2026-06-30 |
+| 上篇大模型 Agent 意图识别架构设计：别再让 LLM 直接判断用户想干什么了 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/Il1Q_bs7J7xLPjGWTRTgUw) | 2026-06-30 |
+| 【AI测试 05 】\| AI 辅助自动化测试工程师：需求评审时不知道问什么？采用 AI 需求分析Skill | clippings \| AI-test \| pm \| prd \| skill | [打开原文](https://mp.weixin.qq.com/s/HUNbvPZWUBlLkaYfxQAWFw) | 2026-06-30 |
+| 【AI Agent 复杂任务调度】04 轻量级异步任务框架：状态机 + 回调链 + SSE 推送的协同设计 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/AhTAeCC0JwZ9vSrVM89VnA) | 2026-06-30 |
+| VibeLife｜一个HTML文件，把项目周报变成可编辑的高级海报（附提示词） | clippings \| skill \| html | [打开原文](https://mp.weixin.qq.com/s/Zt5cIhPB-gWrdl_R1pfsvQ) | 2026-06-30 |
+| Skill实用工具-绘图baoyu-diagram | clippings \| skill \| mermaid | [打开原文](https://mp.weixin.qq.com/s/GAYKNf-e3hNI2U1lc11skQ) | 2026-06-30 |
+| Skill Review 标准：AI 测试能力上线前，应该先审什么 | clippings \| AI-test \| code-review \| skill | [打开原文](https://mp.weixin.qq.com/s/DEPzbdQADtG5w_rQ0rXzgw) | 2026-06-30 |
+| ReAct、Plan-and-Execute、Reflection、Multi-Agent 分别适合什么场景? | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/XeNEa0sZkUTBMhM0wzCy3A) | 2026-06-30 |
+| PRD写了三天开发说看不懂？让AI当你的需求质检员 | clippings \| AI-test \| pm \| prd | [打开原文](https://mp.weixin.qq.com/s/slwOwxkRs-Yp01ik4F0Cdw) | 2026-06-30 |
+| OpenFlow 深度解析：把 OpenSpec 和 Superpowers 串成流水线 | clippings \| AI-code \| openspec \| github | [打开原文](https://mp.weixin.qq.com/s/cDcKtRU9JDfXyTchQWxQow) | 2026-06-30 |
+| Markdown Viewer：让 AI 写文档时，顺手把图也画了 | clippings \| github \| md | [打开原文](https://mp.weixin.qq.com/s/gdIO1bWwjWUAceWcaovx9A) | 2026-06-30 |
+| Mac Monitor：一款为macOS安全研究量身定制的高级独立系统监控工具 | clippings \| mac | [打开原文](https://mp.weixin.qq.com/s/pO3e_sdELNuD8Oox_L-p2Q) | 2026-06-30 |
+| Linux性能监控nmon工具详解与使用 | clippings \| linux | [打开原文](https://mp.weixin.qq.com/s/tSSJUmYClE3eLqjKU1xOpw) | 2026-06-30 |
+| Langfuse 实战：部署、埋点、评估，跑通 LLM 可观测全流程 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/3bIA0cjCfqimzGq9Aspumw) | 2026-06-30 |
+| LLM-as-a-Judge 实战：别让大模型直接打分 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/vr6JdRETiUunLkP2p42qeQ) | 2026-06-30 |
+| Codex+image2 自动给文章配专业插画，文章更好看 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/QKbueispw0XXjxswDLNPKQ) | 2026-06-30 |
+| Codex 一键省 Token 大法，亲测有效 | clippings \| codex \| token | [打开原文](https://mp.weixin.qq.com/s/xniCCcsU2u3kjCD2r1Pzeg) | 2026-06-30 |
+| Android 本地 AI Agent，能点 App 能改设置，开源 1.5k | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/NGtej_4_3teJwKKHQKa7ZQ) | 2026-06-30 |
+| Agent开发实战02 \| Harness 工程入门：给你的 Agent 装上『操作系统』 | clippings \| agent-test \| harness | [打开原文](https://mp.weixin.qq.com/s/HNVjv7E4hDTPQSwINQsoAg) | 2026-06-30 |
+| AI 测试赋能全流程实战 ｜ Agent Skill + AI 赋能「需求分析」！ | clippings \| agent-test \| skill | [打开原文](https://mp.weixin.qq.com/s/Abn5v-ucDrAk9LgfZ1HHXg) | 2026-06-30 |
+| AI 把开发变快了，但测试正在被甩下车 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/n-RIVmWFrDQr2Qr0sPwRqQ) | 2026-06-30 |
+| AI Coding与单元测试的协同进化：从验证到驱动 | clippings \| AI-test \| code-review \| todo | [打开原文](https://mp.weixin.qq.com/s/vqqw60fwEfI3pjBgUc4QUg) | 2026-06-30 |
+| AI Coding 度量：提效到底怎么量化？ | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/dTsO_WtZ0X6t3MWs31MG1A) | 2026-06-30 |
+| AI Agent 测试别再靠“手工跑流程”：先把工具调用链变成可审计回归 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/oYB40WcQwquqVGWwpEBEiw) | 2026-06-30 |
+| AI Agent 开发究竟是啥？如何用 AI 开发 Agent ？深入浅出给你一套概念 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/WdwED8FWTBh2QLppHF_dzg) | 2026-06-30 |
+| AI Agent Skill 从入门到精通：手把手带你搞懂定义、结构、调用链路与底层原理 | clippings \| agent-test \| skill | [打开原文](https://mp.weixin.qq.com/s/mkiQ64sfwPX41vpNNl1bEw) | 2026-06-30 |
+| 3.2k Star！Code Agent神器开源，Hermes/Claude Code花了多少Token一眼看清 | clippings \| token \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/p6A58WpJOvbqrDecSJKG9A) | 2026-06-30 |
+| 2026年AI测试革命：五大工具深度解析与自动化测试新范式 | clippings \| AI-test \| todo | [打开原文](https://mp.weixin.qq.com/s/yZWzFtZQ6zZfqnMcqrTHhA) | 2026-06-30 |
+| 2.4w Star，程序员都在偷偷用的画图神器！ | clippings \| skill \| mermaid \| github | [打开原文](https://mp.weixin.qq.com/s/CILoZdndvvv50vwgE2oOjg) | 2026-06-30 |
+| 09｜Agent评测体系：别再凭感觉了 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/fQB8NLnJY-zZ6r43C883tQ) | 2026-06-30 |
+| 05\|Agent 记忆系统：从「转头就忘」到「过目不忘」 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/UWu_u3Mrh9g8-80tfXpE2Q) | 2026-06-30 |
+| 别再手动复制 Skill 了：多 Agent 时代的 Skill 管理方案 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/AwlzoIu4fFcZHxMQYqfeLA) | 2026-06-26 |
+| 刚刚，全网爆火的Loop Engineering，保姆教程来了！ | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/uIWs8NJodx-zuZEpwHNfBA) | 2026-06-26 |
+| AI Agent测试全攻略：决策链、工具调用、反思机制全维度评测 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/6nAxsvg9411xzgYh_Ocg8g) | 2026-06-26 |
+| agent-insight/README.md-代码预览-agent-insight:基于 Agent 生态的 Skill 生成优化与评估平台项目 - AtomGit | clippings \| agent-test | [打开原文](https://atomgit.com/openeuler/agent-insight/blob/master/README.md) | 2026-06-25 |
+| 近4.5万Star！比普通AI少写54%代码，这个项目让AI终于学会「偷懒」了 | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/sJ9E1sUZbewE3T-9_kO2yA) | 2026-06-24 |
+| 近 1900 Star，不用电脑也能跑 ADB，手机调试设备一站搞定 | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/n2QHEVz_yvKhzgtObn8j_g) | 2026-06-24 |
+| 评估框架怎么选：DeepEval、RAGAS、Braintrust 横向对比 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/tVbCrbpivv0Pt7VEOnJ_2A) | 2026-06-24 |
+| 让Skill自己训练自己：8阶段Loop、3层评测、5维AND门控，从此实现自进化 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/hQ4gSLparr-GvDjvr0NLjA) | 2026-06-24 |
+| 白话给团队讲明白：Loop、Harness、Agent、World Model Engineering。 | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/tPRW9cqTYS1zM266U9J_Fg) | 2026-06-24 |
+| 画图告别拖拽！drawio-skill一句话生成专业图表 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/ToIwLPVK3XTBsHeN0LHKKA) | 2026-06-24 |
+| 用 AI 替代人工写测试用例？AITestCraft 开源了 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/NwLyX1uragOkeq-ITRUF_g) | 2026-06-24 |
+| 智能体测评集生成及评估实践和探索（一） | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/qe1eJZ98DPfZQbHOVcMJQA) | 2026-06-24 |
+| 搭建个人知识库，分享一个我原创的 Skills | clippings \| llm-wiki \| skill | [打开原文](https://mp.weixin.qq.com/s/U1nICI87xfBZ86Bh_Dj5kw) | 2026-06-24 |
+| 我烧了 230 多亿 Token，"重写"了 Langfuse | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/F8xRhLPmXB7ke_1ju0UloQ) | 2026-06-24 |
+| 我怎么把需求分析流程整理成一个可复用 Skill | clippings \| AI-test \| pm | [打开原文](https://mp.weixin.qq.com/s/f-ffqVCjQDrMmFOP1b1CyQ) | 2026-06-24 |
+| 我开源了一个九步需求分析框架skill | clippings \| skill \| pm | [打开原文](https://mp.weixin.qq.com/s/9um16ki1rOCgBddOdnKQVw) | 2026-06-24 |
+| 我写了个服务器巡检 Skill，从 一个小时压到 6 分钟 | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/GDzmUEytkqraJBY8mBu_Xw) | 2026-06-24 |
+| 工程化 AI 编程流程：从会回答到能交付：规约、Skill、验证、可观测和多 Agent 接力 | clippings \| agent-test \| codex \| claude | [打开原文](https://mp.weixin.qq.com/s/YJVmckirTzgUZ3p9BW4Ccg) | 2026-06-24 |
+| 如何评估一个 Agent 的质量：三种方法，哪个适合你的场景 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/v59gumSTmUJe_scCZe2TIA) | 2026-06-24 |
+| 如何为你的 Skills 构建自我改进循环 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/nMLDamB1Esj5UoGQQ68LKQ) | 2026-06-24 |
+| 可观测性实战：用 Langfuse 看清一次工具调用 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/X8qnxsg3C_v0G3QhcVXz0w) | 2026-06-24 |
+| 别再只改 Prompt 了：让你的 AI Skill 越用越聪明 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/8If7b5HzshN0lC8kiaXi6A) | 2026-06-24 |
+| 再见RAG！AI知识库还得是SAG，又快又准～ | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/lSjeOxFs7NAJ0NIOsqDW8Q) | 2026-06-24 |
+| 产品体验｜Headroom：给AI Agent配省Token神器 | clippings \| github | [打开原文](https://mp.weixin.qq.com/s/nDmNvkDmrEteVnh6PsZIrQ) | 2026-06-24 |
+| 万字长文\|从架构图到万物可视化：一套 AI 驱动的通用方法论是怎么诞生的 | clippings \| skill \| mermaid | [打开原文](https://mp.weixin.qq.com/s/5Vq_jTqnwQbg2bEF14ByKg) | 2026-06-24 |
+| 一张图讲清楚：Langfuse观测 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/EMMPZdzHa7tcPXuDcNg-ZQ) | 2026-06-24 |
+| 一份让 Codex 不再"自由发挥"的 AGENTS.md：2026 最全最佳实践 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/IK9fbqsbs1rN28V91M2S-g) | 2026-06-24 |
+| harness-pilot 给代码库加一套"规则说明书"和"自动检查器 | clippings \| harness \| agent-test | [打开原文](https://mp.weixin.qq.com/s/oy8xzG363P73jTM57yzJTQ) | 2026-06-24 |
+| Trinity：把 AI Agent 真的扔进生产环境，一条命令部署 | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/9dhucCwbUOQjKsnfCZ27_w) | 2026-06-24 |
+| Skills进阶：多文件组织+参数化 \|Skills +MCP实战系列02 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/gG2qC3679YwFAhlY46epqQ) | 2026-06-24 |
+| Skills+MCP03｜CLI封装：把Skill变成真正的工具 | clippings \| skill \| CLI | [打开原文](https://mp.weixin.qq.com/s/V5jKkgU5B4bp4gGOwtmGwQ) | 2026-06-24 |
+| Skill 实战指南：将真实高频工作流封装成 Skill | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/BH4GXCteZTzywfeD5nSeBA) | 2026-06-24 |
+| OpenCode 如何识图？答案就在你装过的插件里 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/B5haEOEXTei_SydxyVSzUA) | 2026-06-24 |
+| MarkdownEditing：一个专门为 Sublime Text 量身定做的开源Markdown编辑插件 | clippings \| github \| md | [打开原文](https://mp.weixin.qq.com/s/9Vv4VKfNCvW3GbkEvY8G8Q) | 2026-06-24 |
+| Langfuse部署实战：搭建 Agent 可观测平台 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/bcn1GhJ3M3HnE2rDvcZ_qQ) | 2026-06-24 |
+| LLM Agent 怎么测评：IBM+Yale 评测综述与 2026 三条新范式 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/suXF7FpWX_umYSWJIBiUoQ) | 2026-06-24 |
+| Harness工程还没唱罢，Environment工程已然登场 | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/WaH2ouRp9VZ-EkV4ImJCEg) | 2026-06-24 |
+| Event-Driven Agent 实战：Prometheus 告警 → LLM → Tool Calling → 自动恢复 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/SGjgggA3O8GNPZYtoB1Q8g) | 2026-06-24 |
+| Agent实战14｜Agent可观测性：追踪每个AI决策 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/THZoWAepQ65j7XTDZMrNtw) | 2026-06-24 |
+| Agent 评估：你怎么知道它到底靠不靠谱？ | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/WiNGFfFXmP5n8OZBC5II6w) | 2026-06-24 |
+| Agent 系列 - 实战篇 08-封装成服务：别人也能用你的 Agent | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/0qTphy-9K14CMnQTwo4iIQ) | 2026-06-24 |
+| Agent 测试：从全栈认知到统一沙盒，构建真正的智能体测试体系 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/C_buYRuOPiuwHKyXohP3UA) | 2026-06-24 |
+| AI可观测性：Prompt、Tool Call、Trace、Token全链路追踪 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/ybukOAq7Zbk-bjoZrGYDrw) | 2026-06-24 |
+| AI 应用评测，到底该测什么（三） | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/QRGGkA0MN69DczMhpgwpkg) | 2026-06-24 |
+| 6700字Skills完全指南，看完你也能写出优秀的Skills | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/5S4n6csq0EG_FaxEM7872g) | 2026-06-24 |
+| 4.4 万 Star！这个开源项目，让 AI Agent 少读 90% 的"废话 | clippings \| AI-tool \| token \| github | [打开原文](https://mp.weixin.qq.com/s/kJC4DgamSFj6E32RGT3mUA) | 2026-06-24 |
+| /ultrareview 实战：多 Agent 并行 Code Review，直接接进 CI | clippings \| AI-test \| code-review | [打开原文](https://mp.weixin.qq.com/s/SQinQFHo6wZ05aTHUbqXWA) | 2026-06-24 |
+| 智能体驱动性能测试平台2.0 | clippings \| AI-test \| 性能 | [打开原文](https://mp.weixin.qq.com/s/mIZW6yY38IKDrrRHfaXf4A) | 2026-06-23 |
+| 性能测试从0到1：用 Locust 做接口压测 | clippings \| AI-test \| 性能 | [打开原文](https://mp.weixin.qq.com/s/s5z8zDB_ORYeS9NqQdEDPg) | 2026-06-23 |
+| 性能分析智能体：从“靠猜”到“智能诊断”，让性能优化真正有章可循 | clippings \| AI-test \| 性能 | [打开原文](https://mp.weixin.qq.com/s/ZM90EDINIGuGYcXhZYK-mg) | 2026-06-23 |
+| 什么项目最适合这个 Skill？8 个典型场景一次说清 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/dg1y-0B9VpQ5b8wKtZYMng) | 2026-06-23 |
+| 一个Skill从JMeter结果自动深挖全链路性能瓶颈，7大性能测试 Skill(第六篇) | clippings \| AI-test \| 性能 | [打开原文](https://mp.weixin.qq.com/s/tOT3NYoVFNF59Pif9y7nAA) | 2026-06-23 |
+| AI提效：编写性能测试的skills实战 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/eWHwkRvKrdKfHmSDAKN1Ow) | 2026-06-23 |
+| AI Agent & Skill 测评方案及落地实践 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/PUbGqheJhFMmb6hGj1ZtOw) | 2026-06-23 |
+| 支付宝购买美区Apple礼品卡 | clippings | [打开原文](https://mp.weixin.qq.com/s/L-LR_JrTqGVTfcz5iY3jKw) | 2026-06-22 |
+| 终于有桌面版了！5.3k Star，Claude/Codex/Cursor一个窗口全搞定 | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/zjTZCMlPjWT5Kj2fayC1cA) | 2026-06-19 |
+| stablyai/orca: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. | clippings \| github \| AI-tool | [打开原文](https://github.com/stablyai/orca/blob/main/docs/readme/README.zh-CN.md) | 2026-06-19 |
+| AI 提效：编写性能测试的 skills 实战 · 测试之家 | clippings \| AI-test \| skill | [打开原文](https://testerhome.com/articles/43844) | 2026-06-19 |
+| （手把手教程）别再手动整理Obsidian了！Loop Engineering我替你试过了 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/RgW8Qusi41HRCcvp-TmuHg) | 2026-06-18 |
+| 用 skill 一键生成性能测试分析报告：Performance Test Report Skill 详解（附md文件） | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/qx60ZSyqXMonqmp9Bz4mug) | 2026-06-18 |
+| 没有海外信用卡，怎么订阅 Claude | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/hbKpUkzj6NG9fP9PG11Rpw) | 2026-06-18 |
+| 推荐一个牛逼的智能代码审查系统 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/jVQtYMkVGdHIQl7RqCVuOg) | 2026-06-18 |
+| 我对比了5个AI代码审查工具，这个免费的最香 | clippings \| AI-test \| code-review | [打开原文](https://mp.weixin.qq.com/s/0uC75dyKNN4QBB-GMzaNFQ) | 2026-06-18 |
+| 国行Apple Watch 高血压检测开通（无尾插版） | clippings \| tool | [打开原文](https://www.xiaohongshu.com/explore/68dcd0f60000000003036b60?app_platform=ios&app_version=9.7.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBr-PpAj5VMS-w4v_NnOk5UEG33NhEyuWgsHr8lB-UOA0=&author_share=1&xhsshare=WeixinSession&shareRedId=N0dIMzQ5PD5LP0ZFO0o1Pz07TztHST1O&apptime=1781694318&share_id=2ce259f50d9c4531b70e8fa180df4ed0) | 2026-06-18 |
+| 别再用 Codex 默认配置了！彻底激发 Codex 的巨大潜能 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/zLXxbRFjnvsIiBI85P7KIw) | 2026-06-18 |
+| 什么项目最适合这个 Skill？8 个典型场景一次说清 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/dg1y-0B9VpQ5b8wKtZYMng) | 2026-06-18 |
+| 三端统一：Android / iOS / HarmonyOS 设备抽象层的设计与实现 | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/D5HKYGKqDxzd0yfVEybaCg) | 2026-06-18 |
+| 【AI应用ABC】轻松搞定大语言模型推理性能测试-locust篇 | clippings \| AI-test \| locust | [打开原文](https://mp.weixin.qq.com/s/mnhI2Z_TTH4UV2v7iCqbTg) | 2026-06-18 |
+| agent评测变天了 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/1jJi4QKk2JNhJbJ-fWHMEw) | 2026-06-18 |
+| OpenAI、Claude 都在补 Evals/Trace：上线后，错了要能追到 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/zsFO0PuFmXp1AhlWraPc7Q) | 2026-06-18 |
+| Hermes+Bridge自动操控手机 | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/oKF0zSWr3dqykvVAKKu2rA) | 2026-06-18 |
+| AutoPilot：UI Agent 的记忆与缓存：别让模型每次都重新看一遍 | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/nmDjwGuGFFSjoTDYOVt0jg) | 2026-06-18 |
+| AI评测：从基准测试到真实场景的系统方法 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/svIG89QZr_AFY2oNp4x5eA) | 2026-06-18 |
+| AI提效：编写性能测试的skills实战 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/uXHW1hTTaRoxkALYLUn13A) | 2026-06-18 |
+| AI提效，本质上是工程问题，而不是技术问题 | clippings \| AI-test \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/GYAZBoOSsAJGSUwp-67mgg) | 2026-06-18 |
+| AI下半场，小团队不拼大模型，拼自己的反馈飞轮 | clippings \| AI-test \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/tZeQlhELTkzfVuo5Z-r2_g) | 2026-06-18 |
+| AI 终于能看见 iOS 模拟器了！serve-sim 让 Cursor/Claude 直接操控模拟器 | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/VOoxdZ2xnrsUVcuzPjbnmA) | 2026-06-18 |
+| AI Agent & Skill 测评方案及落地实践 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/PUbGqheJhFMmb6hGj1ZtOw) | 2026-06-18 |
+| 2026 最新亲测：大陆账号转土耳其区 Apple ID，80元订阅ChatGPT | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/OaiTlxRkpguqpkqREYOWMg) | 2026-06-18 |
+| 谷歌发布开源开放知识库规范(OKF) | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/V0t8MAomUuZv5Gnh1rq2Lg) | 2026-06-16 |
+| 把 AI 生成的 HTML 当 Markdown 来管：Web-Doc 自托管文档站实践 | clippings \| github | [打开原文](https://mp.weixin.qq.com/s/BCCHIM4bMEQAmo8YuWRU7A) | 2026-06-16 |
+| 我做了一个Skill，专门用来对付那些说不清楚的需求 | clippings \| pm \| skill | [打开原文](https://mp.weixin.qq.com/s/enNr7lWjcjoSaZ96-LQP2w) | 2026-06-16 |
+| 如果要自己做一套 AI 编程度量，我会先从 Hook 开始 | clippings \| codex \| hook | [打开原文](https://mp.weixin.qq.com/s/RIui8jHaaKe0GCo5GoBaFQ) | 2026-06-16 |
+| 内部AI提效终极方案：用历史用例反推提示词，搭配CoSTART模型实现可落地、可校验、省Token | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/OQE1ADiZDKsiGhCjpTLD9w) | 2026-06-16 |
+| 人的认知水平主要受什么影响? | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/F_ket_VundzvJHk_W63ygQ) | 2026-06-16 |
+| Prompt该退环境了，未来属于Loop Engineering。 | clippings \| skill \| loop | [打开原文](https://mp.weixin.qq.com/s/omwt7d9BSFX7kotW9vo9bQ) | 2026-06-16 |
+| Prompt → Context → Harness → Loop：AI 工程师的能力跃迁路线图 | clippings \| harness \| loop | [打开原文](https://mp.weixin.qq.com/s/GzAuLaH_dREUmPrT9XK1Rg) | 2026-06-16 |
+| OpenCode插件系列: opencode-commandcode-provider | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/JR68IOIzQdYbLMuooaVoVg) | 2026-06-16 |
+| KKKKhazix/khazix-skills: 数字生命卡兹克开源的 AI Skills 合集 | clippings \| github \| skill | [打开原文](https://github.com/KKKKhazix/khazix-skills) | 2026-06-16 |
+| Codex Hooks 使用教程：让 Codex 在关键节点自动执行脚本 | clippings \| codex \| hook | [打开原文](https://mp.weixin.qq.com/s/1piv7ylEwd_DwDtncXwUZA) | 2026-06-16 |
+| Agent + Skill：LaVague 下一代的自动化范式 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/fw7lTy6Tj348Jg8eVVIThg) | 2026-06-16 |
+| AI研发提效实战：AI代码评审+自动化单测门禁落地CI/CD，打造研发效能隐形助手 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/zRlcw1qVzIMq590fvotDPQ) | 2026-06-16 |
+| AI 时代的自动化测试解决方案 | clippings \| AI-test \| UI | [打开原文](https://www.munk.sh/zh) | 2026-06-16 |
+| AI Agent 的架构设计与工程落地 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/JBE5n9O47Kr7_UzUOvCVdQ) | 2026-06-16 |
+| 项目管理系统自研之路 | clippings \| pm | [打开原文](https://mp.weixin.qq.com/s/rBtVQAZjiUGcpVkSuHXdmQ) | 2026-06-10 |
+| 调试 AI 编程助手的新方式：把 prompt、工具调用和 token 用量全部可视化 | clippings \| token \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/cy7ixmUNw4pm_ntVMRgXaw) | 2026-06-10 |
+| 用 Skills 自动生成测试用例：一套可落地方案 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/YUagzEBspw_dtNr4GBgt5w) | 2026-06-10 |
+| 手把手教你用 AI 做代码审计：这款开源工具直接颠覆传统安全测试 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/y3snMFacPNGWUh5s_4unLQ) | 2026-06-10 |
+| 我开源了大幅优化后的 Karpathy AI 知识库技能体系，让普通人用的更舒心 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/37bqHsr1297S1t79QJm7WQ) | 2026-06-10 |
+| 快速构建“自进化”测试技能：AI Agent遇到失败自动改写Skill并入库 | clippings \| agent-test \| skill | [打开原文](https://mp.weixin.qq.com/s/-WeU1RrJbraRpMfEA1sHWQ) | 2026-06-10 |
+| 开源一周狂揽 6w+ Star，这个 AI 工作台6啊~ | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/qbkN7exMp8048OpxzOupBQ) | 2026-06-10 |
+| 大型项目还得是GSD，比OpenSpec和Superpowers好在哪里 | clippings \| openspec \| gsd | [打开原文](https://mp.weixin.qq.com/s/sJ6eLDRNI-SjxhwQjLAMXg) | 2026-06-10 |
+| 不花钱同步 Obsidian：电脑和手机这样配置就够了 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/sX77a_VFRPDFwAimkVQcuw) | 2026-06-10 |
+| 一文搞懂Loop 工程、Harness 工程、FDE——Agentic Engineering 的三个层次 | clippings \| loop \| harness | [打开原文](https://mp.weixin.qq.com/s/qf_OPKf5EFoSh9OYboffvg) | 2026-06-10 |
+| Obsidian Wiki知识库+AI 应用实操：一套系统搞定知识沉淀、选题、内容生成全流程 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/_CnWRtPI-Y6pKGV3ON_eVg) | 2026-06-10 |
+| Harness 刚搞懂，Loop Engineering又要火了 | clippings \| harness \| loop | [打开原文](https://mp.weixin.qq.com/s/qCbyqmrMQ_P-uM1RzfO6gw) | 2026-06-10 |
+| Harness Engineering：长程自动化 AI Coding / Skills 开发实践 | clippings \| harness \| agent-test | [打开原文](https://mp.weixin.qq.com/s/mSjb20PDsfiK88C9AQB7og) | 2026-06-10 |
+| CopilotKit：开源全栈 Agent 开发框架 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/Fvh44Pv1yrDPmcByJtm0sw) | 2026-06-10 |
+| Claude Code 代码审查实战：我是如何把代码质量问题消灭在 PR 阶段的 | clippings \| claude \| AI-test | [打开原文](https://mp.weixin.qq.com/s/iW4HDnuC4DqL-zac1SQjDQ) | 2026-06-10 |
+| CLAUDE.md 从 200 行砍到 60 行，AI 反而更听话了——规则不是越多越有效 | clippings \| claude | [打开原文](https://mp.weixin.qq.com/s/VajCEAW20ifNBACOEldiDw) | 2026-06-10 |
+| Agentic Engineering 实战：把计划、上下文和验证做成 AI 工作台 | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/TTLaGn28owLQSy-cvEgPWw) | 2026-06-10 |
+| Agent 系列（六）：什么是 Loop Engineering？ | clippings \| loop \| harness | [打开原文](https://mp.weixin.qq.com/s/Xt71p-e9mYaktK3EMFR5sg) | 2026-06-10 |
+| Agent 提示词工程：移动端 UI 测试的 Prompt 设计实践 | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/n3iaJZWYyZw6mmrz19CjfQ) | 2026-06-10 |
+| AI 越会写代码，测试越要学会看 Diff | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/TnYV80w6tcQ9CMWsqFlUHw) | 2026-06-10 |
+| AI Agent 全家桶：监控·记忆·开发·上下文 | clippings \| agent-test \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/LCzZLyt8xmp-Cgqkswky0A) | 2026-06-10 |
+| 2小时，我搭了一套项目任务进度甘特图系统，谁卡住了一眼就知道 | clippings \| AI-tool \| pm | [打开原文](https://mp.weixin.qq.com/s/nnWzw0jnTEjqEqfMsScMiQ) | 2026-06-10 |
+| 面试官问：Agent 怎么评测？ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/GXvExMd6GanzF3X93fS-kw) | 2026-06-08 |
+| 让AI替你画图！这个开源项目让Markdown变身可视化神器 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/v1vhvijWLn2ANO1FUQToSQ) | 2026-06-08 |
+| 用了 Codex、Claude Code、OpenClaw 一堆本地 AI 编程工具之后，我终于找到了一个能管住它们的控制台 | clippings \| codex \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/4yckD7SLyV8suN0POmIzZw) | 2026-06-08 |
+| 用 OpenCode 实现分层执行：让贵模型决策，便宜模型执行 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/mGuOc5eeh7r2onk6P14GyA) | 2026-06-08 |
+| 测试“永远在改用例的路上” | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/SeKhzZkvOokmGkNoj30Q9Q) | 2026-06-08 |
+| 开发者省钱神器：Claude Code 100%免费的野路子 | clippings \| claude \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/5MQ9ybSnnR0eh9628fihcw) | 2026-06-08 |
+| 如何用skill评测skill? | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/8ki4urNhtrX8KCGmMgLWnQ) | 2026-06-08 |
+| 大模型参数详解 | clippings \| model \| AI-test | [打开原文](https://mp.weixin.qq.com/s/nY41PBGZVW6z-SrKtQrxpg) | 2026-06-08 |
+| 同一个模型，换Holistic Agent评估框架，错误定位能力涨了12倍 | clippings \| agent-test \| AI-test \| harness | [打开原文](https://mp.weixin.qq.com/s/CB9vkun68QIdfiZkH2TQgA) | 2026-06-08 |
+| 可观测性 —— 一条 Agent 请求的完整链路追踪 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/Fv1Fne7kua78c2ZgW1ARGA) | 2026-06-08 |
+| 什么是 Agent 测试 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/HjqTPF72g98HwC6zbYE-PA) | 2026-06-08 |
+| 万字干货：理解 Harness Engineering，看这一篇就够了 | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/MzB8-B00GVdJy22j42CRgg) | 2026-06-08 |
+| skills高级玩法是编排引擎 把多个skills串联起来让AI吭哧干活 | clippings \| agent-test \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/LCm_Qf3RNPXeRwA-mNilWw) | 2026-06-08 |
+| git diff 输出减少 96%！这个 Rust 工具让 AI 编程的 Token 成本直接打骨折 | clippings \| claude \| skill | [打开原文](https://mp.weixin.qq.com/s/cmHQrLxoOVOSTzIr6HPZDg) | 2026-06-08 |
+| Context / Harness 傻傻分不清？从软件测试视角看三层工程边界 | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/mKEYNcDo0Zve6aWd4fLtUQ) | 2026-06-08 |
+| AI 自动化 Agent 框架：移动端 UI 测试的架构设计与模式选择 | clippings \| agent-test \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/VmLh4A55v1zkuFTXibsG6w) | 2026-06-08 |
+| AI 写代码不容易失忆的工具：vibecode-pro-max-kit | clippings \| AI-test \| AI-code \| github | [打开原文](https://mp.weixin.qq.com/s/Q-FcPVS0r0Kq48lHEyQfwA) | 2026-06-08 |
+| 28.2K+ star 的 AI 研究引擎：让 AI Agent 替你翻遍全网热议，30 秒生成一份可分享的摘要报告 | clippings \| github \| skill | [打开原文](https://mp.weixin.qq.com/s/qZynUj7gqlSkNrBcApoFEA) | 2026-06-08 |
+| 2026 年火遍 AI 圈的驾驭工程（Harness Engineering）是什么？ | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/xcbwiGiFFNjOkJhe30LOGQ) | 2026-06-08 |
+| jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta | clippings \| github \| model | [打开原文](https://github.com/jlcodes99/cockpit-tools) | 2026-06-07 |
+| 阿里开源！AI 代码审查利器 Open Code Review，让 Bug 无处遁形 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/QqZ_IZ0cLGJt7G17F-K10A) | 2026-06-06 |
+| 逃离“古法测试”：AI 测试的“三大定律” | #clippings \| #AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/nkacSetWmOBHzqpg8UScXw) | 2026-06-06 |
+| 近 2 万 Star！AI 在后台操控电脑不抢你鼠标，Cua 让 Agent 真正「用」上电脑了 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/OflrIVYrPWQxyskEgXuEjw) | 2026-06-06 |
+| 给 Claude Code 装上这个超酷的状态栏，逼格瞬间拉满！ | clippings \| claude \| github | [打开原文](https://mp.weixin.qq.com/s/X-JlX3MwxNvRSZI0LfchtQ) | 2026-06-06 |
+| 第四篇 测试驱动开发(test-driven-development)：红绿重构的工程实践 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/jYH0zWA4-lTKFxWxvJRnlw) | 2026-06-06 |
+| 深读《Agent Harness Engineering: A Survey》：当模型都足够强，真正决定 Agent 能不能跑进生产环境的，往往是模型外面那层 harness | clippings \| harness | [打开原文](https://mp.weixin.qq.com/s/R6cX1luCYWw62qlQ34gdKA) | 2026-06-06 |
+| 实战篇：B端产品经理的AI工作流改造——PRD和原型从3天缩短到5小时 | clippings \| pm \| skill | [打开原文](https://mp.weixin.qq.com/s/jRT2oYx4BbeYX5g3a8dolA) | 2026-06-06 |
+| 如何让 AI 画出高质量架构图，一个Skill搞定 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/tE0kfJ2ZHeGGz6xCgEp3Zg) | 2026-06-06 |
+| 别让 AI 写完代码就跑了：Hooks + Pre-commit，给 AI 编码装上刹车 | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/ZNbD9iqLdgNnTCZqyuaxHQ) | 2026-06-06 |
+| 几乎免费的 Deepseek-V4-Pro：用了这几招，1亿Token才8块多，根本用不完！ | clippings \| claude | [打开原文](https://mp.weixin.qq.com/s/8Oche2jnIUoHQJFXqpce3Q) | 2026-06-06 |
+| 代码图谱全对比: 8 款 Claude Code / Codex 必备技能, 从安装到选型一次说清 | clippings \| codex \| claude \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/6P-EWvGVB4ZwXM_1qf6kxA) | 2026-06-06 |
+| 从 PRD 到部署：用 SDD+Harness 打通 AI 全流程研发实战 | clippings \| harness \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/cubkEGF3Z1myIYlnAZTAQA) | 2026-06-06 |
+| 一个可以直接复制使用的全局 AGENTS.md | clippings \| agent.md | [打开原文](https://mp.weixin.qq.com/s/p1Rd9_fYyoqS5R6WOzmP6Q) | 2026-06-06 |
+| 【保姆级教程】Codex 接入 DeepSeek V4，亲测有效 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/Y_l-5ml3qMV8ifm8nQwuJw) | 2026-06-06 |
+| obsidian可视化管理笔记，一个插件搞定多个问题！ | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/loF3Of9tL6fUJVMNueV34A) | 2026-06-06 |
+| huangguang1999/ccstatusline-zh: ccstatusline 的中文汉化版 - Claude Code CLI 可定制状态栏格式化工具 | clippings \| github \| claude | [打开原文](https://github.com/huangguang1999/ccstatusline-zh) | 2026-06-06 |
+| Obsidian笔记秒变知识图谱：这个Openclaw的skill技能让AI帮你管项目和人脉 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/vifdalKVzKj2ZuOe3vnqEg) | 2026-06-06 |
+| Obsidian插件自动建 Wiki：obsidian-llm-wiki | clippings \| llm-wiki \| obsidian | [打开原文](https://mp.weixin.qq.com/s/D3E_ztCommMlua7P9XoyVg) | 2026-06-06 |
+| Gemma 4 12B：谷歌给笔记本装上了一颗统一大脑 | clippings \| model | [打开原文](https://mp.weixin.qq.com/s/XjDkkUBPppwilLKqFYSxWg) | 2026-06-06 |
+| Codex隐藏神技：一句提示词自动蒸馏你自己，让日常重复工作全自动化 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/ZcSyBqe2x8CZUgAwY0rf5w) | 2026-06-06 |
+| Codex 进阶武器库：常用的5个plugin 和 5 大skill推荐 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/_fpJxOVECSqonC4toDSNWA) | 2026-06-06 |
+| Codex 技能速览 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/HxfbLhK2b9tOgM2GSosAOQ) | 2026-06-06 |
+| Codex CLI 极简配置：从 7 个真实痛点到一套够用的配置 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/8AoJjy7kluf1kOfVJWuR_Q) | 2026-06-06 |
+| AI 自动化 Agent 框架：移动端 UI 测试的架构设计与模式选择 | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/VmLh4A55v1zkuFTXibsG6w) | 2026-06-06 |
+| AI 时代，TDD（测试驱动开发） 终于等来了自己的主场 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/WFd4EaqHVPm9VYc7pyL0qA) | 2026-06-06 |
+| AI 写完代码以后，需要一个 Verification Harness | clippings \| harness \| AI-test | [打开原文](https://mp.weixin.qq.com/s/o1w95TlfOT5-ypHFXOBPHw) | 2026-06-06 |
+| 1 个obsidian插件搞定 6 种 LLM 接入AI，DeepSeek /MiniMax全部本地跑 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/AqfbeYfzCc5wP84v_NUieA) | 2026-06-06 |
+| 超实用、已开源！这个 Skill 直接让会议纪要转成PRD、流程图，还能直接输出HTML，甚至一键保存图片... | clippings \| prd \| skill | [打开原文](https://mp.weixin.qq.com/s/1v-6wEktcxr3uxT8q-MB5w) | 2026-06-04 |
+| 爆火CLAUDE.md：166K星标背后，是给Claude Code的行为准则 | clippings \| cc \| claude | [打开原文](https://mp.weixin.qq.com/s/vWSGQD5q60GRKRlktAIIkg) | 2026-06-04 |
+| 浅析自动化测试POM架构与开发项目架构的区别与适用场景 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/pOOQPHTrQLUjr6-W9C_ezQ) | 2026-06-04 |
+| 数据质量测试自动化：从“救火”到“免疫”的完整路径 | clippings \| AI-test \| data | [打开原文](https://mp.weixin.qq.com/s/darrq89C_96WleNyw-n9og) | 2026-06-04 |
+| 数据质量保障，终于有人把AI Agent用明白了 | clippings \| agen-test \| AI-test \| data \| skill | [打开原文](https://mp.weixin.qq.com/s/isg_xjr7VugRBaxkQzm1-w) | 2026-06-04 |
+| 手把手：用 AI 测一个支付下单模块 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/lhCAOR5Aaa8VA6W5mh-hwg) | 2026-06-04 |
+| 我设计了一套Harness，让AI在我摸鱼的时候工作 | clippings \| agent-test \| harness | [打开原文](https://mp.weixin.qq.com/s/XZObIQdInhax3I7Q_gURTg) | 2026-06-04 |
+| 别用Obsidian搞AI个人知识库了，真没用 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/nhU7E9WS5CPplgy-xGaJ6Q) | 2026-06-04 |
+| 全链路数据质量保障体系：从业务底层到BI可视化的闭环落地实践 | clippings \| AI-test \| data | [打开原文](https://mp.weixin.qq.com/s/KOb7pnZr-T5xc1zM4XhRow) | 2026-06-04 |
+| 从零搭建 Harness Engineering 架构：Rule、Skill、Sub-Agent 完整落地路径 | clippings \| agent-test \| harness \| AI-test | [打开原文](https://mp.weixin.qq.com/s/tKOGieG0prG6YzAnJZM9yg) | 2026-06-04 |
+| 主流Agent Harness实现对比——Memory篇 | clippings \| harness \| agent \| codex | [打开原文](https://mp.weixin.qq.com/s/qhwEhvE3IJqwYO088zfoYA) | 2026-06-04 |
+| 一个让你Agent额度翻倍的小技巧。 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/lwt1VUkpEu2psZEuFg7c6Q) | 2026-06-04 |
+| 【开源】4.8K star，数据治理太乱？Apache Atlas 管血缘，像搜 Google 一样搜你公司的元数据 | clippings \| AI-test \| data | [打开原文](https://mp.weixin.qq.com/s/rAgo0PDF_l-rjfh3BfFkRg) | 2026-06-04 |
+| Skill实战：测试开发工程师如何从需求文档一键生成测试用例？ | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/_K9xx205hJxj9DRQrNIHzg) | 2026-06-04 |
+| Github 18k star，让 AI 每写一次代码就变聪明一点的工程系统！ | clippings \| github \| skill \| claude \| codex | [打开原文](https://mp.weixin.qq.com/s/HpChEmUpubTrRenG9aPQRw) | 2026-06-04 |
+| Flutter 最好的 AI 自动化测试工具：Patrol | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/VPupxWmoiKRAVXuSORtfOw) | 2026-06-04 |
+| Agent-Memory 评测全景：基准、评估与记忆系统（理论篇） | clippings \| agent-test | [打开原文](https://mp.weixin.qq.com/s/JZhN6auXKOzEh3OHgkjrdw) | 2026-06-04 |
+| 讲清楚 Harness：一套简单可落地的 LLM Agent 实践 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/XXFHh2CbMbho8Yp5rg9D3w) | 2026-06-03 |
+| 想做一个测试用例设计Skill？先看看别人是怎么做的——5种实现思路全拆解 | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/IOCevUkpWPQsBNpe_0QDMg) | 2026-06-03 |
+| 如何评测Agent Skills？Anthropic给出了解决方案 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/tD7rPwzGWjjXq1LpbT70hw) | 2026-06-03 |
+| 刚刚，一篇最全Agent Harness综述来了！ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/pG39PRnZFjSIxwYcPKD47A) | 2026-06-03 |
+| 全网最详细Agent Harness综述：OpenAI、Anthropic都在押注的，到底是什么？ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/hmFawbaDgKG7576VayEg0g) | 2026-06-03 |
+| 一文讲透企业级  Harness Coding 架构落地实战！ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/Plni3KAPbQ4JQdUbXJXw7w) | 2026-06-03 |
+| 一文搞懂AI Agent评测，拆解Anthropic最新发布的自动化评测体系 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/sVxCVMtKxqEf1jfgb5Y1dQ) | 2026-06-03 |
+| 一句话生成 AI 团队，+60%完成度：这个 GitHub 项目把 6 种架构做成了 1 个插件 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/3de15xfcbvyoem5nTSnIuw) | 2026-06-03 |
+| 【AI提效】andrej-karpathy-skills：一个技能让 AI 少写 80% 废代码？ | clippings \| agent-test \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/pkLFfEzC0glc4nkPQAxI1Q) | 2026-06-03 |
+| fireworks-tech-graph，这个skill比claude code自带的画图工具更好用一点 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/I-TFMXQv8Tk3tOrTinMVmQ) | 2026-06-03 |
+| OpenHarness: 开源智能体Harness项目解析 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/BJsfyJpM6YuYCctDbvcKFw) | 2026-06-03 |
+| Anthropic关于构建Agent Skills的思考解读 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/xNShCNP44scqS-VdzE1YKA) | 2026-06-03 |
+| Agent Harness 能完成任务，就一定安全吗？ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/HYb1IvMjQJkb4DwOk_iAUw) | 2026-06-03 |
+| API 测试 Agent 自动生成测试用例 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/aJm-o5M6c24Vfg8dFidwVw) | 2026-06-03 |
+| AI Agent小demo-python版本 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/UdRPhLnPcNPb6leGFv-6vA) | 2026-06-03 |
+| 7张图搞懂Claude Code的Harness架构设计 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/MsWfAil7l8388WmYrdvXyw) | 2026-06-03 |
+| 54k+Star 爆火！AI  框架 新王者 Harness Agent 来了！尼恩 来一次Harness穿透式解读 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/M8EL0m1D-uMI3RSDEKq4Aw) | 2026-06-03 |
+| 2026 下半年，测试工程师的 Harness 机会在哪里 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/ORN_XSQPcBEPtAbCnYseww) | 2026-06-03 |
+| 这款 Skill 是怎么把测试“左移”落地的？ | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/S6bjF42jqv_OlW_QaJ6vVw) | 2026-06-02 |
+| 还没配 Codex 的 AGENTS.md？先抄这 65 行 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/hDDTOShgI-u5tbxYOX86xA) | 2026-06-02 |
+| 测试工程师如何理解和使用Agent智能体 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/yBtGyev9f1Sx7EO3NNYr2Q) | 2026-06-02 |
+| 智能测试进阶｜提示词工程在智能测试中的实践：优化技巧与案例复盘 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/mF_9xxwMnc36yYVtl47BJA) | 2026-06-02 |
+| 智能体｜Agent 自动化评测系统构建 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/ZSNaXlhItb-Ev9EOkdAfOQ) | 2026-06-02 |
+| 智能体测试指南（一）还不懂智能体怎么测？这篇概述帮你理清核心 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/fFT6EsYokj8Xi9Z8F-U-yg) | 2026-06-02 |
+| 手机助手GUI智能体测评方案发布！AgentCLUE-Mobile | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/hGfvmgdDs7s2fQicdvGenQ) | 2026-06-02 |
+| 我用 RuoYi 对 CodeGraph 进行了 6 组实测：得出以下结论 | clippings \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/jsXOa34Go6qjkr2NyYpHfA) | 2026-06-02 |
+| 开源免费实时监控Claude Code会话，Token成本工具调用一目了然 | clippings \| cc \| token | [打开原文](https://mp.weixin.qq.com/s/7STwUCRkIA2vHxYyhELwLQ) | 2026-06-02 |
+| 如何测试一个 AI 智能体 Harness？——六层测试体系，这才是测试工程师的真正主场 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/buFdTB1_5ZzMjb8692SADA) | 2026-06-02 |
+| 如何构建可落地的 LLM 测试评估体系 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/Vbv0YeTzh6LSQ5Eb0nyssw) | 2026-06-02 |
+| 大模型 Agent 评测完全指南：从'能跑'到'靠谱'，你只差这篇 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/eiO3aQM4ka93X2y1yULOUQ) | 2026-06-02 |
+| 使用AWS上的LangSmith评估深度智能体 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/AdlncUGeT85KTktPSTV7Ug) | 2026-06-02 |
+| 从全量生成到精准增量 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/359OUMPD41eC1KcCnV1_PA) | 2026-06-02 |
+| 一款面向真实场景的全自动 AI 智能体测试框架 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/IqpEv4Z8qpF7ZgEceZGTaQ) | 2026-06-02 |
+| llm-wiki 知识库企业化落地：模型选型只是开胃菜，边界设计才是主菜 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/4RapuPR34ojN47XOV-ai1Q) | 2026-06-02 |
+| codex教程--极力推荐安装的skill技能 | clippings \| codex \| skill | [打开原文](https://mp.weixin.qq.com/s/NwnSIvLkf_rZn4BazHCLXg) | 2026-06-02 |
+| TestGeneralizer测试泛化智能体: 由测试的举一反三到需求的全面覆盖 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/e58wmThu3GY4rFkB7Grj0w) | 2026-06-02 |
+| Multi-Agent-LLM-Wiki Skills：让 AI 像蚂蚁群一样协作管理知识库 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/S9xgpRoyRaX72FSQNKXzeA) | 2026-06-02 |
+| Github 今日推荐 完整CLI体验的AI Agent WebUI，轻量无框架 | clippings \| github \| agent-test | [打开原文](https://mp.weixin.qq.com/s/c9dULhgPGb9Ory8pgqWbKQ) | 2026-06-02 |
+| GitHub星标2k+的开源方案：基于Skills的接口测试框架，支持动态参数与断言链 | clippings \| AI-test \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/g7MytSfD1HKUV30QgZxLjg) | 2026-06-02 |
+| DeepAgents：如何构建复杂长任务的智能测试 Agent | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/EBSkIpckLPbl3Tt4OFwwBA) | 2026-06-02 |
+| DeepAgents实战：从零构建一个生产级测试用例智能体 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/YpxrxpV6u8NLjXNRj5wXMA) | 2026-06-02 |
+| Codex 十大必装 Skills | clippings \| codex \| skill | [打开原文](https://mp.weixin.qq.com/s/r7N_8gwybnIs7HWhFWS2dQ) | 2026-06-02 |
+| Codex Assistant： 一行代理，打通 Codex CLI 与国产大模型的任督二脉 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/Jnk-sIy7ziSPSq9gt1zTHg) | 2026-06-02 |
+| Claude Code 花费越来越多？省 token 从看清这三层结构开始 | clippings \| code \| cc \| token | [打开原文](https://mp.weixin.qq.com/s/2mV5yeLJJe03yq4QxeS9TA) | 2026-06-02 |
+| AutoPilot：AI 驱动的移动端自动化测试平台 | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/EJZk5v7vmtlv1paqtkbTYQ) | 2026-06-02 |
+| Anthropic 万字长文：AI Agent 评估体系全解析 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/pwhg5Kmh3wMlxqIlbVqGMw) | 2026-06-02 |
+| Anthropic Agent最佳实践系列二: Agent系统测试 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/dytvdy_q6uV3uFZ3wv1pnQ) | 2026-06-02 |
+| Anthropic Agent最佳实践系列一: Agent 架构入门 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/XHAsqfnrvn14hzM_oe3kbA) | 2026-06-02 |
+| Agent测试方法论：多智能体系统怎么测？ 一个 Agent 翻车还好说，五个协作的呢 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/sR5TV6qOCZoGQDKN5jh0eA) | 2026-06-02 |
+| Agent测试方法论：你的 Agent 交出了答案，但它的推理过程全程在撒谎 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/AcRKqYAhwF-xwV8FSveKbA) | 2026-06-02 |
+| Agent核心技术概念与范式发生了哪些演变以及背后的思考 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/ONYZFjxpIDgoRBSblLtGZg) | 2026-06-02 |
+| Agentic X：LLM Agent在测试领域的探索与思考 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/hhbsxzILnPsLnLmHTO1sWg) | 2026-06-02 |
+| Agent 时代的测试方法论：目标达成度、异常恢复、边界约束，怎么测？ | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/aPub1RU5zeoZbSdY-r9idQ) | 2026-06-02 |
+| AI产品经理核心工作流程---产研协同与灰度发布（第三阶段：灰度上线后 ） | clippings \| pm \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/0yKn54h1_Jptr0TZjGTvGw) | 2026-06-02 |
+| AI 辅助全栈开发实战：从零搭建 Agent 评测平台 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/F3EoNz_vEqZUdhDL3Zd5kA) | 2026-06-02 |
+| AI Evals的一些实践：如何从 0 到 1 构建 agent 的评测系统？ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/om9KGhhMLpA5iz0XsxA3sQ) | 2026-06-02 |
+| AI Agent产品如何进行评估：DeepEval框架 | clippings \| AI-test \| agent-test | [打开原文](https://mp.weixin.qq.com/s/beXgVAVTmovrYsvNVJo2fw) | 2026-06-02 |
+| 250 行 Python 写一个 CLI AI Agent | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/axLHmFoNretapSPCUP68PQ) | 2026-06-02 |
+| 需求总返工、PRD总跑偏？产品经理最该补的是这8个Skill | clippings \| PM \| PRD \| skill | [打开原文](https://mp.weixin.qq.com/s/Q41n6_QIkmeKdhzmEfFSWA) | 2026-06-01 |
+| 还在自己写PRD？这些产品经理最常用的 AI Skills赶紧收藏起来 | clippings \| pm \| skill | [打开原文](https://mp.weixin.qq.com/s/iHTtIKICp-IQpTS-mhZcZg) | 2026-06-01 |
+| 还在自己写PRD？这些产品经理最常用的 AI Skills赶紧收藏起来 | clippings \| pm \| skill | [打开原文](https://mp.weixin.qq.com/s/iHTtIKICp-IQpTS-mhZcZg) | 2026-06-01 |
+| 近 1.6 万 Star！一条命令生成高保真原型，Figma 突然不香了？ | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/4W6x_4tJHSFejoJlE7zWpQ) | 2026-06-01 |
+| 现在开始流行 creation.md 了？ | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/6qLLfy2oscsv6bHqB5P-IA) | 2026-06-01 |
+| 狂揽 3.5万 Star！DeepSeek 官方点赞的终端编程神器 CodeWhale，彻底改变你的开发流 | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/qwGP5zE0vjJySqSMCafrVQ) | 2026-06-01 |
+| 测试工程师必看｜AI Skills帮你摆脱重复劳动，效率翻倍 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/tcBGO9lbzeBtIJ0Jbf2LIg) | 2026-06-01 |
+| 本地跑大模型，这次终于靠谱了。 | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/OSTfYeppPaU-H1quFTMfKg) | 2026-06-01 |
+| 我把 Codex 的 Token 用量扒出来了，原来我一天竟然夯了2亿 。。。 | clippings \| codex \| token | [打开原文](https://mp.weixin.qq.com/s/HBDRSQyi20bzLIEve2NPmA) | 2026-06-01 |
+| 强强联合！openspec-superpowers桥接技能SDD TDD实践 | clippings \| AI-code \| openspec | [打开原文](https://mp.weixin.qq.com/s/D8UG4xhqbJVW0k5l2YYn_g) | 2026-06-01 |
+| 如何训练 Skill 让它自进化：从"能用"到"精准"的完整方法论 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/RPh5TGX6ZbwzEYjFD0Po9w) | 2026-06-01 |
+| 如何提高AI生成测试用例的质量，我总结了这套思路... | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/Ajt8rsLxTdi54mPVHohPzA) | 2026-06-01 |
+| 告别手动汇总缺陷！一个Skill覆盖 99% 缺陷报告场景 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/4mOH-Mp8VVH_dwu2Esy19A) | 2026-06-01 |
+| 十个能大幅节省token的开源项目 | clippings \| token \| opencode \| AI-code \| codex \| cc | [打开原文](https://mp.weixin.qq.com/s/AoOXJNzwZFP29GGEbaeAtA) | 2026-06-01 |
+| 别让 Codex 白烧 Token：程序员必看的高效编程省钱指南 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/CHDCzgAJgUWByOQ1IDTMhg) | 2026-06-01 |
+| 人才+1，有人把申请专利也做成了skill，知识产权的普及度再次增加 | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/yTutQnaYnErU2Jamcq3WvQ) | 2026-06-01 |
+| 一个入口管所有模型 \| 用 LiteLLM 搭建大模型中转服务 | clippings \| model \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/48d81ZXj3UhW2T99fRzNOA) | 2026-06-01 |
+| 【开源项目】8.4K Starsa！LLM Wiki：一个能自我构建的AI个人知识库，超越obsidian！ | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/2WCrpdrSRlzRFnwEbVB4LQ) | 2026-06-01 |
+| 【从0开始学AI】不止能用更要好用！可直接落地的AI Skill全方位量化评估体系 | clippings \| skill \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/HUWVMqmsfButilXmv7j-8A) | 2026-06-01 |
+| claude code 动态工作流，轻松开启 100 个 agent 干活 | clippings \| cc | [打开原文](https://mp.weixin.qq.com/s/cSn9hKVpYi3O6sfv7b-ekA) | 2026-06-01 |
+| Token 消耗暴降 50%：用 OpenCode 官方生态插件 DCP 给 AI 编程做"断舍离 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/NkGcSBJTYtzB2jM3jJBoBg) | 2026-06-01 |
+| Skill-insight：不止于生成，打造会自我迭代的Agent Skills管理平台 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/k7A1qSv5tRqBV5K58PR-NA) | 2026-06-01 |
+| SingClaw Token优化之路：我们如何把成本打下来 | clippings \| token \| github | [打开原文](https://mp.weixin.qq.com/s/3anxFQJQyOF5_iXMJMkdyw) | 2026-06-01 |
+| Pi Agent 切换模型：Claude 太贵？这几个免费/低价方案实测可用 | clippings \| agent \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/L6xZg0DWuLvhUzwKNIDF4Q) | 2026-06-01 |
+| OpenCode插件系列: opencode-slim-system | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/uTBTBWPBOJ2VB1KEPGpmpg) | 2026-06-01 |
+| OpenCode上下文爆炸？DCP插件自动裁剪，Token节省40%的秘密 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/RVJik8x6l2kG6pB4BuDRPg) | 2026-06-01 |
+| OpenCodeReview: 阿里开源硬核代码审查工具, 确定性规则 + LLM Agent 精准到行的代码质检！ | clippings \| AI-test \| code-review | [打开原文](https://mp.weixin.qq.com/s/TAug9CczSYdxS0d-jD7kIQ) | 2026-06-01 |
+| OpenAI 官方 Agent Skills 之 GitHub & 代码工作流 Skills（上篇）：提交与 Review | clippings \| skill \| codex | [打开原文](https://mp.weixin.qq.com/s/wMJVMxrsesHMpYms68DVCA) | 2026-06-01 |
+| Obsidian里的图片不能调大小、不能居中、删了还在占空间？这个插件让你右键搞定一切 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/X9inM6MqhkmUEVWLlaLAXA) | 2026-06-01 |
+| Obsidian 高亮神器：AXL Light，让笔记瞬间高能！ | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/imgzxRhukuV-L095SpgPNg) | 2026-06-01 |
+| Codex 接入 DeepSeek 完全指南：6种方案，从免配置到全掌控 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/xdlEdc-bR4Mk58_t3ixoLQ) | 2026-06-01 |
+| Codex 接入 DeepSeek 完全指南：6种方案，从免配置到全掌控 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/xdlEdc-bR4Mk58_t3ixoLQ) | 2026-06-01 |
+| Codex Proxy：本地 Codex 编程助手中转站 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/NbAwCdF3gSDLwuoh6ZP9Qw) | 2026-06-01 |
+| Claude Code 和 Codex 对比：用 Claude 做重要的 20%，用 Codex 做琐碎的 80% | clippings \| codex \| cc | [打开原文](https://mp.weixin.qq.com/s/WmM5sIMp92dC7J8BgXPdsw) | 2026-06-01 |
+| B端产品经理实战经验分享系列 - 如何写出高质量的需求文档 | clippings \| PM \| skill | [打开原文](https://mp.weixin.qq.com/s/_KU0j5sy1HBMdx03bhlYGg) | 2026-06-01 |
+| AI原生端到端测试神器：Alumnium开源！自然语言一句话搞定Selenium/Playwright/Appium，WebVoyager SOTA 98.5%精度 | clippings \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/4g7yEVIkyeihg_1S4rdnvw) | 2026-06-01 |
+| 7 个实用技巧，让Claude Code的Token消耗爆降80% | clippings \| cc | [打开原文](https://mp.weixin.qq.com/s/I2BynoVDNKTi4ghbcvL_KQ) | 2026-06-01 |
+| 57.9k Star，这个开源插件能减少65%的token消耗，还不会降低质量 | clippings \| token \| github | [打开原文](https://mp.weixin.qq.com/s/zJ4JtQTRQ-ipSLfJ1nulvQ) | 2026-06-01 |
+| 【AI Agent 性能评估】揭秘智能体评估体系——Anthropic 智能体评估体系经验 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/IZjPUhHOqlcKX1yi9aH42Q) | 2026-05-31 |
+| Agent质量评估实践指南 — 从"能用"到"好用"有多远 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/SV_vfVUOPp5ptMFSQlzqww) | 2026-05-31 |
+| 谷歌放弃 Gemini CLI，转头用 Go 写了个新玩具 Antigravity CLI | clippings \| githubg \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/EvhAPbbckqTS1FgDhndN9Q) | 2026-05-29 |
+| 让项目管理也 AI Native —— 两个 Git 仓库干掉了周报、洞察和效能报表 | clippings \| pm \| AI-test | [打开原文](https://mp.weixin.qq.com/s/n4iqEWPfrok91b692nFTJw) | 2026-05-29 |
+| 我是怎么用AI把测试用例编写效率提升5倍的（附完整Prompt模板） | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/z3S-_R4rq7VYQM6LveNczA) | 2026-05-29 |
+| 我把代码审查权交给AI两个月，团队发生了什么 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/ev5RM58VSS_oZ8g1W7z8Lw) | 2026-05-29 |
+| 如何将测试能力抽象为可复用 Skills | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/LgPXrlI1w29lTHQw-JfBcw) | 2026-05-29 |
+| 告别硬编码断言！基于Skills的接口测试，智能体自动组合请求与校验（附代码） | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/khpD5xPBLWtv8-meJlUwdg) | 2026-05-29 |
+| 南京大学研发效能实验室与阿里巴巴联合推出OpenCodeReview，让代码评审从能用走向好用 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/XRviBPc8s7YNi_raiIbm-Q) | 2026-05-29 |
+| 从训练到测评：用 EvalScope 构建大模型优化闭环 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/v-VOid6ViRVtZm5b035xFw) | 2026-05-29 |
+| 产品经理的PRD写作武器：一个Skills让写PRD从3小时缩到3分钟 | clippings \| skill \| pm \| AI-test | [打开原文](https://mp.weixin.qq.com/s/qRv1Qe3GjQ_jbQqWGQcHfQ) | 2026-05-29 |
+| 【开源项目】8.4K Starsa！LLM Wiki：一个能自我构建的AI个人知识库，超越obsidian！ | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/2WCrpdrSRlzRFnwEbVB4LQ) | 2026-05-29 |
+| Skill-insight：不止于生成，打造会自我迭代的Agent Skills管理平台 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/k7A1qSv5tRqBV5K58PR-NA) | 2026-05-29 |
+| OpenCode 插件开发：30+ 事件钩子的深度定制 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/TFrBdatOSqjOnagEM7-iLQ) | 2026-05-29 |
+| Obsidian里的图片不能调大小、不能居中、删了还在占空间？这个插件让你右键搞定一切 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/X9inM6MqhkmUEVWLlaLAXA) | 2026-05-29 |
+| Obsidian 周报 2026-05-24：AI 深度渗透&自动化工作流构建 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/mR2FsFE9J1TG2MmwKVbcWA) | 2026-05-29 |
+| NextClaw：建议大家尽早用 AI 开始搭建个人知识库 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/8bc0eWMxv1YoFYcJDgQL2Q) | 2026-05-29 |
+| Karpathy 3.5 小时免费「LLM 全栈课」再登 X 热榜，640 万播放、11 万点赞，从 tokenization 一路讲到 RLHF | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/QTY_X4y0W_1UG8HUM5xPoQ) | 2026-05-29 |
+| Claude Code官方桌面端正式发布，夯爆了！ | clippings \| claude \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/mi4v6qr3QOrQcnZgLP2BQQ) | 2026-05-29 |
+| B端产品经理实战经验分享系列 - 如何写出高质量的需求文档 | clippings \| PM \| skill | [打开原文](https://mp.weixin.qq.com/s/_KU0j5sy1HBMdx03bhlYGg) | 2026-05-29 |
+| API测试自动化（REST/GraphQL/gRPC） | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/gy9TKXalCSOJ_wdML-AOLQ) | 2026-05-29 |
+| AI驱动的测试全流程：从需求分析到上线验收的完整实战 | clippings \| AI-test \| pm | [打开原文](https://mp.weixin.qq.com/s/evsFx1nM8CzIsxiOO21l_Q) | 2026-05-29 |
+| AI下借助SDD激活研发最后一公里——E2E测试 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/U0yltd3K5NexaBt3wUDGlQ) | 2026-05-29 |
+| AI Coding 能力模型：代码都让 AI 写，还要学编程吗？ | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/O_C1c47lJgKvuzea6A-siw) | 2026-05-29 |
+| 需求阶段 AI 全景图 — 5 个 Skill 串联，测试左移真正落地 | clippings \| agent-test \| AI-test \| skill \| pm | [打开原文](https://mp.weixin.qq.com/s/BnloV9XX2rIrQCQrhrB0pQ) | 2026-05-28 |
+| 跟我学 AI Agent : 第 15 课 — Evaluation & Monitoring：如何评估Agent的表现 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/cBaduG7V7Mm3mOtS0VtQCg) | 2026-05-28 |
+| 自动化评测的九九归一——评测agent | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/5ytev_RLKutH9S6mgmMQpw) | 2026-05-28 |
+| 聊聊AI下测试人员如何进行质量体系建设 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/TBAMnzRQyGstHJiv6zEcdA) | 2026-05-28 |
+| 测试质量进阶｜前沿趋势融合(4)测试左移与右移：全生命周期质量保障体系搭建 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/j9m2GmQEnXaMmvBciMV1NA) | 2026-05-28 |
+| 测试用例质量难把控？这个 Skill 搞定99% 用例审核工作，确实很好用（文末赠送Skill） | clippings \| AI-test \| case | [打开原文](https://mp.weixin.qq.com/s/08t7lyW6Qg9SfvnEiJlwew) | 2026-05-28 |
+| 测试左移的关键一步：用 AI Skill 自动化需求审查，把 Bug 扼杀在摇篮里 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/v49hf8TjnwGbcQ_0NCXC7w) | 2026-05-28 |
+| 测试工程师用AI的5个高级姿势，99%的人都不知道！ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/1bOYUo-_x_amh9wNH5Invg) | 2026-05-28 |
+| 测试与评估——如何知道 Agent 表现好不好？ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/hIRVJntEO4fnImM6M-g4aw) | 2026-05-28 |
+| 测试AI Agent，我踩过的那些坑 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/b5-M_l0X_VgJDcUCGQFofw) | 2026-05-28 |
+| 测试 Agent 深度实操 从 AC 到自动测试，再到自修复循环 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/Zlk38ICkFJlRZZTn9f-1Nw) | 2026-05-28 |
+| 测试 Agent 深度实操 从 AC 到自动测试，再到自修复循环 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/Zlk38ICkFJlRZZTn9f-1Nw) | 2026-05-28 |
+| 构建会思考的测试Agent：从自动化到自主智能的演进 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/EpPy_ypIrIIE4VYA-4c38g) | 2026-05-28 |
+| 数据质量测试自动化：从“救火”到“免疫”的完整路径 | clippings \| AI-test \| data | [打开原文](https://mp.weixin.qq.com/s/darrq89C_96WleNyw-n9og) | 2026-05-28 |
+| 揭秘 AI Agent 评估（Evals）：来自Claude团队的完整指南 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/gj15HcCSQItaw2NIcnaxTA) | 2026-05-28 |
+| 怎么知道 Agent 真的做对了：Agent 必备一套评测体系 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/xQcS0hRwdgVJZW1YzggkMg) | 2026-05-28 |
+| 少 61% Token、多10倍成功率，这个终端 AI 编程代理火了！ | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/KAoY4rSAeIz3fJGh1kaYbQ) | 2026-05-28 |
+| 完整项目实战复盘 一个功能从需求到上线的全程日志 | clippings \| agent-test \| AI-test \| pm | [打开原文](https://mp.weixin.qq.com/s/RtGobx5Ti-dzshxQoVL8PA) | 2026-05-28 |
+| 多 Agent 环境搭建 怎么在本地同时跑 5 个专职 AI | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/QxHpfwTKwpFAtByJlGaqUg) | 2026-05-28 |
+| 复制这套神仙配置，让Claude Code全自动修Bug！告别每天重复教AI写代码 | clippings \| claude \| AI-test | [打开原文](https://mp.weixin.qq.com/s/RRvZ-MfdcU0hU1TTpcPtkg) | 2026-05-28 |
+| 基于Pywinauto 进行桌面端自动化测试实践案例 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/_0w0ixD7x6kD-5Cx-gDwwQ) | 2026-05-28 |
+| 又一款 AI 终端编程神器，开源了！ | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/4XlziD4tcTmYjMq2-GXgbQ) | 2026-05-28 |
+| 分享一个我很喜欢且很实用的 SKILL～ | clippings \| skill \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/51jRNrnPKnQfYFBr8ISILA) | 2026-05-28 |
+| 关于大模型Agent评估的一些思考 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/pvE216YWesv3oKyySkMlkw) | 2026-05-28 |
+| 你的AI Agent到底靠不靠谱？——Agent效果评估（附样例代码） | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/MiuOEbqmEhhuwkiyDL-FxQ) | 2026-05-28 |
+| 代码 Agent 深度实操 架构文档进去，前后端代码出来 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/2hVGNU18gXNaRQUh6k0XPw) | 2026-05-28 |
+| 代码 Agent 深度实操 架构文档进去，前后端代码出来 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/2hVGNU18gXNaRQUh6k0XPw) | 2026-05-28 |
+| 从基准测试到用户留存：AI Agent 应用评测的完整度量框架 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/aaLD_1h3h18Oe60DWCarbw) | 2026-05-28 |
+| 从单元测试到智能体评估：构建生产级 Agent 质量保障体系 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/GdTozBOtC-Add__fcGefXA) | 2026-05-28 |
+| 【Agent架构设计】第7章-Agent 怎么测？ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/tuO9m20V-5YvIkLk24_vIg) | 2026-05-28 |
+| Orchestrator 设计实操 多 Agent 体系的「大脑」怎么配置 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/kVR0SIQzf4HaFFYF4GK3Bg) | 2026-05-28 |
+| DeepAgents：如何构建复杂长任务的智能测试 Agent | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/EBSkIpckLPbl3Tt4OFwwBA) | 2026-05-28 |
+| Claude官方的Agent评测方法 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/du4trka5X7opNHBMWXWb8A) | 2026-05-28 |
+| Anthropic最新发布：深度解密 AI Agent 评估体系！ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/CHW3iEw2cr6idl3EJ7Mcag) | 2026-05-28 |
+| Anthropic 万字长文：一篇 AI Agent 评估体系的详细解析！ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/BFxw-vzpnpBQo95i9IyC0Q) | 2026-05-28 |
+| Anthropic 万字长文：一篇 AI Agent 评估体系的详细解析！ | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/BFxw-vzpnpBQo95i9IyC0Q) | 2026-05-28 |
+| Agent质量评估实践指南 — 从"能用"到"好用"有多远 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/SV_vfVUOPp5ptMFSQlzqww) | 2026-05-28 |
+| Agent测试方法论：多智能体系统怎么测？ 一个 Agent 翻车还好说，五个协作的呢 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/sR5TV6qOCZoGQDKN5jh0eA) | 2026-05-28 |
+| Agent测试方法论：写到最后——你不是在被淘汰，你是在被重新需要 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/K9z9qP5ixcIn4vTv6IpJ9w) | 2026-05-28 |
+| Agent 测试方法论：别再写测试用例了，你的 Agent 需要的是一套 Eval 数据集 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/Hx4O9PthbLcVKvqLB7eyew) | 2026-05-28 |
+| AI测试｜Agent性能测试全方案：核心维度、方法与落地实践 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/L3Qp51l839wEnMeUmZjkIQ) | 2026-05-28 |
+| AI测试落地实操指南（第三篇·进化篇）｜技能泛滥之后，测试工程师的价值锚点 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/35HRlXC3wRCIJsjPh7z5_A) | 2026-05-28 |
+| AI测试提效方案：Agent + Skill + AI Model三层架构 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/nlVWIS2QMQ8Lo1_KkP-6DQ) | 2026-05-28 |
+| AI 智能体上线后的测试防线 ——Harness 五层核心架构，逐层拆解 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/MtiSYeGf1OhokCvs99l01Q) | 2026-05-28 |
+| AI Agent 评估的六个关键指标 | clippings \| agent-test \| AI-test | [打开原文](https://mp.weixin.qq.com/s/CTnwPRC8iqmN_EB1dyJPGg) | 2026-05-28 |
+| 54.4K+ star 的 AI 编程工具箱：一个 CLI 打通全链路编码 Agent | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/_qm2BnzDY_Df9jWEedcB0A) | 2026-05-28 |
+| 独立测试团队 vs 嵌入式测试：飞经理聊两种模式的真实体感 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/weoOV6X5g49tjjWW1Fq6UQ) | 2026-05-27 |
+| 字节重磅开源统一多模态 Lance：3B 参数撑起图、视频、编辑全栈新解法 | clippings \| model \| AI-test \| UI | [打开原文](https://mp.weixin.qq.com/s/U8HrPVaj32Ww4c0i9wjA0g) | 2026-05-27 |
+| 告别通用AI粗放生成：用LlamaFactory打造适配业务的专属测试专家 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/e9-WkhAmCD5bWaCpCDpvhg) | 2026-05-27 |
+| 别再手写 Skill 了！微软最新研究：像神经网络一样训练 Skill | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/sqHF3d3l5PX3VOs0Mtwk3A) | 2026-05-27 |
+| 分享一个好用的去除AI味skill —— Stop-slop | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/8E0xy0J5QjuT5-xtvEtZUQ) | 2026-05-27 |
+| 分享一下我是如何管理 Agent Skill 的 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/75azRCiGs6YE5vAC40AqZg) | 2026-05-27 |
+| code-review-graph不止省token，更让AI不再“全量读代码”，而是精准理解代码结构 | clippings \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/YAo521pvoL1PFeBA37NESg) | 2026-05-27 |
+| OpenWiki 终极个人知识库管理工具，我的第一个开源产品 | clippings \| llm-wiki \| github | [打开原文](https://mp.weixin.qq.com/s/3Lzj3AfeOzB6emKnVTP9bQ) | 2026-05-27 |
+| OpenCode最新实战：权限、工具、LSP、格式化器和规则系统怎么把AI关进笼子里 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/wDUEsaH7e4RlRu1_sMucrQ) | 2026-05-27 |
+| AI-Infra-Auto-Driven-SKILLS v0.1.0：给 Codex / Claude Code 的推理框架工作流 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/DSMMP9sA5ngHh0nRoBwfIg) | 2026-05-27 |
+| 2.4万Star！让AI拥有IDE级代码理解力，这款MCP开源神器彻底改变AI编程 | clippings \| AI-code \| AI-tool \| AI-test | [打开原文](https://mp.weixin.qq.com/s/PwjkbQ1b50eLsluZNinu2w) | 2026-05-27 |
+| 我折腾了好久的Skills团队共享，终于有产品替我做出来了。 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/ylu0WvLJGNTZiim-NQmPQQ) | 2026-05-26 |
+| 物尽其用！在Codex和Codex桌面端当中使用Deepseek | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/MsFs9LFyd9x74Rc50DbHew) | 2026-05-25 |
+| 我做了一个APP自动化测试Skill，从此AI替你打工 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/eCLuMl3uDFiiMSAJVJRHiQ) | 2026-05-25 |
+| 从0到1做出可复用的 iOS 自动化测试 Skill，附真机演示效果 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/ACl7iIBeAWYFtmYSOkbYjw) | 2026-05-25 |
+| 一句话就能提Bug，这个自动提交Bug Skill 太好用了 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/iGCOqDtTYcid29hcssfUsg) | 2026-05-25 |
+| AI生成测试用例的困境与出路，验证准确率95%以上 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/FZpJ_Gi_mslExQjoVqFfWA) | 2026-05-25 |
+| 删掉一大半插件后，我的Obsidian反而更好用了 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/1uLmOOfIbVApi6T436jkWg) | 2026-05-24 |
+| 让 Claude Code 真正读懂你的项目：claude-code-setup 插件实战指南 | clippings \| claude-code | [打开原文](https://mp.weixin.qq.com/s/yFDA1EGhHsTtfVzP6FKzJg) | 2026-05-23 |
+| 测试报告也能 Agent 化：数据驱动的质量度量 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/i1yCieXtamd-LSHxxpJqPA) | 2026-05-23 |
+| 我把每天重复的工作交给OpenCode，每天多出2小时摸鱼时间 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/vDbdqDsQai2cr1tdXw7U0Q) | 2026-05-23 |
+| 怎么让 Agent Skills 自进化？Agent 回答质量翻倍 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/z6BOI1Um6MVYi2D5CsnSPA) | 2026-05-23 |
+| 如何使用 Graphify：把任意文件夹变成知识图谱 | clippings \| 图谱 \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/hv0hXPxmFQexRnQ5wRndaQ) | 2026-05-23 |
+| 从0到1搭建 Agent ：Agent 原理分析及个人助手实践（长文干货） | clippings \| Agent \| AI-code \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/ILX8GGETM84-_rQssCZhwQ) | 2026-05-23 |
+| mattpocock/skills: Skills for Real Engineers. Straight from my .claude directory. | clippings \| skill \| AI-code | [打开原文](https://github.com/mattpocock/skills) | 2026-05-23 |
+| OpenCode必装的一个插件，让OpenCode时间统计无所遁形 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/h8zyJ47xGLTTdWU3f-bxMw) | 2026-05-23 |
+| OpenCode 快捷命令完全指南：让你少敲很多命令 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/X64ZePFdGMQNqXQ9SNT7Hg) | 2026-05-23 |
+| Hallmark：让 AI 写出来的页面不再丑得辣眼睛 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/hLi7Eiy8UNwkG-qoN7hFzg) | 2026-05-23 |
+| 让ClaudeCode成本爆降89%，这个开源工具有点猛... | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/45bHljz4bwXlP__rFIpdTg) | 2026-05-22 |
+| 最省 Token 的开源 AI Agent | clippings \| agent \| github | [打开原文](https://www.openclacky.com/#install) | 2026-05-22 |
+| 什么是元认知呢？ | clippings \| 知行合一 | [打开原文](https://mp.weixin.qq.com/s/UV4DdXOPZE_mH82KOoXA1A) | 2026-05-22 |
+| 中国最美10条徒步路线，你走过几条？ | clippings \| run \| outdoor | [打开原文](https://mp.weixin.qq.com/s/AAZ9Is1shEhC1vWkgLflSw?poc_token=HMcsD2qj1MsT57RhLHE1D6cOalxs7hpNdVsnW_ze) | 2026-05-22 |
+| 一个CLAUDE.md 的文件可以帮你把代码准确率从 65% 飙升至 94% | clippings \| AI-code \| agent.md | [打开原文](https://mp.weixin.qq.com/s/aT4DH2J8q82Z3p7huoM3vQ) | 2026-05-22 |
+| wxtsky/CodeIsland | clippings \| github \| AI-tool \| codex | [打开原文](https://github.com/wxtsky/CodeIsland) | 2026-05-22 |
+| openclacky/README_CN.md at main | clippings \| github \| agent | [打开原文](https://github.com/clacky-ai/openclacky/blob/main/README_CN.md) | 2026-05-22 |
+| OpenCode + Git = 王炸组合！代码管理效率翻倍 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/lG1gp-IWRCtOCcpvSwwCNQ) | 2026-05-22 |
+| Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。 | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/KsAl7uSwSC2p-pA3HnwRGQ) | 2026-05-22 |
+| B端需求调研实战指南：从"写需求文档"到"写好需求文档 | clippings \| PM | [打开原文](https://mp.weixin.qq.com/s/FxqKRNu2YImPimGqcg2ajA) | 2026-05-22 |
+| B端产品经理工作流程---如何做产品规划 | clippings \| PM | [打开原文](https://mp.weixin.qq.com/s/_GFUqy9hOc9rM3GxZ0vfIA) | 2026-05-22 |
+| AI时代开发一天提交50次代码，测试累到想转行 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/RPirXwUdmRyc0Yxlwp-yfg) | 2026-05-22 |
+| AI产品经理核心工作流程---技术选型 | clippings \| PM \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/D3kI1nVrr_gazybVS4AM_w) | 2026-05-22 |
+| 4 个正在变热的 Codex 技能，真正改变的不是工具，而是工作方式 | clippings \| codex \| skill | [打开原文](https://mp.weixin.qq.com/s/lkykxBpAQDO4WAwlrAq33Q) | 2026-05-22 |
+| 又一个神级编程 Skill 开源！一套规则搞定 AI 编码从需求到上线全链路。 | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/9vt4zXoKbMbA0oKmSQb7ug) | 2026-05-21 |
+| 装了个不到1MB的索引，AI读代码的调用量直接砍了94% | clippings \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/nlm_zrqRaNMmWzR5F-C6QA) | 2026-05-20 |
+| 被测试大神的工作闭环震撼到了！！ | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/YTMj9uFTiDSH5eeMkK-taw) | 2026-05-20 |
+| 从「对话式」到「目标式」：拆解 Claude Code 和 Codex 同步上线的 /goal | clippings \| AI-code \| codex \| cc | [打开原文](https://mp.weixin.qq.com/s/jJHjbZQQ8tPxJ6wzhe91Bg) | 2026-05-20 |
+| 七牛云行业应用 的文章 - SegmentFault 思否 | clippings \| AI-tool | [打开原文](https://segmentfault.com/u/shenyongweiwudedahai_ay15n/articles) | 2026-05-20 |
+| 一个把内容整理成中文手绘技术解释图的Skill | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/zF71zSzpzY3if2iP8oO3Rg) | 2026-05-20 |
+| skills的第二种模式：决策树 + 按需加载 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/4A7sbHQUUeXHuMsFRhlq5A) | 2026-05-20 |
+| breezewish/CodexPotter: Ralph loop for codex — continuously reconciles codebase toward your instructed state | clippings \| codex | [打开原文](https://github.com/breezewish/CodexPotter) | 2026-05-20 |
+| addyosmani/agent-skills: Production-grade engineering skills for AI coding agents. | clippings \| skill \| github | [打开原文](https://github.com/addyosmani/agent-skills/blob/main/README.md) | 2026-05-20 |
+| Codex++：让你的 Codex 更强大的神器 | clippings \| codex \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/oDBWnlmEqm6x6jLK2Q9o0w) | 2026-05-20 |
+| BigPizzaV3/CodexPlusPlus: An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 | clippings \| github \| codex | [打开原文](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-05-20 |
+| AI Model & API Providers Analysis | clippings \| model | [打开原文](https://artificialanalysis.ai/) | 2026-05-20 |
+| AI Code Review：让每一行代码都有AI审查员 | clippings \| AI-test \| AI-code | [打开原文](https://mp.weixin.qq.com/s/B7rDKkWfnveaptJfvLXFCA) | 2026-05-20 |
+| 1.1万字 Codex保姆级教程：小白从安装到跑通项目 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/DuIOd6qLH8_4_3iP9XKXwg) | 2026-05-20 |
+| 用上了，第三方的中转站 API 跑通 Codex 手机端 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/-ev8CDhuWY_TU1bpm76wUg) | 2026-05-19 |
+| 用AI把微信变成自动CRM，一个skill搞定 100+线索管理！ | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/pSxPPfnb6QR_ZVAaG3JRjw) | 2026-05-19 |
+| 性能测试也能 Agent 化：自动压测 + 瓶颈分析 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/7-WWWklVg-qp4rSW6dJtsA) | 2026-05-19 |
+| 国内开发者福音！OpenAI Codex CLI实战指南，手机远程操控轻松搞定！ | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/p2FlRBx5j-KVlpqeDZXVoQ) | 2026-05-19 |
+| 一个专门用来在提交代码前、快速扫一眼改了啥的小工具，界面干净，打开即用 | clippings \| AI-test \| AI-code | [打开原文](https://mp.weixin.qq.com/s/VVfr0qYTK1DvaPlJUm763w) | 2026-05-19 |
+| OpenCode 调试模式完全指南：命令详解、场景实战与高级技巧 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/wKJeVrSprUb0yzNlblqWxA) | 2026-05-19 |
+| MumuSpec 实战指南：10个SKILL + 14篇Spec文档 | clippings \| skill \| AI-tool \| openspec | [打开原文](https://mp.weixin.qq.com/s/-bE8MjzqRjZIYpNvgw3CBw) | 2026-05-19 |
+| Midscene Agent Skills：让 AI 编码助手长出手脚，直接操控任意 UI | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/YFvb9E_zVVAdLX0dC25IIA) | 2026-05-19 |
+| Codex App 同样支持第三方中转！不额外掏钱也能随时VibeCoding | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/sCSD2ygNLeQLv8K7eQIGrQ) | 2026-05-19 |
+| Anthropic 创业手册：给中国 AI 创业者的 5 个启示 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/z2inWkdd2imuwfAelkzfwg) | 2026-05-19 |
+| Agent Skills 实战：把故障复盘写成 Skill | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/itQSL-NQ8vvuwkK88t-NPw) | 2026-05-19 |
+| 33k Star 的 Claude How To：一份适合系统学习 Claude Code 的开源指南 | clippings \| AI-tool \| claude | [打开原文](https://mp.weixin.qq.com/s/or-st6e--nT8Q08jnFIQfw) | 2026-05-19 |
+| 这个神级Skill，让Codex学会任何大厂设计，任意网页秒变完整设计系统！ | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/sLbRbyAvxFgP_l7K7YzKsw) | 2026-05-18 |
+| 榜单分析：AI 开发工作流正在从模型热度转向工具栈竞争 | clippings \| AI-认知 \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/PpyVi_okS7sEBBHhjvXZTQ) | 2026-05-18 |
+| 开源\|这款AI助手接入了118个服务，自带记忆树和 Obsidian 同步 | clippings \| openhuman \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/Dstmq-597YM5e5-X1TT7cQ) | 2026-05-18 |
+| 多次霸榜 GitHub，暴涨 9700+ Star，这个开源 AI 助手要火了！ | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/QAqGGMQAioZ9dUWR8uOSaw) | 2026-05-18 |
+| 图灵奖得主杨立昆最新访谈：LLM时代即将落幕？下一个技术风口 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/GLdojYwz6opy-9fRgz66ow) | 2026-05-18 |
+| 别再错过啦，AI Agent记忆革命：95.2%检索率的持久记忆系统深度解析 | clippings \| 记忆 \| llm-wiki \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/j1jrWnQs7WqOQ9oH4fpJZg) | 2026-05-18 |
+| 别乱装OpenCode插件！这9个精选清单，第2个可能封号 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/3RNO3VrzVCQbcQ0FwkN8eA) | 2026-05-18 |
+| 你的电脑能不能跑大模型？这个本地测评神器，直接给答案 | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/6UQlRb-P3wMEoH-a3Vcc6A) | 2026-05-18 |
+| 代码知识图谱分析系统开源！为 AI 编码工具赋能，彻底解决盲目改代码问题！ | clippings \| llm-wiki \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/HR97HtVaNUMWDMjkFLU5Ig) | 2026-05-18 |
+| 代码理解工具对比：GitNexus、graphify、code-review-graph、Understand-Anything | clippings \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/OXTp5C5Ve-2mP2ws45SGvw) | 2026-05-18 |
+| 人到中年，跑步不再是选择，而是必然 | clippings \| 知行合一 | [打开原文](https://mp.weixin.qq.com/s/Hq0j8_DDgbbdK2kA2JolXA) | 2026-05-18 |
+| vLLM 最新版来了：推测解码终于能跑思考模型了 | clippings \| model \| LLM \| vLLM | [打开原文](https://mp.weixin.qq.com/s/FF0fSUoxzlA2fVVy5tpMfw) | 2026-05-18 |
+| ppt的未来是html！每个人都应该试试这个skills！高效！精准！ | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/m4WXif1mFMJwz-ScxR6e8w) | 2026-05-18 |
+| RAG 不只是"检索+生成"：2026年你需要知道的5种高级RAG架构 | clippings \| RAG \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/h8pvexkwzk694Z6YWGdofg) | 2026-05-18 |
+| OpenCode + Tokscale 帮你打开Token消耗的黑箱 | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/UgYTKnlzVZiKk7jmWdSBow) | 2026-05-18 |
+| Nexus：RAG 时代终结？编译器 AI 知识层来了 | clippings \| llm-wiki \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/ZfEoxI52d3LDovkiXm0nwA) | 2026-05-18 |
+| GitNexus：把 GitHub 仓库变成知识图谱，AI 编程终于有了全局视角 | clippings \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/1JSsPWNcZKirJXVf8FsFQQ) | 2026-05-18 |
+| DBX：一款轻量级、跨平台的数据库管理工具 | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/vZKvP4X4feSsbvBmeH_Eyw) | 2026-05-18 |
+| CodexBar × CodeBurn，我找到了追踪 Token 消耗的最佳组合 | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/FdULddJ5AZT6FOfEkNkKpQ) | 2026-05-18 |
+| 自建代码知识库分享 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/FmUM_GF9dLSaqNIVu0PV7A) | 2026-05-17 |
+| 测试提效实战：搭建 AI  问题定位工作流 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/bMwAUQC3YafAtOfaE5xfgw) | 2026-05-16 |
+| 我开源了一个"分层知识库"：让 AI 不再"大海捞针"地读你的笔记 | clippings \| AI-test \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/OkeQB8vkiacZOywP37n47A) | 2026-05-16 |
+| Superpowers+Openspec两个AI编程框架一起用，我踩了7个坑 | clippings \| superpower | [打开原文](https://mp.weixin.qq.com/s/aw8x5JSG2lZKUvDsS7kPRw) | 2026-05-16 |
+| OpenAI 总结了 Codex 最佳实践：让开发者效率提高 30% 的关键，不是提示词，而是工作流 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/jGgOdnL844r6vc4409EbnQ) | 2026-05-16 |
+| GitHub一周暴涨15000星，AI编程Agent的技能包生态彻底爆了 | clippings \| skill \| agent | [打开原文](https://mp.weixin.qq.com/s/jlFImvTnqO8134McAoMj2g) | 2026-05-16 |
+| Agent 自动执行测试并生成报告：从手动到自治 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/zTxjb3MR5UhapjLI8oaRag) | 2026-05-16 |
+| 超级记忆系统，融合 Karpathy LLM Wiki、知识图谱、混合搜索的新一代记忆系统 | clippings \| llm-wiki \| 图谱 \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/W-SG0A-vUkuk5mST6JDFzg) | 2026-05-15 |
+| 多Agent协作时代的Git规范 | clippings \| AI-tool \| AI-test | [打开原文](https://mp.weixin.qq.com/s/0NbH7Sd6-Nx4o8bMYX5jGw) | 2026-05-15 |
+| 别急着写代码——先用第一性原理过一遍需求 | clippings \| AI-认知 \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/VjsAWHZUJzw1AwXKXC0Orw) | 2026-05-15 |
+| 一个让我很开心的标记：我的第一个 Obsidian 插件上架了 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/BhGVNJ2XyBx8Xhs3NsFKUw) | 2026-05-15 |
+| Obsidian 入门40：把我的写作工作流Skill免费分享给你 | clippings \| skill \| obsidian | [打开原文](https://mp.weixin.qq.com/s/26E9jSCWquHB1_efWTPBFQ) | 2026-05-15 |
+| Karpathy：大多数 90% 的 AI 编码费用都打水漂了，戒掉这 10 坏习惯， | clippings \| AI-认知 \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/5Cg_6FJbuIKThUKJ7h5bPg) | 2026-05-15 |
+| Hermes Agent Kanban系统新增kanban-orchestrator和kanban-worker组件解析 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/Evds2eJsPOuBfnWOMNM9Pg) | 2026-05-15 |
+| 80K Star！解决 AI 编程 4 大致命问题，这个技能库让你告别 Vibe Coding | clippings \| skill \| AI-code \| github | [打开原文](https://mp.weixin.qq.com/s/4l7wDL0qEibHSoUISu21Fg) | 2026-05-15 |
+| 需求阶段 AI 全景图 — 5 个 Skill 串联，测试左移真正落地 | #clippings \| #AI-test | [打开原文](https://mp.weixin.qq.com/s/BnloV9XX2rIrQCQrhrB0pQ) | 2026-05-14 |
+| 需求评审 Skill：让 AI 帮你在评审会前找到 15 个问题 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/yVjgY1PgKKPSYXYRLCfnaw) | 2026-05-14 |
+| 需求变更影响分析 — Agent 秒评变更对测试的影响范围 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/BWl4v3cOMCt0rmdBP7PBVQ) | 2026-05-14 |
+| 需求→测试点自动提取：一个 Skill 搞定 80% 的测试要点清单 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/wfJtsY2kzPL14xOXYHh39Q) | 2026-05-14 |
+| 省下$348_年！GitHub 3.4万星爆火神器：让你的录屏像苹果发布会一样丝滑 | clippings \| github | [打开原文](https://mp.weixin.qq.com/s/Jv_ztS_H1ip0f_eu7cHijg) | 2026-05-14 |
+| 用 AI 做接口自动化测试：完整工作流 + 4 个 Prompt 模板 + 真实案例 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/eZvumlmt1_P3TI3gAofcIg) | 2026-05-14 |
+| 测试设计阶段的 AI 化全景：策略+用例+数据一条龙 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/J2bQe9UVB5EssZKWBYbU8g) | 2026-05-14 |
+| 测试视角的 Code Review：Agent 自动发现代码中的质量风险 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/n3FGzobNEQwEZwdDJxl45A) | 2026-05-14 |
+| 测试策略生成 — Skill 自动输出测试策略文档 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/ukn2XA2aPAsacrS1osR-iw) | 2026-05-14 |
+| 测试工作量估算：Skill 自动拆解需求复杂度，输出合理排期 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/tR0ptMM7R4YTNXl6k96bVg) | 2026-05-14 |
+| 把整个代码库变成可查询的知识图谱，有人把这个想法做进了 Claude Code/Cursor，两个月爆了 4.6 万 Star！ | clippings \| 图普 | [打开原文](https://mp.weixin.qq.com/s/CJxi4bw_51bJ7G4TyOzkfw) | 2026-05-14 |
+| 手搓Skill串联成专属 SubAgent：打造前端代码审查→修复→提交自动化流水线 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/3JLiYm2p_rfnWmP22pdCuQ) | 2026-05-14 |
+| 封神！1.3B 端侧多模态模型开源炸场，MiniCPM-V 4.6 所有手机都能本地跑 | clippings \| AI-test \| model | [打开原文](https://mp.weixin.qq.com/s/cO5EDtOt3GWjSW6PvgjlOA?poc_token=HNBSBWqjmsgRXpgNay-3XhsNvXTsMvanzQ-DFvu-) | 2026-05-14 |
+| 如何构建一个好的 AGENTS.md：AI 编码 Agent 的项目级行为规范最佳实践 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/RxRCmsc3ehIuqV_DwG-Kog) | 2026-05-14 |
+| 告别单调！10 套高颜值 Obsidian Canvas 配色方案分享 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/0mGSjOsnJl5ZA2H8TcVz3g) | 2026-05-14 |
+| 单元测试生成：Agent 自动补全覆盖率，开发漏掉的 AI 来补 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/-N8kjXZHZeeaMfjM0doK3A) | 2026-05-14 |
+| 从Token泛滥到 Token 极度节俭：2026程序员必须掌握的推理成本优化指南 | clippings \| token \| AI-test | [打开原文](https://mp.weixin.qq.com/s/ly5DhqzuC1SHhtrTA-uHzg) | 2026-05-14 |
+| 从0解锁满配AI——Hermes全网最全配置保姆级教程（七） | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/Xd4CX5Gen8mAZEOw1uoJdA) | 2026-05-14 |
+| 不联网、不花钱、手机本地跑——MiniCPM-V 4.6 开源端侧多模态模型 | clippings \| AI-test \| model | [打开原文](https://mp.weixin.qq.com/s/6sZLpyWvy-rBge2kUvlCrw) | 2026-05-14 |
+| 三器合一：gstack + Superpowers + OpenSpec 工程化 AI 编程实战 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/j5_WRygYB_N4eagUCPSZwA) | 2026-05-14 |
+| 一键给 Hermes Agent 装上"操作系统，打造的开箱即用技能层 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/3ieqV2DSY_horrRPshMGUw) | 2026-05-14 |
+| 【Github 33k star】AI 不只会聊天了：UI-TARS Desktop，正在把电脑真正交给 Agent | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/rHJUN8lz4DmYimv9DtvMiw) | 2026-05-14 |
+| free-claude-code：Claude Code 官方体验，API 账单换你付 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/jjA0PPTWDjLfGclop5b-Ug) | 2026-05-14 |
+| chef-guo/agents-hive | clippings \| github | [打开原文](https://github.com/chef-guo/agents-hive) | 2026-05-14 |
+| TRD 技术需求文档分析 — 测试视角的技术评审 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/-Fsxoc97ByWTP9PTcNoVIA) | 2026-05-14 |
+| TRAE 用户都在用哪些 Skills ？这 11 个最热门 | clippings \| skill \| trae | [打开原文](https://mp.weixin.qq.com/s/fSKD92UFm2diFN4UYgqgSQ) | 2026-05-14 |
+| Salomondiei08/oh-my-hermes: An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent | clippings \| github \| hermes | [打开原文](https://github.com/Salomondiei08/oh-my-hermes/blob/main/README.md) | 2026-05-14 |
+| PDF、Word、PPT、音频、图片……全都转成 Markdown：Markit | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/CP7LH-6eZxaZykuUloxjPQ) | 2026-05-14 |
+| OpenCode插件系列: opencode-background-agents | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/GNtv7jcpLMrJang4879IsQ) | 2026-05-14 |
+| Obsidian 入门45：对自己好一点，给 Obsidian 建个个人主页 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/geWFqoGnaHDWP6Bzy4-CDQ) | 2026-05-14 |
+| Obsidian 任务管理三件套：Tasks + Kanban + Day Planner 完整指南 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/P4ioEAj8pQWAlZ7k2OrVmg) | 2026-05-14 |
+| IDEA 里跑 Claude Code 和 Codex 的最佳搭子，3.3k Star 开源免费太爽了！ | clippings \| AI-test \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/RTfsR2UGze0wB5A2b6VH7Q) | 2026-05-14 |
+| Hook + Agent 嵌入 CI/CD：代码一提交自动跑质量检查 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/QpuErNsXm-0KTo70pKUesw) | 2026-05-14 |
+| Hook + Agent 嵌入 CI/CD：代码一提交自动跑质量检查 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/QpuErNsXm-0KTo70pKUesw) | 2026-05-14 |
+| Graphify：把 Karpathy 的 LLM Wiki 从理念变成了产品 | clippings \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/gkz3l8QiVmL3CsRUvtSygQ) | 2026-05-14 |
+| Codex、OpenSpec、Superpowers、GSD，到底谁负责哪一步？ | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/EgAonviEc1rHhZv_YB8D4Q) | 2026-05-14 |
+| Agent 自动扫描代码质量：测试人的代码审查利器 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/j6vcAu3Ry7yuzqmHbRwbzA) | 2026-05-14 |
+| AI赋能需求分析：从模糊需求到结构化用例 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/zaksCtjFtv9vzrje1Mc_NA) | 2026-05-14 |
+| AI 辅助需求分析：Agent 自动发现需求中的测试盲点 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/G3kUH5TwLsKGWt-QPqUs2A) | 2026-05-14 |
+| AI 中转站都在发大财！其实都是用这些 GitHub 上爆火的 AI 中转站开源项目 | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/RY5TSLD9EnuVWb412WK1EA) | 2026-05-14 |
+| 5大Agent记忆框架终极对比：OpenClaw、Hermes Agent、Codex、Claude Code、OpenCode 谁最会“记住你”？ | clippings \| 记忆 \| openclaw \| opencode \| hermes \| codex | [打开原文](https://mp.weixin.qq.com/s/BmRUuCse2bKdKnZrRNFkwQ) | 2026-05-14 |
+| 13.4K+可视化代码学习神器来了，堪比Gitnexus、Graphify | clippings \| github \| 图谱 \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/stQJsaMG_Mizk6oqB3SGjQ) | 2026-05-14 |
+| 需求质量太差，测试人背锅，这个AI需求评审Skill重塑测试工程师的评审话语权 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/MHsK-9PovmRJv1LypCUtTQ) | 2026-05-12 |
+| 这个简单的claude.md提示词竟然10万+人给star | clippings \| github \| AI-tool \| AI-code \| agent | [打开原文](https://mp.weixin.qq.com/s/C7ddMpDb0YQ0soAnMkysyQ) | 2026-05-12 |
+| 这个开源工具，把 iOS 模拟器和 Android 模拟器都塞进了终端里 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/qxBRTWIQXTxriTDedtJhHA) | 2026-05-12 |
+| 程序员写公众号，这5款排版器够了 | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/lOc3uRaVKdtmj0lF896Jew) | 2026-05-12 |
+| 扒了69个需求评审Skill，我发现需求评审还可以这么做 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/BgdOyaHSB6uig44EVz06pg) | 2026-05-12 |
+| 想提升Agent的GUI执行成功率？我把从Turix-CUA中发现的秘诀全写在这里了！ | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/hAsMGCbeKUDBp9kq868ZjQ) | 2026-05-12 |
+| 开发者必会的AI Coding新范式：OpenSpec + Superpowers + gstack | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/Ilu9t5kRupsqdsmqbkeE6Q) | 2026-05-12 |
+| 如何构建一个好的 AGENTS.md：AI 编码 Agent 的项目级行为规范最佳实践 | clippings \| agent | [打开原文](https://mp.weixin.qq.com/s/RxRCmsc3ehIuqV_DwG-Kog) | 2026-05-12 |
+| 一个测试工程师大约有30%的时间花在Bug描述和沟通上，这个Skill5秒生成研发秒懂的Bug单 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/yDsF-ahn3u2FxPUM0LXMhg) | 2026-05-12 |
+| 【Github 33k star】AI 不只会聊天了：UI-TARS Desktop，正在把电脑真正交给 Agent | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/rHJUN8lz4DmYimv9DtvMiw) | 2026-05-12 |
+| opencode实时监控插件真实使用 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/6IAJFIHTxHJcxeNf2_HA4g) | 2026-05-12 |
+| OpenAI 官方总结 12 个 Codex 用例：从改 Bug、写测试到处理 PR，一次看懂 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/1fDTacjJ5N4F5fmV2aesLg) | 2026-05-12 |
+| Hermes Kanban 实战：我是怎样让多个 Agent 真正协作起来的！ | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/1o2e7fu9z-16-SeRbQzWpw) | 2026-05-12 |
+| Hermes Agent桌面版发布：24/7自进化的AI助手现在有了原生界面 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/pgEUxPaMi2uPaun598n9yQ) | 2026-05-12 |
+| GitHub开源神器：仅8MB的Homebrew可视化工具，让我终于看清Mac里装了啥！ | clippings \| github \| brew | [打开原文](https://mp.weixin.qq.com/s/yAULHNjS-fYgiQJj69W_pA) | 2026-05-12 |
+| GBrain：让AI Agent拥有完美记忆的知识系统 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/MG4gHYmVhV3NdN7lIw8-9A) | 2026-05-12 |
+| 终端颜值与效率巅峰：我的 Ghostty + cmux 黄金配置方案 | clippings \| Ghostty \| 终端 | [打开原文](https://mp.weixin.qq.com/s/lVG92CNKVdHZBgeazDxkvw) | 2026-05-10 |
+| 终端终极美化指南：Starship + Ghostty + zsh 打造高颜值开发环境 | clippings \| Ghostty \| 终端 | [打开原文](https://mp.weixin.qq.com/s/tlhZdDsSDZwDrPv8m2dBfQ) | 2026-05-10 |
+| 终端几个提效工具分享 —— 丰富你的 cmux 能力 | clippings \| 终端 | [打开原文](https://mp.weixin.qq.com/s/rDHGcPWGMQ2iIbHK9Wav_g) | 2026-05-10 |
+| TerminalColors: Discover Best Terminal Themes and Color Schemes | clippings \| 终端 | [打开原文](https://terminalcolors.com/) | 2026-05-10 |
+| Ghostty：专为开发者打造的高颜值、高性能终端 | clippings \| Ghostty \| 终端 | [打开原文](https://mp.weixin.qq.com/s/DMGaljIIT9NUst078KCVWA) | 2026-05-10 |
+| 需求质量太差，测试人背锅，这个AI需求评审Skill重塑测试工程师的评审话语权 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/wCvNCBgGFdqXj6UaPIs9jA) | 2026-05-09 |
+| 配色灵感｜8组超舒服的低饱和色彩搭配 | clippings \| obsidian \| github | [打开原文](https://mp.weixin.qq.com/s/i-ebHLY96-kyQDbyDyn4Zg) | 2026-05-09 |
+| 花10 分钟时间，把终端打造成“生产力武器”：Ghostty + Yazi + Lazygit 配置全流程 | clippings \| Ghostty \| 终端 | [打开原文](https://mp.weixin.qq.com/s/4hYvNOboKU_gaW0kOotQng) | 2026-05-09 |
+| 自定义 Excalidraw 脚本汇总介绍 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/gImt24208LbgFJ3CaL7bgA) | 2026-05-09 |
+| 给AI装一个"记忆大脑"：五层架构，让AI真正懂你 | clippings \| AI-tool \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/exbmoa0MkkXTamx4wsiGNw) | 2026-05-09 |
+| 测试视角的 Code Review：Agent 自动发现代码中的质量风险 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/n3FGzobNEQwEZwdDJxl45A) | 2026-05-09 |
+| 把“粗略”需求文档转成结构化AI文档 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/U4CSPjsnUhGRrxLIU1QKiQ) | 2026-05-09 |
+| 我终于会使用 Ghostty + tmux 了 | clippings \| Ghostty \| 终端 | [打开原文](https://mp.weixin.qq.com/s/onnfILzyXln1Q3AD_OFyOQ) | 2026-05-09 |
+| 天猫新品团队AI编码实战指南（下） | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/iRkxznDYhE-kXjbIHlrnNA) | 2026-05-09 |
+| 大模型加速神器 DFlash | clippings \| AI-tool \| model | [打开原文](https://mp.weixin.qq.com/s/XjH0_JAJxLm2VY04sdhikw) | 2026-05-09 |
+| kepano/obsidian-skills: Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. | clippings \| obsidian \| skill | [打开原文](https://github.com/kepano/obsidian-skills/blob/main/README.md) | 2026-05-09 |
+| TerminalColors: Discover Best Terminal Themes and Color Schemes | clippings \| github \| AI-tool \| 终端 | [打开原文](https://terminalcolors.com/) | 2026-05-09 |
+| LLM Wiki带火的「知识预编译」，Graphify能直接落地企业知识库吗？ | clippings \| llm-wiki \| graphify \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/nYbX2AYtRhGRQRMemem87g) | 2026-05-09 |
+| KKKKhazix/khazix-skills: 数字生命卡兹克开源的 AI Skills 合集 | clippings \| github \| skill | [打开原文](https://github.com/KKKKhazix/khazix-skills/tree/main) | 2026-05-09 |
+| Graphify ：给你的 AI Coding 助手先建一张“项目地图” | clippings \| graphify \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/apdD-t8cErWsdhBChyoNXA) | 2026-05-09 |
+| GitNexus：3.7万星的代码知识图谱引擎，让 AI 彻底告别"盲改代码 | clippings \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/RQ6vbb4OHGlo7sxGSHAeWg) | 2026-05-09 |
+| Ghostty：Claude Code的最佳搭档，从零到快乐鬼混 | clippings \| Ghostty \| 终端 | [打开原文](https://mp.weixin.qq.com/s/8yDd6NHeKDLDrQZ5gUMVpA) | 2026-05-09 |
+| AI Native 时代 —— 研发组织何去何从 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/Xf3C60jCxR4ppMi4HuAnVA) | 2026-05-09 |
+| 需求评审 Skill：让 AI 帮你在评审会前找到 15 个问题 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/yVjgY1PgKKPSYXYRLCfnaw) | 2026-05-08 |
+| 需求变更影响分析 — Agent 秒评变更对测试的影响范围 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/BWl4v3cOMCt0rmdBP7PBVQ) | 2026-05-08 |
+| 需求→测试点自动提取：一个 Skill 搞定 80% 的测试要点清单 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/wfJtsY2kzPL14xOXYHh39Q) | 2026-05-08 |
+| 选 AI 测试平台前，先分清：你缺的是执行，还是测试设计？ | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/4Ipoc5U8XwvDUgbYHgWWjA) | 2026-05-08 |
+| 这个封装了我3年自媒体经验的AI热点网站，今天向所有人免费开放。 | clippings \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/r6CE2U3Y0-pU05wF3_PuTQ) | 2026-05-08 |
+| 装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了。 | clippings \| AI-tool \| skill | [打开原文](https://mp.weixin.qq.com/s/L3OIqqrZkxDxqLA4RZB14Q) | 2026-05-08 |
+| 装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了。 | clippings \| agent \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/L3OIqqrZkxDxqLA4RZB14Q) | 2026-05-08 |
+| 用AI的这三年，想跟你分享这9条心得。 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/vTv0Vu4RgrMkmLbXGvnSug) | 2026-05-08 |
+| 测试设计阶段的 AI 化全景：策略+用例+数据一条龙 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/J2bQe9UVB5EssZKWBYbU8g) | 2026-05-08 |
+| 测试用例设计 — Skill 自动生成高覆盖率用例集 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/NWSIGKVINeZ_ZRIfueDxEQ) | 2026-05-08 |
+| 测试数据构造：Skill 自动生成边界值、异常值和组合数据 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/cj4DErLvjdHgPpkcXkqSMQ) | 2026-05-08 |
+| 测试工作量估算：Skill 自动拆解需求复杂度，输出合理排期 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/tR0ptMM7R4YTNXl6k96bVg) | 2026-05-08 |
+| 接口契约测试 — Skill 自动验证 API 设计，接口还没写代码就能测 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/zFJYIl1Nxi0rdaam4hdM-w) | 2026-05-08 |
+| 开源「洁癖.skill」，让你的Agent越用越聪明。 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/tg1wd-iN2gWHWhXdY0faeg) | 2026-05-08 |
+| 卡兹克开源了AI信息筛选工具：抹平AI世界一切信息差 | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/AA3Qc7fEEU2vuwbxDyGDQg) | 2026-05-08 |
+| 一个测试人必备的测试用例审核 Skill，采纳率飙升至99%以上，简直太牛了（附详细实操步骤） | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/M78RjkVrj8CFiai3RyrQAg) | 2026-05-08 |
+| TRD 技术需求文档分析 — 测试视角的技术评审 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/-Fsxoc97ByWTP9PTcNoVIA) | 2026-05-08 |
+| OpenSpec + Qoder + Hermes：我用这套组合拳，把 AI 编程变成了流水线 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/IjG1oRYwAX4_Z_HKfs8BkA) | 2026-05-08 |
+| OpenSepc新版本新提升 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/Fxt6mBW1NhSpye7JN4gkBw) | 2026-05-08 |
+| Obsidian笔记导航\|让知识库秒变Notion🚀 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/LLnEG8IGS4DpN0SyYu8Raw) | 2026-05-08 |
+| Obsidian 入门43：给剪藏插件加上 AI，剪藏完自动写摘要、打标签 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/ASS7x2HN_dEXwqFCXneFwA) | 2026-05-08 |
+| Hermes 多 Bot 方法论：理念比步骤重要 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/5QSR14coQLK1K_rCp4ThwQ) | 2026-05-08 |
+| Hermes Agent 上手体验：多 Agent、多 Gateway、多账号 OAuth，确实有点不一样 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/dO-NgtGSzXPWCc2xCSH1pw) | 2026-05-08 |
+| Graphify 实战：把任意文件夹变成可查询的知识图谱 | clippings \| graphify \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/rxXPcmnDg8FUsLTptqqv5Q) | 2026-05-08 |
+| Git管理神器！一款开源免费的跨平台Git管理工具，新手也能轻松上手，比SourceTree更好用 | clippings \| github | [打开原文](https://mp.weixin.qq.com/s/p9WSRG1nzjkRfWeEJ-c3lQ) | 2026-05-08 |
+| Codex 低成本使用方法：Plus 稳定号 + 备用号池 | clippings \| codex \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/Qq72tJ_uY-VnEowjk9hl-A) | 2026-05-08 |
+| AI编程五把利器：GSD、Superpowers、Skills、OpenSpec、BMAD选哪个 | clippings \| openspec \| superpowers | [打开原文](https://mp.weixin.qq.com/s/icTfd7hzgoyb_GWp_0ndjg) | 2026-05-08 |
+| AI测试数据治理方案｜3步让测试团队不再抗拒数据治理 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/C2d1PYAk_wAMSSWAr18Puw) | 2026-05-08 |
+| AI 辅助需求分析：Agent 自动发现需求中的测试盲点 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/G3kUH5TwLsKGWt-QPqUs2A) | 2026-05-08 |
+| 5个AI测试神器，让你提前下班 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/kwFWdBZbSd9GeF6Dyw5aOw) | 2026-05-08 |
+| 让 AI 帮你更好地写代码：OpenSpec + Superpowers 通俗指南 | clippings \| OpenSpec \| Superpowers | [打开原文](https://mp.weixin.qq.com/s/kY59voB7nz24KPkR1kVAdA) | 2026-05-07 |
+| 聊聊 Karpathy 的 LLM Wiki，以及 V2 为什么值得认真看一眼! | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/D1-sKka_lm58FTi_F8xuow) | 2026-05-07 |
+| 用不上 Claude Design？我找到了一个免费开源的本地平替 | clippings \| github \| skill | [打开原文](https://mp.weixin.qq.com/s/8RLfbJGb51uEzxGXIVAtWQ) | 2026-05-07 |
+| 测试用例设计 — Skill 自动生成高覆盖率用例集 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/NWSIGKVINeZ_ZRIfueDxEQ) | 2026-05-07 |
+| 测试工作量估算：Skill 自动拆解需求复杂度，输出合理排期 | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/tR0ptMM7R4YTNXl6k96bVg) | 2026-05-07 |
+| 每个ide都可以使用！！我融合了superpowers、OpenSpec、spec-kit、GSD、gstack、claude-task-master写一套可控Ai开发规范流程 | clippings \| OpenSpec \| Superpowers | [打开原文](https://mp.weixin.qq.com/s/6NSD1WoKRXTHR0exWBKXtg) | 2026-05-07 |
+| 我们把 Hermes Agent 的自进化，搬进了 Treeify 的测试设计 Skills | clippings \| hermes \| AI-test | [打开原文](https://mp.weixin.qq.com/s/d3zGDLBALUlKUCXMARZZkw) | 2026-05-07 |
+| 基于 Harness + SDD + 多仓管理模式的 AI 全栈开发实践｜得物技术 | clippings \| AI-code \| hermes | [打开原文](https://mp.weixin.qq.com/s/ygQGSH5c7GHYDvkqWoQTXQ) | 2026-05-07 |
+| 别乱装OpenCode插件！这9个精选清单，第2个可能封号 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/3RNO3VrzVCQbcQ0FwkN8eA) | 2026-05-07 |
+| sub2api/README_CN.md at main | clippings \| github \| AI-tool | [打开原文](https://github.com/Wei-Shaw/sub2api/blob/main/README_CN.md) | 2026-05-07 |
+| rihebty/flow-kit: 一套融合了bmad、spec-kit、OpenSpec、GSD、claude-task-master、superpowers、gstack、skills的 AI 编程规范化流程 | clippings \| skill \| agents.md \| github \| AI-code | [打开原文](https://github.com/rihebty/flow-kit) | 2026-05-07 |
+| jundot/omlx: LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar | clippings \| github \| model \| omlx | [打开原文](https://github.com/jundot/omlx) | 2026-05-07 |
+| cnitlrt/AutoTeam: ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、邮箱注册、CPA/Sub2API 认证同步 | clippings \| github \| AI-tool | [打开原文](https://github.com/cnitlrt/AutoTeam/blob/dev/docs/getting-started.md) | 2026-05-07 |
+| Sage Wiki：把 Karpathy 的 LLM Wiki 理念变成了一个真正能用的产品 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/oe6ydtP8DCvRSPmBheNi_Q) | 2026-05-07 |
+| Oh My Codex：让 OpenAI Codex 从单兵作战变成多 Agent 协作开发 | clippings \| codex \| omx | [打开原文](https://mp.weixin.qq.com/s/JT_HctwLew43ihdcWSU_6g) | 2026-05-07 |
+| Obsidian 项目管理实战：用笔记软件管理复杂项目 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/-U9XdsNJFpzqAJFCaax-7w) | 2026-05-07 |
+| Obsidian 入门40：把我的写作工作流Skill免费分享给你 | clippings \| skill \| wechat \| article | [打开原文](https://mp.weixin.qq.com/s/26E9jSCWquHB1_efWTPBFQ) | 2026-05-07 |
+| Karpathy 实战知识图谱：Graphify 构建图谱神器！ 支持 Hermes Agent | clippings \| Graphify \| 图谱 \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/JXJD9AE8kKVVZpbbUNLacQ) | 2026-05-07 |
+| Hermes Agent记忆插件选型指南：8大智能体记忆方案深度对比 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/lXtZg4vodQSLAYvh_yZUpg) | 2026-05-07 |
+| GitHub 上有人开源了 —— AI 账号套利的整套基础设施 | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/b0xCzuqtbRoVp33XmzXmzQ) | 2026-05-07 |
+| Android CLI 实战指南: 借助任意智能体，实现 3 倍速高效开发 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/WeAsOl8EmDwjI_jnIclDMA) | 2026-05-07 |
+| 99%代码AI写，谁来测试？三位创始人交出真实答卷 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/t4lyI7xRkHSwreVunvka1w) | 2026-05-07 |
+| 被 Claude Code排的计划气笑了，于是做了我第一个非 Coding 类的 Skill | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/X4YLjOiMAOVTfZqz-qofbw) | 2026-05-06 |
+| 我又把 Obsidian 知识库升级了：现在它能自己长出知识网络 | clippings \| obsidian \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/N5OWc-8IdCrdqtVB4SLeaA) | 2026-05-06 |
+| 开源\|一款零服务器代码知识图谱引擎，支持多语言解析、Graph RAG 问答、AI 代理集成的代码分析平台 | clippings \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/a3lgwmv7M7y4YSjN--M3lQ) | 2026-05-06 |
+| 应该是全网最细最全的AGENTS.MD× CLAUDE.md × 团队实践方法【已开源】 | clippings \| skill \| agent.md | [打开原文](https://mp.weixin.qq.com/s/RAUFozioCrb9pUeMcJsKRw) | 2026-05-06 |
+| 如何用Obsidian做到真正的知识管理？ | clippings \| obsidian \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/R7rfS1xxfP9pDoPgTi2p6g) | 2026-05-06 |
+| 如何用Obsidian做到真正的知识管理？ | clippings \| obsidian \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/R7rfS1xxfP9pDoPgTi2p6g) | 2026-05-06 |
+| 多 Agent 团队协作：Hermes Agent 的正确打开方式 | clippings \| hermes \| agent | [打开原文](https://mp.weixin.qq.com/s/EncXXMhmaMwxuH-rTCrn-g) | 2026-05-06 |
+| 基于 Obsidian + LLM Wiki 开始构建个人知识工程 | clippings \| obsidian \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/DI21LuqzbvpXqiI1knocMQ) | 2026-05-06 |
+| sansan0/TrendRadar: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 | clippings \| github | [打开原文](https://github.com/sansan0/TrendRadar) | 2026-05-06 |
+| Thysrael/Horizon: 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI 构建你专属的新闻雷达 | clippings \| github | [打开原文](https://github.com/Thysrael/Horizon) | 2026-05-06 |
+| SkillShare入门：基于Git跨平台同步AI智能体SKILL能力 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/HF7Fb3bsgTdQ_e8DmPCZRQ) | 2026-05-06 |
+| PM AI编程实战⑥·AI获取数据自由 | clippings \| AI-认知 \| AI-test \| pm \| 产品 | [打开原文](https://mp.weixin.qq.com/s/4C0Yd2t0wdhh-4SAI9B_4Q) | 2026-05-06 |
+| PM AI编程实战③·造你的第一个AI工具 | clippings \| AI-test \| skill \| AI-认知 \| pm \| 产品 | [打开原文](https://mp.weixin.qq.com/s/DNf2RW_k3-Re9b6lZWr8aQ) | 2026-05-06 |
+| OpenSpec + Superpowers TDD v2：4 层防护叠加 26 个原子任务，27 次 subagent 实测 3/4 通过 | clippings \| superpowers \| openspec \| tdd | [打开原文](https://mp.weixin.qq.com/s/OdlXmm7pSeQ8jiMZIF_rsQ) | 2026-05-06 |
+| Karpathy 的 AI 知识库理念落地成跨平台桌面应用，已在 GitHub 上收获 5000 + Star | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/Mc8hmVIiEhOjGPkGofaczQ) | 2026-05-06 |
+| Karpathy 怎么看 AI Agent（二）：从写代码到编排 Agent，工作方式怎么切换？ | clippings \| AI-tool \| agent \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/_XE1U9_XsmWjA8eSiZw64A) | 2026-05-06 |
+| Karpathy 怎么看 AI Agent（二）：从写代码到编排 Agent，工作方式怎么切换？ | clippings \| agent \| agent.md | [打开原文](https://mp.weixin.qq.com/s/_XE1U9_XsmWjA8eSiZw64A) | 2026-05-06 |
+| GitNexus 与 graphify：两种代码知识图谱工具，解决的不全是同一个问题 | clippings \| 图谱 \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/azU4uZiOq8dd0eQ2L5BDSA) | 2026-05-06 |
+| ChatGPT Plus价格重回个位数！如何搭建属于自己的Codex账号矩阵 | clippings \| AI-tool \| github | [打开原文](https://mp.weixin.qq.com/s/wSzC0DKLHtPsb7lfO27XLA) | 2026-05-06 |
+| CLI系列②·一张图看懂2026年的CLI化全景 | clippings \| CLI \| cli | [打开原文](https://mp.weixin.qq.com/s/52HFahSATctmp7qvBaGGxg) | 2026-05-06 |
+| CLI系列①·GUI给人操作，CLI给Agent操作 | clippings \| AI-tool \| CLI \| cli | [打开原文](https://mp.weixin.qq.com/s/UJtpQrScNvEXfodJDI-icg) | 2026-05-06 |
+| AI产品笔记⑤·《概率不是Bug，是AI的本质》 | clippings \| AI-认知 \| AI-test \| pm \| 产品 | [打开原文](https://mp.weixin.qq.com/s/FqrupLM8CT6EBOZT9841Ng) | 2026-05-06 |
+| AI产品笔记④·《AI不会读心，让产品主动开口说话》 | clippings \| AI-认知 \| AI-test \| pm \| 产品 | [打开原文](https://mp.weixin.qq.com/s/UIX1pyrKG0WHj-F6E8DpSA) | 2026-05-06 |
+| AI Agent 架构设计（四）：多 Agent 协作（OpenClaw、Claude Code、Hermes Agent 对比） | clippings \| agent | [打开原文](https://mp.weixin.qq.com/s/YFU_ZLN8dvvI3cO9vHM53w) | 2026-05-06 |
+| 4400 人收藏的开源排版项目！Kami：让 AI 生成的文档，终于有了值得一看的排版！ | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/7WgmbhQl3GpydDcPlI5YtQ) | 2026-05-06 |
+| 测试提前预知风险的3个技巧！（必看） | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/ZCCtxDi5_JsuwjK5dACf2A?poc_token=HJxP-WmjN6K-N3XJvbCsn1ip1jTnwNp0-Ox-s5T6) | 2026-05-05 |
+| Karpathy 的AI知识库 理念，已经有人开源在 GitHub 上了 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/rBos7YoQvUOCszYJA5NsQQ) | 2026-05-05 |
+| Karpathy 的 LLM Wiki 模式——会自我进化的知识库 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/_onBb-nxolXrpy9rnpi22A) | 2026-05-05 |
+| Karpathy 的 LLM Wiki 模式——会自我进化的知识库 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/_onBb-nxolXrpy9rnpi22A) | 2026-05-05 |
+| Karpathy 最新分享：用 LLM 打造个人知识库，比 RAG 靠谱多了 | clippings \| llm-wiki \| qmd | [打开原文](https://mp.weixin.qq.com/s/uu1lSN1fqmPlZgyqe-EHiQ) | 2026-05-05 |
+| Agent Teams 实验笔记：让 CC 三个 Agent 跑一遍 Todo Demo | clippings \| AI-code \| agent | [打开原文](https://mp.weixin.qq.com/s/tTDd_rkXvaBsHGo9QAuw1w) | 2026-05-05 |
+| AI时代，日记不该只是用来记录，另附「日记分流 Prompt」 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/HdHgpaLNJSrJi0Ew_X-P4w) | 2026-05-05 |
+| tw93/Mole: 🐹 Deep clean and optimize your Mac. | clippings \| github \| 工具 | [打开原文](https://github.com/tw93/Mole) | 2026-05-04 |
+| maomaomonkey/ai-wiki-compiler | clippings \| github \| llm-wiki \| obsidian | [打开原文](https://github.com/maomaomonkey/ai-wiki-compiler) | 2026-05-01 |
+| 这才是个人知识图谱该有的模样 -- 持续积累、复利增长 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/7KA-LpfWhFshzKRcVqTklg) | 2026-04-30 |
+| 这个开源项目让你的Agent画图能力质的飞跃：15 个技能覆盖从流程到架构图 | clippings \| AI-tool \| agents \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/2zZrMRLdyY8b-EvhXc3q7A) | 2026-04-30 |
+| 踩了几次坑以后，我用 Hermes 搞定了微信文章稳定提取方案 | clippings \| hermes \| 公众号 \| skill | [打开原文](https://mp.weixin.qq.com/s/0j2_qsa6SH6_kJb1y9gh4A) | 2026-04-30 |
+| 越来越多年轻人，在周三下午请假消失 | clippings \| 知行合一 | [打开原文](https://mp.weixin.qq.com/s/e0edHHfgBuWcdH2BA2zPmA) | 2026-04-30 |
+| 让AI读懂你的整个代码仓库 \| repomix深度解析 | clippings \| 图谱 \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/lR7zOUK1NWN4aFuLV45KMw) | 2026-04-30 |
+| 裸装 Hermes 的朋友，你用的根本不是 Hermes！7 步满配教程，能力直接翻几倍！ | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/BBRpm9GiAqGgLJSe4ozynQ) | 2026-04-30 |
+| 装完 Hermes 一定要配置这五套系统，秒变满配版，能力提升数倍不止 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/-1CQxvdc1bDMrPzIHFPpbA) | 2026-04-30 |
+| 给大模型装上'眼睛'：SightFlow 让 AI 自己操作微信 | clippings \| AI-tool \| github \| AI-test | [打开原文](https://mp.weixin.qq.com/s/6NKYakCQ-j1n-3PNuzRLWA) | 2026-04-30 |
+| 给 hermes Agent 装上记忆之后，它不再问我「你是做什么的」了 | clippings \| hermes \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/_RZz1rNeI4_UdENtKFdgQg) | 2026-04-30 |
+| 第 010 篇｜别再只会hermes多开几个 Profile：一套可复用的本地 AI 团队搭建指南 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/zs8FzfDEtqurKnzzijfrOg) | 2026-04-30 |
+| 用 Karpathy LLM Wiki 方法论，为 Agent 系统构建结构化知识层 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/QPzcr9rnTxr27b_Tha5ObA) | 2026-04-30 |
+| 每个员工用上 AI Agent，不等于你的组织 AI-Native 了——一个被严重低估的「组织代差」 | clippings \| AI-tool \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/X7k-RuTGxrAY8BlX82frMQ) | 2026-04-30 |
+| 最值得产品经理装的10个skills | clippings \| pm \| 产品 \| skill | [打开原文](https://mp.weixin.qq.com/s/V55-NNTCy8AG80NhkMsfmg) | 2026-04-30 |
+| 推荐基于Andrej Karpathy LLM Wiki 理论框架的3 个开源，在github上可以拿来即用的个人知识库管理应用 | clippings \| github \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/NzkQs50OhJoa8K8maO-30w) | 2026-04-30 |
+| 换了飞书官方新插件，互@没了？200行代码搞定，大佬们玩起了成语接龙、飞花令~ | clippings \| agents \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/OgNeR_x3mpajeBsuWwZVjQ) | 2026-04-30 |
+| 我用Obsidian + Codex 搭了一个会持续进化的AI知识库，保姆级教程来了 | clippings \| codex \| obsidian \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/LlCmM1Zj8BqgKyz460VoDw) | 2026-04-30 |
+| 我把自己用的这套为 AI 而生的 Obsidian 知识库，开源了 | clippings \| obsidian \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/2pH2y5DXccuVBbi1at-HEQ) | 2026-04-30 |
+| 我做了一个APP自动化测试Skill，从此AI替你打工 | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/eCLuMl3uDFiiMSAJVJRHiQ) | 2026-04-30 |
+| 开源了一个 oss-skill：蒸馏开源软件作者或项目 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/EPBjLyXXQlmdGXBFk9mziQ) | 2026-04-30 |
+| 如果AI可以被工程化，人可不可以？ | clippings \| skill \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/-XY0ktzUQZ8TrqcLRQ6W3A) | 2026-04-30 |
+| 告别手绘图！fireworks-tech-graph一键生成专业架构图 | clippings \| skill \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/SRNrPVH0xi5gu3dZE_IwZw) | 2026-04-30 |
+| 前端工程师别再一句话问 Codex 了：这 20 条提示词，排查 bug、重构组件、写 PR 更省时间 | clippings \| codex \| AI-code \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/mheZDCAaj_LHBo2goiG7fg) | 2026-04-30 |
+| 别再录屏了！把 AI 编程对话变成可交互的 HTML 回放 | clippings \| github \| 录屏 \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/Pft5vHqjA3dA_HuIoJAM2A) | 2026-04-30 |
+| liuxiaopai-ai/raphael-publish: Raphael Publish - 公众号排版大师 \| 现代 Markdown 排版引擎 | clippings \| github \| 排版 \| 公众号 | [打开原文](https://github.com/liuxiaopai-ai/raphael-publish) | 2026-04-30 |
+| abtop：给 Claude Code 和 Codex CLI 开了一个“任务管理器” | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/jEDvWhrzvCTlVIQkdj575Q) | 2026-04-30 |
+| Token自由！目前本地Coding Agent的最佳拍档 | clippings \| model \| 部署 \| tool | [打开原文](https://mp.weixin.qq.com/s/Av0NAUt2QfTUPxjohmd5pA) | 2026-04-30 |
+| Obsidian 这6个插件，帮我搭建了一套高效知识管理工作流 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/QBZOseef905nwxbXhGNgsA?scene=1&click_id=114) | 2026-04-30 |
+| Obsidian Markdown高级技巧：从入门到精通 | clippings \| obsidian \| md | [打开原文](https://mp.weixin.qq.com/s/3qNjnTw08Ux_rO33GtQxlA) | 2026-04-30 |
+| Obsidian Headless Sync：补齐知识库自动化的最后一环 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/3iLYLT0Uq9HG862KhSdoSQ) | 2026-04-30 |
+| MenheraHann/TermKit | clippings \| github \| cli | [打开原文](https://github.com/MenheraHann/TermKit) | 2026-04-30 |
+| Markdown Viewer Skills：把架构图直接写回 Markdown 里 | clippings \| skill \| md | [打开原文](https://mp.weixin.qq.com/s/HQz5XlxUlvjieA499mGyJw) | 2026-04-30 |
+| Hindsight本地安装部署完整记录 | clippings \| hermes \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/PjTdxxkF4LFiKfNBcXrXWA) | 2026-04-30 |
+| Hermes Agent 配置和使用完全指南：安装、模型接入、Skill、MCP、消息网关一篇搞定 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/ipNWaDoWttZ1FVgGMahWEA) | 2026-04-30 |
+| Hermes Agent 生态全攻略：一文搞定 80+ 高阶工具配置，从入门到精通！ | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/D6_RU3K1Zu3zTQg-C3ju0g) | 2026-04-30 |
+| Hermes Agent 接入 Hindsight：给 AI 装上长期记忆的实战指南 | clippings \| hermes \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/GoUYd3ZTQXDzOckYNd8I8Q) | 2026-04-30 |
+| Hermes Agent CLI完全使用指南 · hermes 全子命令 + 斜杠命令详解 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/fUr4fcLtdoMlX4jjNBJ65g) | 2026-04-30 |
+| Harness 超牛逼的 三级记忆架构 上下文+历史分层+事实列表 ！ 落地价值 逆天！！ | clippings \| harness \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/q8O-DjZPvksUHavG5sidZQ) | 2026-04-30 |
+| Github 榜首 —— Free Claude Code | clippings \| github \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/nzyTNUVDX8JFrhRjKuaUtQ) | 2026-04-30 |
+| DeepAgents 怎么把接口测试做得更稳、更快、更像一个测试团队 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/NSxjtPX24GhBH-3QqbjmEg) | 2026-04-30 |
+| Codex 深度进阶手册：高级技巧 + 实战说明，看完少走半年弯路 | clipping \| codex \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/X6sLRDkmI28_CZAhaPwT4A) | 2026-04-30 |
+| AI手工测试用例的实践进阶之路 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/lzpVDG_Ut5cHB3Z4wlNgCA) | 2026-04-30 |
+| AI团队终于能互@开会了！我用OpenClaw解决了飞书多Agent协作的3个痛点 | clippings \| AI-tool \| agent \| 群 | [打开原文](https://mp.weixin.qq.com/s/iRUlw9k1GrH2nit-s42BzA) | 2026-04-30 |
+| AI 编程进阶：三件套 OpenSpec 定方向，Superpowers 带节奏，Agent Skills 守纪律，打造可预测的工程化工作流 | clippings \| skill \| openspec | [打开原文](https://mp.weixin.qq.com/s/d6JicIxbBv9_S0_Om6l2OA) | 2026-04-30 |
+| 给大模型装上'眼睛'：SightFlow 让 AI 自己操作微信 | clippings \| github \| AI-test | [打开原文](https://mp.weixin.qq.com/s/6NKYakCQ-j1n-3PNuzRLWA) | 2026-04-29 |
+| sightflow-dev/sightflow-desktop-agent | clippings \| github \| AI-test | [打开原文](https://github.com/sightflow-dev/sightflow-desktop-agent) | 2026-04-29 |
+| 用 Hermes 直接指挥本地 CodeX 写代码, Profiles 搭建多Agent实践 | clippings \| hermes \| codex | [打开原文](https://mp.weixin.qq.com/s/i48sF8KVuwX6vXg204TyuA) | 2026-04-28 |
+| 每日 skill 系列之 PRD 自动化 | clippings \| prd \| skill \| 产品 | [打开原文](https://mp.weixin.qq.com/s/LAgFRq_jhe7NwlxwOrwsUg) | 2026-04-28 |
+| 极致简约，回归内容本身：Obsidian 主题推荐——Cupertino | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/CiH_9KIQy654uKmt5JlVww) | 2026-04-28 |
+| 我如何用 AI Agent 管理个人知识库：Hermes + Obsidian + LLM Wiki | #clippings \| #obsidian \| llm-wiki \| Hermes | [打开原文](https://mp.weixin.qq.com/s/lK7gKYX3G-4s306qHJS8Lw) | 2026-04-28 |
+| 微软这个112K Star的开源项目MarkItDown是个万物转 Markdown 神器啊 | clippings \| github \| md | [打开原文](https://mp.weixin.qq.com/s/N30E9EI_l4W5SJEKPYpJWg) | 2026-04-28 |
+| 微信文章一键入库Obsidian-我的知识库搭建实战 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/10T_8AMDpy5GWglGfQZT_A) | 2026-04-28 |
+| 建立Obsidian个人知识库的正确驾驶方式 | #clippings \| #obsidian \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/RY7Feokexi4_dN9AW8WD8w) | 2026-04-28 |
+| 如何在obsidian中添加claudian插件并使用codex | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/GPnzFZrqrQ-yUzDoSYKBIg) | 2026-04-28 |
+| 双AI环境 + 多Agent分工：我用 Obsidian 炼成了一台自我进化的知识引擎 | clippings \| obsidian \| agent | [打开原文](https://mp.weixin.qq.com/s/cvhqXwzMmRtrkBxqFIHTsA) | 2026-04-28 |
+| 刚刚发现，Claude桌面版支持第三方模型了，没账号也可以用Cowork，开关在这 | clippings \| cc \| claude | [打开原文](https://mp.weixin.qq.com/s/GCmd29b5wJXh29NOmq8QCQ) | 2026-04-28 |
+| 公开我的Obsidian LLM Wiki的脚本（附双平台脚本） | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/QcztkxuBmAHoTrw7CwvT-g) | 2026-04-28 |
+| 为什么需要一个 Multi-Pass Review Skill：让大模型代码审核从“会说”变成“可控” | clippings \| code-review \| skill | [打开原文](https://mp.weixin.qq.com/s/E7tLeZjf_3u6eT5NZN7SkA) | 2026-04-28 |
+| cosmicstack-labs/mercury-agent: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram. | clippings \| mercury \| agent | [打开原文](https://github.com/cosmicstack-labs/mercury-agent/blob/main/README.zh-CN.md) | 2026-04-28 |
+| cosmicstack-labs/mercury-agent: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram. | clippings \| mercury \| agent | [打开原文](https://github.com/cosmicstack-labs/mercury-agent/blob/main/README.zh-CN.md) | 2026-04-28 |
+| cclank/Hermes-Wiki: Hermes agent + LLM Wiki + 源代码 完成 Hermes agent  wiki | clippings \| hermes \| llm-wiki | [打开原文](https://github.com/cclank/Hermes-Wiki/tree/master) | 2026-04-28 |
+| OpenSpec + Superpowers + gstack：一套让 AI 从「写代码」到「做项目」的组合拳 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/xjYmBrAR1Jxi0fMd_818Bg) | 2026-04-28 |
+| OpenCode + Tokscale 帮你打开Token消耗的黑箱 | clippings \| github \| token \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/UgYTKnlzVZiKk7jmWdSBow) | 2026-04-28 |
+| Obsidian教程21：我把 Karpathy 的 LLM Wiki 做成了一个 Obsidian Skill | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/d4xKsdQiNrkkgx2ydAwXCQ) | 2026-04-28 |
+| Obsidian 搜索技巧完全指南：让你的知识库检索效率提升 10 倍 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/1str3dZIuRFOMf_U-vPuyA) | 2026-04-28 |
+| Obsidian 图片排版与管理终极指南：解决“Cupertino主题长图撑屏问题”与“附件混乱” | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/p28HPpwiqOjbLhoeKpgD3w) | 2026-04-28 |
+| Hermes Agent + LLM-Wiki: 让研究落进 Obsidian | clippings \| hermes \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/6Ql3YOApZJXMBH3bCS76DQ) | 2026-04-28 |
+| AI + 代码审查：生产实践 | clippings \| AI-test \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/yP3FiVKEvajdvLa0W4qmmg) | 2026-04-28 |
+| 2026 最新 玩转 Obsidian 简约美化 + 插件推荐 + Git 多端同步全流程教程 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/KsTE7Vm6EqGINdZCr7rM1g) | 2026-04-28 |
+| 如何打造 AI 驱动的研发平台？我做了完整方案 | clippings \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/5IUvuZbqu8w_iI4VSs788Q) | 2026-04-27 |
+| Graphify-让AI读懂你的代码，并且迭代优化，形成复利 | clippings \| 图谱 \| graphify \| AI-code \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/loeB5ocZhq715jbjU_VLTA) | 2026-04-27 |
+| Code-Review-Graph 多仓库知识图谱配置指南 | clippings \| 图谱 \| graph \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/jilDAp_N9rQs6-45gnZhxg) | 2026-04-27 |
+| AI开发自动化再升级：如何高效处理Bug修复与零星优化 | clippings \| 图谱 \| graph \| AI-test \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/JLEOQ82_Hw267tbxMHfyaA) | 2026-04-27 |
+| 5分钟复刻 Andrej Karpathy 的 LLM Wiki：用 Obsidian + Agent 把剪藏、消化、查询连成一个会持续进化的知识系统 | clippings \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/U0NJGAUnVL8TJqznYItIuA) | 2026-04-27 |
+| zhukunpenglinyutong/desktop-cc-gui: CC GUI 客户端（专为开发者打造的VibeCoding平台） | clippings \| AI-tool | [打开原文](https://github.com/zhukunpenglinyutong/desktop-cc-gui/tree/main) | 2026-04-26 |
+| codejunkie99/agentic-stack: One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch. | clippings \| 记忆 \| agent \| AI-code \| AI-tool | [打开原文](https://github.com/codejunkie99/agentic-stack/blob/master/README.md) | 2026-04-26 |
+| Graphify:Karpathy 知识库工作流的终极进化 | clippings \| 图谱 \| graphify \| AI-code | [打开原文](https://mp.weixin.qq.com/s/5ircUiUoZUx22oiwu6C57w) | 2026-04-26 |
+| AI Agent 架构层级：Prompt/Skill/Tool/Plugin/ MCP/ Agent | clippings \| AI-code \| skill \| prompt \| mcp \| tool \| agent | [打开原文](https://mp.weixin.qq.com/s?__biz=MzI2NDY5NTE1Ng==&mid=2247484184&idx=1&sn=2383b281e2d1be5da42cbacd0e1f58bc&chksm=eaa9ff03ddde7615f4a3e1b6d142aa6dd75c891078a2de9bd8658d1b1c9b265ef0d27067726d&cur_album_id=4469060827471511557&scene=189#wechat_redirect) | 2026-04-26 |
+| 让Obsidian成为你的日计划管家-Day_Planner插件完整教程 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/cQP4dBxR1DAM0SfUrCIx5Q) | 2026-04-25 |
+| 我用claude code+superpower开发了一个家庭记账微信小程序 | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s?__biz=Mzg2MDE0Mjk1MQ==&mid=2247484263&idx=1&sn=96588dbe32f5a3bf68a45a18d2a1c940&chksm=ce2baf6ff95c2679e29f68f806071dd8e8d6c5198f3ed3d86bb044b261dae347894b37a271a4&cur_album_id=4477737276042657796&scene=189#wechat_redirect) | 2026-04-25 |
+| 从可观测到可理解：用 UModel 构建 Agent 原生的代码知识图谱 | clippings \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/VE8CKfUUj-548DF81ZuLLg) | 2026-04-25 |
+| stepfun-ai/gelab-zero: STEP-GUI: The top GUI agent solution in the galaxy.  Developed by the StepFun-GELab team and powered by StepFun’s cutting-edge research capabilities. | clippings \| AI-test \| UI-test \| github | [打开原文](https://github.com/stepfun-ai/gelab-zero/blob/main/README_CN.md) | 2026-04-25 |
+| jnMetaCode/superpowers-zh: 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活 | clippings \| superpowers | [打开原文](https://github.com/jnMetaCode/superpowers-zh/blob/main/README.md) | 2026-04-25 |
+| code-review-graph：Claude Code 本地知识图谱，减少 6.8 倍代码审查 Token ! | clippings \| code-review-graph | [打开原文](https://mp.weixin.qq.com/s/jc5RZB9eIYSAmEUMfMxtkg) | 2026-04-25 |
+| Cocoon-AI/architecture-diagram-generator: Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill. | clippings \| github | [打开原文](https://github.com/Cocoon-AI/architecture-diagram-generator) | 2026-04-25 |
+| App Store Price - 发现全球 App Store 最低价 | clippings \| model | [打开原文](https://appstoreprice.org/zh/apps/6473753684) | 2026-04-25 |
+| 一个文件让 AI Coding 效率翻倍：AGENTS.md 实践指南 | clippings \| agent \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/m-v7GTbksdhWZuHxGD7BaA) | 2026-04-24 |
+| 🤖 Skill 3 \| 全栈开发 Skill | clippings \| AI-code \| skill | [打开原文](https://mp.weixin.qq.com/s/vqMfXQ_2uldzSlIzAG31xw?scene=1&click_id=120) | 2026-04-23 |
+| 🚀阿里云OSS+RS：国内同步Obsidian最快 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/IvfqwyMpts7xjFdlY_eiNw) | 2026-04-23 |
+| 这家开源 AI 公司爆火，狂揽 57000+ GitHub Star！ | clippings \| Agent | [打开原文](https://mp.weixin.qq.com/s/1BOXBlchGGWY3Vj0nlKYHA) | 2026-04-23 |
+| 还在用“裸奔”的 Obsidian？这 8 个神级插件，让你的笔记效率直接起飞 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/RHHu7u3Sa2NsaC9dBrOOZA) | 2026-04-23 |
+| 踩遍Homepage插件的坑后，我总结出这份Obsidian「黄金首页」配置清单 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/9UKezdesQvtfmOvJzlPSKw) | 2026-04-23 |
+| 让 AI 稳定交付全栈项目：我的 Claude Code + OpenSpec + Superpowers 三件套实战 | clippings \| Superpowers | [打开原文](https://mp.weixin.qq.com/s/cargncwQK7dRzCaA9oFQVg) | 2026-04-23 |
+| 老项目也能用 AI 写代码？Superpowers + OpenSpec 双引擎实战拆解 | clippings \| superpower \| openspec | [打开原文](https://mp.weixin.qq.com/s/ZS_gGj7zjO-4YM_Y8FV50A) | 2026-04-23 |
+| 用这两款神器，让你的Obsidian笔记安全同步！ | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/Oo081kB9dYboP_cjHv9azQ) | 2026-04-23 |
+| 用AI IDE提升10倍效率：产品经理的工作空间设计指南 | clippings \| AI-PM \| AI空间 \| 工作空间 \| 空间 \| 产品 | [打开原文](https://mp.weixin.qq.com/s/FLwo32cV6FwEfiKofPQJgA) | 2026-04-23 |
+| 测试用例生成 — AI辅助编写测试 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/V9Teu-csD-8TgPXvVK98BA) | 2026-04-23 |
+| 模型量化技术：深入理解 GGUF、GPTQ、AWQ | clippings \| AI-tool \| model | [打开原文](https://mp.weixin.qq.com/s/2Dx2CxM49QL6-J85ZYACBA) | 2026-04-23 |
+| 整理1000+条笔记后，我总结出这5条归档原则 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/zMubAE-oy3WQo4lS2b3VVg) | 2026-04-23 |
+| 效率翻倍！使用OpenSpec+Superpowers为你的Agent打造极致高效的开发工作流 | clippings \| Superpowers | [打开原文](https://mp.weixin.qq.com/s/7pLI8o8B3uQtXJz4SrVYUw) | 2026-04-23 |
+| 我用obsidian做了一个规划复盘模板 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/fHCW4xf-rc_vxnRYnJOypA) | 2026-04-23 |
+| 我把用了 4 年的 Obsidian，花 1 个月用 AI 重构了 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/GsCtTqYzZl-a9cP1OqC6Fg) | 2026-04-23 |
+| 微信转发一篇文章，自动编进你的LLM Wiki知识库 | clippings \| LLM-wiki \| wiki | [打开原文](https://mp.weixin.qq.com/s/VIAUMdyju5s1CxzegKFd-g) | 2026-04-23 |
+| 强烈推荐！这个 Skill 画架构图质量超高，一句话出图 | #clippings \| #skill \| #github \| 架构图 | [打开原文](https://mp.weixin.qq.com/s/qzevOsuhez1Q0T9Ae2B_Kw) | 2026-04-23 |
+| 强烈推荐你用一下这个 hermes agent 的 web-ui，好玩又好看 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/OYpWUBvBWf066BAz81YgXQ) | 2026-04-23 |
+| 实现obsidian一键复制公众号(HTML)格式 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/rQwjzPHY8oEW5RyLhwBEIg) | 2026-04-23 |
+| 学 Superpowers 的思路，从零搭建一个不会跑偏的 AI Agent | clippings \| Superpowers | [打开原文](https://mp.weixin.qq.com/s/MRAHNIquhmANM2NqSSw9DA) | 2026-04-23 |
+| 基于skill(Superpowers)驱动的spec流程 | clippings \| Superpowers | [打开原文](https://mp.weixin.qq.com/s/gIcLe1Ri8aMoOFxY8ETr1g) | 2026-04-23 |
+| 基于OpenClaw构建Wiki模式知识库的全链路自动化实践 | clippings \| wiki \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/8VNzy5dj9LzndK09gb8Rlg) | 2026-04-23 |
+| 告别时间混乱！Obsidian+Day Planner 保姆级教程，10 分钟打造可视化管理系统 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/nkfAgnRaO6xFHOLZU1VGiQ) | 2026-04-23 |
+| 别再手动调Prompt了！这款GEP驱动的AI智能体自进化引擎彻底火了 | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/1TIfwlmAk-sQSJ_TD5NSzg) | 2026-04-23 |
+| 别再只说 OpenSpec 和 SuperPowers “天然互补”了，真正麻烦的是没人告诉你：不协调会把项目写乱 | clippings \| openspec \| github \| superpowers | [打开原文](https://mp.weixin.qq.com/s/R3XFTqcvPLcQHKz8mJjKdg?poc_token=HMWO6WmjvYlvNHvUZ9NRa1aqbW7u8q4RegMS7uLv) | 2026-04-23 |
+| 别再切换了！我把搜索引擎搬进了 Obsidian，工作流从此丝滑 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/JIcvnA1uJEtzlOjxpjm0HA) | 2026-04-23 |
+| 写作去 AI 味很简单，只需要一个有人味的 skill | clippings \| skill \| AI味 | [打开原文](https://mp.weixin.qq.com/s/BLBVcjeAshdcfi7NzwkBAA) | 2026-04-23 |
+| 代码重构助手 — 智能优化代码结构 | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/yEjq0skRCQGQQ6UtzSAqAQ) | 2026-04-23 |
+| 从零到一：OpenSpec + Superpowers 新项目全流程实战指南 | clippings \| Superpowers | [打开原文](https://mp.weixin.qq.com/s/7EpVsLbFznkngJbD7tFA9A) | 2026-04-23 |
+| 为了解决我的焦虑问题，我开始每天读 AI 为我写的书 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/BQyU8CmcCe63cQPp2olzKw) | 2026-04-23 |
+| 丢给 AI 的大型项目源码总是乱答？看Graphify如何用知识图谱重塑复杂项目解析 | clippings \| Graphify \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/32EJ2sVdFdrMIBSmyopG_Q) | 2026-04-23 |
+| 【从0开始学AI】测试用例设计智能体开发 - Superpowers 实战详解 | clippings \| superpowers \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/1ZmbB_qzge-qFnOtwqTOjA) | 2026-04-23 |
+| vLLM 高性能部署：打造生产级推理服务 | #clippings \| #AI-tool \| vllm | [打开原文](https://mp.weixin.qq.com/s/U1qMgvgg97CE8mMdw6xIPg) | 2026-04-23 |
+| llama.cpp 量化推理：让小显卡也能跑大模型 | clippings \| AI-tool \| vllm | [打开原文](https://mp.weixin.qq.com/s/m-h8eKBv-DcVUYWuVlMOTw) | 2026-04-23 |
+| gusibi/obsidian-llm-wiki: obsidian-llm-wiki plugin | clippings \| obsidian \| wiki | [打开原文](https://github.com/gusibi/obsidian-llm-wiki) | 2026-04-23 |
+| geosmart/obsidian-template: obsidian note template | clippings \| obsidian | [打开原文](https://github.com/geosmart/obsidian-template) | 2026-04-23 |
+| claw-code + DeepSeek + superpowers-zh：一套不依赖任何单一厂商的 AI 编程工具栈 | clippings \| superpowers \| skill | [打开原文](https://mp.weixin.qq.com/s/n4RZ-fGjtOHddw-pbUgqIw) | 2026-04-23 |
+| agentic-stack：让 AI 大模型拥有跨工具的记忆移植能力！ | clippings \| agent \| 记忆 \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/apxZi5Cxu5iC_C_FsX_1uA) | 2026-04-23 |
+| Superpowers Skill 详细入门教程 | clippings \| superpowers | [打开原文](https://mp.weixin.qq.com/s/l8vpHJLofN2hkY5KxMiALA) | 2026-04-23 |
+| OpenSpec 与 Superpowers 协作的相关探索 | clippings \| Superpowers | [打开原文](https://mp.weixin.qq.com/s/pz6bGMftmKT740_QOdLQ2Q) | 2026-04-23 |
+| Oh-My-OpenAgent 功能参考 | clippings \| AI-code \| agent \| skill | [打开原文](https://mp.weixin.qq.com/s/Y4EeXPoLPGVsnR8rtEEOcw) | 2026-04-23 |
+| Obsidian闪念三件套，一键捕捉灵感 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/nNDdraIIeXvnLq8mNalSXA) | 2026-04-23 |
+| Obsidian+Calendar+模板，实现丝滑周计划及复盘 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/ZypQB6B_4LuG1rQkvv4dOw) | 2026-04-23 |
+| Obsidian 日记工作流：待办、闪念与打卡的高效管理 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/QUYjIP2NtatjrB_-mPIVXA) | 2026-04-23 |
+| Obsidian 插件：Project Planner 通过多种视图管理你的计划 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/Z0CcSX0jUdTYtPO_q0zojA) | 2026-04-23 |
+| Obsidian 插件推荐：Title As Link Text | clippings \| obisian | [打开原文](https://mp.weixin.qq.com/s/esfFRBL21DK-o8tXXHR8Dw) | 2026-04-23 |
+| Obsidian 快速入门指南：从上手到高效，这篇干货够你玩一年 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/mj3hKJPdNN7I3dy-B7KaSQ) | 2026-04-23 |
+| OMO + Superpowers + OpenSpec — OpenCode Agent 组合使用 | clippings \| Superpowers | [打开原文](https://mp.weixin.qq.com/s/dSnUNnFFxnoJZXuTg6rLoA) | 2026-04-23 |
+| Karpathy 的知识库方法论Skill，（已开源） | clippings \| llm-wiki \| skill | [打开原文](https://mp.weixin.qq.com/s/H4YzdPIAJxmGkNEMqHiuPA) | 2026-04-23 |
+| Karpathy 的 LLM-Wiki 方法论：我自己的实践 | clippings \| wiki \| llm-wiki | [打开原文](https://mp.weixin.qq.com/s/dGF4mTCNJf-BswF5OXITHA) | 2026-04-23 |
+| Hermes+AutoCLI+Obsidian：打造自动入库、自动整理、自动微信汇报的知识系统 | clippings \| hermes \| obsidian | [打开原文](https://mp.weixin.qq.com/s/nh1JeCAv7ZTGjKNYWmu8-Q) | 2026-04-23 |
+| Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统 | clippings \| hermes \| obsidian | [打开原文](https://mp.weixin.qq.com/s/3G6Dw7Up_fFgu1gGzqrV2A) | 2026-04-23 |
+| Hermes Agent官方推荐的80个技能：覆盖AI生命周期+软件工程+个人生产力 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/4z__gNOS3Aoafw10alB_VQ) | 2026-04-23 |
+| Hermes Agent多智能体多Agent配置小白指南 | clippings \| hermes \| agent | [打开原文](https://mp.weixin.qq.com/s/nCW3wS99MR95Z8Z5g5Roeg) | 2026-04-23 |
+| Hermes Agent 完整配置工具清单 | clippings \| hermes | [打开原文](https://researchwang13.space/hermes/) | 2026-04-23 |
+| Graphify-让Karpathy方法构建的知识库实现71.5倍效率提升 | clippings \| llm-wiki \| wiki \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/8xp3okUv_WIcDJ6GOUpgew) | 2026-04-23 |
+| Graphify 与 GitNexus，正在用知识图谱把“代码理解”从搜索升级为结构化认知 | clippings \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/ZNk32JA63-MYpSRTBqlk1g) | 2026-04-23 |
+| Dev Workflow Harness：打造 AI 驱动的声明式开发工作流引擎 | clippings \| harness \| AI空间 \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/6wnjxevg-Jw-PBnDh14uAg) | 2026-04-23 |
+| Claude Code + OpenSpec + Superpowers，AI协同开发实战详解与精通 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/_nYCEK4_Mm_GEVs3-eCEow) | 2026-04-23 |
+| Claude + IDEA + CC-GUI：Java开发的最佳AI组合神装！ | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/UlBGtLf7eOBY1hoSuh3HMw) | 2026-04-23 |
+| Architecture Diagram Generator 火了：一句大白话，直接出一张能拿去汇报的架构图 | clippings \| github \| skill | [打开原文](https://mp.weixin.qq.com/s/_7nPrhtvEbEZ2pxOfQcevw) | 2026-04-23 |
+| Agent测试方法论：LLM-as-Judge，用 AI 测 AI 到底靠不靠谱？ | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/fi1fiYZfbjvL8oU2D20lyA) | 2026-04-23 |
+| Agent Harness 综述：同一个模型，为什么做出来的 Agent 差这么远 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/h49UiGERvz8BMkMW0_4Gwg) | 2026-04-23 |
+| AI开发工作流3.2：集成代码知识图谱的实现方案 | clippings \| graph \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/KalsWQs4TcwfTQB3wS-EIw) | 2026-04-23 |
+| AIGC开源推荐-代码审核/图谱项目codeflow | clippings \| code \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/eRR8Vr3_rFcf9p9bcmwrYQ) | 2026-04-23 |
+| AI-First 产研团队的交付路径 | clippings \| AI-code \| AI-tool \| 空间 | [打开原文](https://mp.weixin.qq.com/s/dNLJagjAoHtiUJj_bc8k0g) | 2026-04-23 |
+| 20 个 AI 编程超能力，让你的 AI 工具真正会干活：superpowers-zh 详细使用教程 | clippings \| superpowers | [打开原文](https://mp.weixin.qq.com/s/owOa3BvTrIBDBraBMdEJmQ) | 2026-04-23 |
+| 19K Star的开源项目Archon 让你的 AI Coding像搬砖一样稳健 | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/u-L6vJSVVmZi-J2GRbjOHA) | 2026-04-23 |
+| 144K Star的开源神器，OpenCode进阶使用全攻略 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/T8DgzdacnwNfHtb8qN4qlw) | 2026-04-23 |
+| 11 个技能，让 AI 帮你打理 Obsidian 知识库 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/KknwudobwPxPoLVJ1jTPxQ) | 2026-04-23 |
+| chhuax/praxis-devos | clippings \| AI-code \| skill \| github | [打开原文](https://github.com/chhuax/praxis-devos/blob/main/README.zh-CN.md) | 2026-04-22 |
+| wangdabaoqq/LinJun: 🖥️ 跨平台GUI管理AI编码代理（Claude、Gemini、Codex、Copilot、Kiro等） | clippings \| AI-tool | [打开原文](https://github.com/wangdabaoqq/LinJun) | 2026-04-21 |
+| router-for-me/CLIProxyAPI: Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API | clippings \| AI-tool \| 工具 | [打开原文](https://github.com/router-for-me/CLIProxyAPI/blob/main/README_CN.md) | 2026-04-21 |
+| nguyenphutrong/quotio: Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid. | clippings \| github \| AI-tool | [打开原文](https://github.com/nguyenphutrong/quotio) | 2026-04-21 |
+| decolua/9router: Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models | clippings \| github \| AI-tool | [打开原文](https://github.com/decolua/9router/blob/master/i18n/README.zh-CN.md) | 2026-04-21 |
+| automazeio/vibeproxy: Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed | clippings \| github \| AI-tool | [打开原文](https://github.com/automazeio/vibeproxy) | 2026-04-21 |
+| Claude Code 接入 GPT-5.4 API：30元起/月的稳定方案 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/R2GCpjtzwG-CYJXIFmrfeQ?click_id=33) | 2026-04-20 |
+| oh-my-codex 上手：给 Codex 加一层工作流和团队运行时-腾讯云开发者社区-腾讯云 | clippings \| omx \| codex | [打开原文](https://cloud.tencent.com/developer/article/2653369?cps_key=1d358d18a7a17b4a6df8d67a62fd3d3d) | 2026-04-19 |
+| Yeachan-Heo/oh-my-codex: OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | clippings \| codex \| omx | [打开原文](https://github.com/Yeachan-Heo/oh-my-codex/tree/main) | 2026-04-19 |
+| tirth8205/code-review-graph: Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks. | clippings \| code-review \| KnowledgeGraph | [打开原文](https://github.com/tirth8205/code-review-graph/blob/main/README.zh-CN.md) | 2026-04-18 |
+| Faithree/code-review-skill: 按照团队 Code Review 规范审查代码变更（本地 git diff 或 GitHub PR）。当用户要求 review 代码、审查 PR、或检查代码质量时触发。 | clippings \| code-review | [打开原文](https://github.com/Faithree/code-review-skill/blob/main/SKILL.md) | 2026-04-18 |
+| 重磅推荐：让 AI 代码助手直接在 Markdown 中生成惊艳图表！一个开源 Skills 仓库，彻底改变你的技术文档体验 | clippings \| skill \| markdown | [打开原文](https://mp.weixin.qq.com/s/_YsL2awhh4AN1SxYgQxpTw) | 2026-04-17 |
+| 这个插件改变了我管理 Obsidian 图片的方式 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/7HYx2SrwcrRl1z15ogHYBQ) | 2026-04-17 |
+| 这个开源工具太猛了，让Token消耗爆降90% | clippings \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/Mgg_bcvRa14UsTVXN9Nc6g) | 2026-04-17 |
+| 真登一下，你又受不了 | clippings \| 知行合一 | [打开原文](https://mp.weixin.qq.com/s/rBY1JFM9xhKxNCeJhxlr2w) | 2026-04-17 |
+| 用 werss-cli 将公众号历史文章重新保存到本地，再用 graphify 把 100 多篇文章变成知识图谱 | clippings \| github | [打开原文](https://mp.weixin.qq.com/s/Ss2Jw4vTt7yPHzs_sh2DWw) | 2026-04-17 |
+| 手把手带你实践历时一年总结的 AI Code Review 最佳工作流！ | clippings \| AI-code \| code-review | [打开原文](https://mp.weixin.qq.com/s/dp3i-bS-CQ4yNFopBxBRww) | 2026-04-17 |
+| 我做了一个 Claude Skill 质检工具：专门解决 Claude Skill 的不触发、乱触发、越用越跑偏 | clippings \| claude \| skill | [打开原文](https://mp.weixin.qq.com/s?__biz=Mzg3NTY0NzM4MQ==&mid=2247483717&idx=1&sn=19567aeca41c5914dec6bc0d264bbf97&chksm=ceee468ea48a60daa0164e48e289de8dca04974af09340f9b4c0d88f7b382ec8f40ee7430451&mpshare=1&scene=1&srcid=0417Q3XqDZPZXUZmRIh1pB8P&sharer_shareinfo=08018e61520b62746cdd71a31fcd6a85&sharer_shareinfo_first=08018e61520b62746cdd71a31fcd6a85#rd) | 2026-04-17 |
+| 建立自己的个人使用说明书，会感到平静 | clippings \| 知行合一 | [打开原文](https://mp.weixin.qq.com/s/cniztABKBl5F8vilUUYLuw) | 2026-04-17 |
+| 实战篇: Codex + Superpowers + GStack:OpenAI 的终端 AI 也能拥有硅谷级工程团队 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/NqBvKBvGO1a7dryPoANYeQ) | 2026-04-17 |
+| 如果你已经在用 Codex，我会建议你直接收藏这个 awesome-codex-subagents | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/VRUT5h0XSB_yQnFxqNdq9A) | 2026-04-17 |
+| 告别时间混乱！Obsidian+Day Planner 保姆级教程，10 分钟打造可视化管理系统 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/nkfAgnRaO6xFHOLZU1VGiQ) | 2026-04-17 |
+| 告别AI多窗口断片！AI终端多窗口同步神器 | clippings \| github \| AI-tools | [打开原文](https://mp.weixin.qq.com/s/DCzPI_4HloEHFbPniiFWcA) | 2026-04-17 |
+| 别画了！用这个 Skill，一句话直接生成架构图～ | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/kSWVWl9_dKiqJfBSvAoR_g) | 2026-04-17 |
+| 分享15个自用的Skills | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/1eNlMiM_pRtgJt-CM8Mb0A) | 2026-04-17 |
+| 出游前必看！Leaflet+Components+高德趣游丨带你在Obsidian中搞定旅行规划+路线导航！ | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/1tUojKx1T56vmUHThb4jDg) | 2026-04-17 |
+| 企业级 Codex + OpenSpec + Superpowers 落地方案（一） | clippings \| codex \| openspec | [打开原文](https://mp.weixin.qq.com/s/HR00TQDoR3rBuu71jJw93g) | 2026-04-17 |
+| 从阶段到行动：全新 AI 规范驱动开发工作流 OpenSpec OPSX 完整指南 | clippings \| openspec | [打开原文](https://mp.weixin.qq.com/s/qE5suQ3JKbQTL-cwJcAjUQ) | 2026-04-17 |
+| 从阶段到行动：全新 AI 规范驱动开发工作流 OpenSpec OPSX 完整指南 | clippings \| AI-code \| openspec | [打开原文](https://mp.weixin.qq.com/s/qE5suQ3JKbQTL-cwJcAjUQ) | 2026-04-17 |
+| 一套 OpenSpec + Superpowers 技能库，专门治 AI 开发里的“想到哪做到哪” | clippings \| openspec \| skill \| superpowers | [打开原文](https://mp.weixin.qq.com/s/YhpjEAHHrHDZ_Aw2QTN_Ew) | 2026-04-17 |
+| 一夜之间测试覆盖率飙到90%？这个开源神器让AI学会了“自我进化” | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/b88SImg9RWOhkF-4tVgcoA) | 2026-04-17 |
+| 【从0开始学AI】skills.sh 测试类Skill详细介绍，测试小伙伴请查收！ | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/tRxhW6iJeOdXuJlF3xm6Zg) | 2026-04-17 |
+| 【claude code】使用claude code+Superpowers完成一个功能的真实案例 | clippings \| superpowers | [打开原文](https://mp.weixin.qq.com/s/nJlQ4URyMPKvpCvFOG73SQ) | 2026-04-17 |
+| oh-my-codex 实战教程：把 Codex 变成真正能长期用的工作流 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/s5ptgSYJ1NOH77T59QZMyw) | 2026-04-17 |
+| codeflow:  github上最被低估的黑科技，仅用一个html文件，浏览器直接"透视"整个项目架构，自动计算代码变更的爆炸半径！ | clippings \| github \| AI-test \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/0pj6PrSHDYZiC7nktvtgfQ) | 2026-04-17 |
+| Skill 最佳实践：五种设计模式+六步打磨法（含完整实战过程和源码） | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/Vc5eQnyFGaIDj4ySTP_nKw) | 2026-04-17 |
+| Obsidian 笔记属性完全指南 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/Kyk7Gsrn-tIE0lztVfeiIQ) | 2026-04-17 |
+| Karpathy LLM-Wiki Skill 已开源公开 | clippings \| LLM-wiki \| skill | [打开原文](https://mp.weixin.qq.com/s/hJ0v8hjy2I4TVVnG3-ZQhw) | 2026-04-17 |
+| Codex 大更新：一个 AI，接管你所有软件。 | clippings \| codex | [打开原文](https://mp.weixin.qq.com/s/Ai4Rtf7VdfrV-iRK6MNd9A) | 2026-04-17 |
+| Codex + OpenSpec + Superpowers 企业级落地方案二 | clippings \| skill \| codex \| openspec | [打开原文](https://mp.weixin.qq.com/s/A6E1aUeqOyR8VYu8S-oRSA) | 2026-04-17 |
+| Code Review Graph 完整安装与最佳实践指南 | clippings \| AI-code \| github \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/8LOg7XICUiRfPQHgDo1YGw) | 2026-04-17 |
+| Agent Skill 实战：一个Code Review Skill 的诞生记（上） | clippings \| skill \| agent \| AI-code | [打开原文](https://mp.weixin.qq.com/s/AriUW68msqAl5MshWlUHRQ) | 2026-04-17 |
+| Agent Skill 实战：一个 Code Review Skill 的诞生记（下） | clippings \| skill \| agent \| AI-code | [打开原文](https://mp.weixin.qq.com/s/Abd8aP8QRxUzVtr9ZTZLCg) | 2026-04-17 |
+| AI驱动的零代码API测试：Hive + OInfer 自动化测试生成计划全解析 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/tfXZrH4-gDTJpiFi5fkH1Q) | 2026-04-17 |
+| AI-First 产研团队的交付路径 | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/ePm6CMyFAVRTvDdvN2vw8Q) | 2026-04-17 |
+| 踩遍Homepage插件的坑后，我总结出这份Obsidian「黄金首页」配置清单 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/9UKezdesQvtfmOvJzlPSKw) | 2026-04-16 |
+| Obsidian Graph View：如何从知识图谱的"形状"中读取关键信息 | clippings \| obsidian \| 图谱 | [打开原文](https://mp.weixin.qq.com/s/OQTcDRisQeiUnxikyWGTyQ) | 2026-04-16 |
+| Obsidian 10 个必装神级插件：让你的第二大脑直接起飞 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/fbpNMRNUyHilq1ORQF_gYQ) | 2026-04-16 |
+| 阿里巴巴通义实验室开源 Mobile-Agent-v3.5：一套真正“多平台可用”的原生 GUI Agent 基座模型 | clippings \| AI-tet \| UI-test | [打开原文](https://mp.weixin.qq.com/s/GzI5iakYdxKW9S-710mt5w?scene=1) | 2026-04-15 |
+| 花叔不公开的写作 Skill，我逆向出来了 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/2GtDeOKwWpEFaGlT5ukoWQ) | 2026-04-15 |
+| 浏览器自动化：从GUI到OpenCLI | clippings \| opencli \| AI-test \| AI-tools | [打开原文](https://mp.weixin.qq.com/s/XYczMQVlaWR8tQLE2JW4eg) | 2026-04-15 |
+| 拆解 Hermes Agent 的三层学习机制：OpenClaw 加自总结 Skills 后，差异还剩什么？ | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/twOGltgevrfhLv6f90SCgg) | 2026-04-15 |
+| 把代码审查做成 Skill：我们的模板驱动落地实践 | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/EBVmA6s7UKwrBnwtxNofMg?scene=1&click_id=59) | 2026-04-15 |
+| 我们最开始用的是一个端到端 Skill，后来把它拆成了 Agent Team | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/X7gciG9CTHLg_blsGFPH3A) | 2026-04-15 |
+| win4r/ClawTeam-OpenClaw: ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent | clippings \| openclaw \| clawteam \| AI-code | [打开原文](https://github.com/win4r/ClawTeam-OpenClaw/blob/main/README_CN.md) | 2026-04-15 |
+| shanraisshan/claude-code-best-practice: from vibe coding to agentic engineering - practice makes claude perfect | clippings \| github | [打开原文](https://github.com/shanraisshan/claude-code-best-practice) | 2026-04-15 |
+| joeynyc/hermes-hudui: Web UI consciousness monitor for Hermes — the AI agent with persistent memory | clippings \| hermes | [打开原文](https://github.com/joeynyc/hermes-hudui) | 2026-04-15 |
+| Skill做好了，怎么知道好不好用 | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/-ZGpVqckDGNOGAJJ19iwQg) | 2026-04-15 |
+| GUI-Owl-1.5-8B-Instruct | clippings \| model \| LLM | [打开原文](https://modelscope.cn/models/iic/GUI-Owl-1.5-8B-Instruct) | 2026-04-15 |
+| 研发场景十大热门 Skills 推荐 | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/v0zI98Ehd_U4JUYQ1_ILPA?scene=1) | 2026-04-13 |
+| 深度解析：从 OpenClaw 到 Hermes：自托管 AI Agent 该怎么选 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/gJWL0sYIjxoB5HSdEL10XQ) | 2026-04-13 |
+| 测试人必备的8个 Skills（附下载地址和详细用法） | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/7b_-PpB6PLeg4znuB5ACrw?scene=1) | 2026-04-13 |
+| 效率提升40%！我用Claude Skills来做代码Review | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/wuLcLV8OQpTQ5WDel-y2Kg) | 2026-04-13 |
+| 把喜欢的公众号文章，OpenClaw一键变成自己的知识库 | clippings \| openclaw | [打开原文](https://mp.weixin.qq.com/s/I6AksgeZi14axiBfimFlQA) | 2026-04-13 |
+| 我的obsidian-AI小助理 | clippings \| skill \| obsidian | [打开原文](https://mp.weixin.qq.com/s/qGAxEagsVvALVlhfhL2bUw) | 2026-04-13 |
+| 我用龙虾管微信收藏的900篇文章：OpenClaw的知识管理玩法 | clippings \| opencalw \| LLM-Wiki | [打开原文](https://mp.weixin.qq.com/s/Ur0NrTujOk95wjSYxGZ4Gw) | 2026-04-13 |
+| 我用 Claude Code 造了一个代码审计 Skill，它在 20 万行项目中找到了 63 个漏洞 | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/yTPehTfk1ufv3RXq6gh1mA) | 2026-04-13 |
+| 我写了个 code-review 的 Agent Skill，没想到火了 | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/berA0j1jJwZ5ZYRvU-7Fuw) | 2026-04-13 |
+| 开源一个Skill管理神器 | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/xMFZhFC3Dyj7Y4Den7upTQ) | 2026-04-13 |
+| 实战篇: Claude Code + superpowers + gstack 开发流程实录，可直接复制使用，一篇文章讲清楚！ | clippings \| superpowers \| AI-code | [打开原文](https://mp.weixin.qq.com/s/PGoyLb32J5nSLCmXt9XoJg) | 2026-04-13 |
+| 大家都在讲 Harness，但它到底该怎么理解 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/tTjhHOrCslCW7vG14WFn3A) | 2026-04-13 |
+| 免费、开源 的 Mac 清理工具，CleanMyMac 的平替 | clippings \| github | [打开原文](https://mp.weixin.qq.com/s/1pZD-8L_9WzwdOmo-DXgJw) | 2026-04-13 |
+| 一文看懂：Hermes Agent与OpenClaw全维度对比 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/JWHBaFVvLE8S1t5jRXQxrg) | 2026-04-13 |
+| win4r/agent-skills-code-review-router | clippings \| skill \| AI-code | [打开原文](https://github.com/win4r/agent-skills-code-review-router) | 2026-04-13 |
+| markdown-viewer/skills: Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in Markdown. These skills extend agent capabilities across diagram generation, data visualization, and technical documentation. | clippings \| github \| skill \| markdown | [打开原文](https://github.com/markdown-viewer/skills) | 2026-04-13 |
+| cheetahclaws/docs/README.CN.MD at main | clippings \| AI-code \| cc | [打开原文](https://github.com/SafeRL-Lab/cheetahclaws/blob/main/docs/README.CN.MD) | 2026-04-13 |
+| ai-dev-workflow技能生成：复杂功能描述与方法调用结构 | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/jPhmphqK-aQM8r5IqW-seQ) | 2026-04-13 |
+| OpenSpec、Superpowers 和 Harness：AI 工程化开发的三层拼图 | clippings \| hernesss \| openspec \| AI-code | [打开原文](https://mp.weixin.qq.com/s/ssH_OtuLxy4RZD2tKiSKXA) | 2026-04-13 |
+| OpenClaw与Hermes混用指南：2026年AI Agent最优解 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/D9VuYIG-JU4oayhyvW_2pA) | 2026-04-13 |
+| OpenClaw vs Hermes：一文深入理解两大通用 Agent | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/oKuSgz5CP4aPOjt_o2Vi8g) | 2026-04-13 |
+| MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流 | clippings \| model \| minimax \| hermes | [打开原文](https://mp.weixin.qq.com/s/83ztz3kL5DHE8KMpNONLsQ) | 2026-04-13 |
+| Mini-Wiki：基于 Skills 架构的新一代 AI 驱动文档生成器 | clippings \| skill \| wiki | [打开原文](https://mp.weixin.qq.com/s/XbYMPTZbVDwEg67wCQMevA) | 2026-04-13 |
+| Karpathy革命：LLM个人知识库 - 不再需要RAG？ | clippings \| LLMWiki | [打开原文](https://mp.weixin.qq.com/s/5RO_VIAdOTUzSe7-ugkOVg) | 2026-04-13 |
+| Karpathy的编程经验Skills，开源了，Star涨疯了。 | clippings \| AI-code \| skill | [打开原文](https://mp.weixin.qq.com/s/8lBRe6vU-akLIw1Nf8iU2A) | 2026-04-13 |
+| Karpathy 引爆AI圈的LLM Wiki，我其实已经跑了三个月——于是我开源了 | clippings \| github \| obsidian \| LLM-Wiki | [打开原文](https://mp.weixin.qq.com/s/z-S-UZfS-U3Ff0Tg_z6TgQ) | 2026-04-13 |
+| Hermes Agent 保姆级安装配置指南 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/6jMDhpSSJlhybl2xARt3IA) | 2026-04-13 |
+| Gemma 4 来了，国内到底能不能用？ | clippings \| model \| gemma | [打开原文](https://mp.weixin.qq.com/s/pwlrzItTEm5UcVEeBy_fMQ) | 2026-04-13 |
+| CC‑Switch 原来是这么玩的！90% 的人都没用对 | clippings \| github \| AI-tools | [打开原文](https://mp.weixin.qq.com/s/gwqXRDKQSenSoVC3yN5lyw) | 2026-04-13 |
+| AnyMenu：一款让你打字快到飞起的开源工具，程序员和文字工作者都在用 | clippings \| github | [打开原文](https://mp.weixin.qq.com/s/sUx_GWYUa9dRuItFmE8Guw) | 2026-04-13 |
+| AI写的文章ai味很浓，有没有100%稳过朱雀的办法？还真有，只不过有些恶心。 | clippings \| AI-运营 | [打开原文](https://mp.weixin.qq.com/s/QBj4hgJ931l42RO3auS6Jw) | 2026-04-13 |
+| 7.9k Star 一夜爆火！把 Andrej Karpathy 做成了 Claude 技能包，普通人也能写出大神级代码 | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/RB5h5BQ-x3c78JgbjxKBtA) | 2026-04-13 |
+| 7 个平台白嫖搜索，last30days-cn v2.0：不要 API Key 了！ | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/8q7irULRc9bMm1y_A5RLtA) | 2026-04-13 |
+| 5种Obsidian知识库架构对比，看完就知道选哪个 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/h5nODuIrEdL2eTzEycov-Q) | 2026-04-13 |
+| 3stoneBrother/code-audit | clippings \| skill \| AI-code | [打开原文](https://github.com/3stoneBrother/code-audit) | 2026-04-13 |
+| 3 分钟跑通 AI 自动化知识库！Karpathy 的 LLM Wiki 火了，附保姆级教程 | clippings \| LLM-Wiki | [打开原文](https://mp.weixin.qq.com/s/Qwxu_5VZcMrkKq_HCqvptQ) | 2026-04-13 |
+| 让 AI 像人一样浏览网页：web-access Skill 全解析 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/jRUkR3cPx9QkEvF9vODVJw) | 2026-04-12 |
+| 放弃插件，拥抱 AI：我的 Obsidian 复盘最终解决方案 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/I-3yv1LzDGSy6DlyUElxGA) | 2026-04-12 |
+| easychen - Overview | clippings \| github | [打开原文](https://github.com/easychen) | 2026-04-12 |
+| chenyl8848/great-open-source-project: 收集整理Github、Gitte上优秀的开源项目。 | clippings \| github | [打开原文](https://github.com/chenyl8848/great-open-source-project) | 2026-04-12 |
+| OpenClaw 终结者？Nous Research 官方推出的 Hermes Agent 究竟强在哪？ | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/Ujv2FOVL6_U7ZtTr-GoYIw) | 2026-04-12 |
+| Hermes正在用“自进化”颠覆AI Agent生态！这份Hermes实战笔记帮你省下3小时踩坑时间 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/z0-zbHelULwkEuwEwlQVHg) | 2026-04-12 |
+| AI背景下的测试再思考 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/Os0CJEAAuBAR1rQBenUqTA) | 2026-04-12 |
+| 71.5x！graphify 把几百篇 Obsidian 笔记变成知识地图 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/eDS_CXtWdkNgiJwB68C2hQ?poc_token=HKJe22mj388OOXqxa6apHBUKaEah86rYE8Qs65o3) | 2026-04-12 |
+| 54k+Star 爆火！AI  框架 新王者 Harness Agent 来了！尼恩 来一次Harness穿透式解读 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/M8EL0m1D-uMI3RSDEKq4Aw) | 2026-04-12 |
+| 每日一 Skills 推荐｜产品经理的 6 个 Skills，从头脑风暴到数据埋点全覆盖 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/hywksEbuY6te23ivLADYig) | 2026-04-11 |
+| 封杀第三方与Harness升维，Claude Managed Agents的平台化逻辑 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/ur5pDVlulLP3r7_znzEaPA) | 2026-04-11 |
+| 0基础，从0创建Skill并完成一个项目的测试用例设计工作 | clippings \| skill \| AI-test | [打开原文](https://mp.weixin.qq.com/s/721Z4XcrJXlv8EapZbcawQ) | 2026-04-11 |
+| Anthropic 官方 Harness 发布：全面解读 Managed Agents | clippings \| Claude-Managed-Agents | [打开原文](https://mp.weixin.qq.com/s/N0OBBlPIdUKJzRU0ZCciFg) | 2026-04-10 |
+| 装完Hermes Agent玩了一圈，我觉得龙虾已死！ | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/TpH2wtXAOthbciA1m-5Spw) | 2026-04-09 |
+| 最火爆的 21 个 skills 蒸馏清单，帮你全部整理了（付安装方法） | clippings \| skill \| 蒸馏 | [打开原文](https://mp.weixin.qq.com/s/NDf3edV4WQ-7G36DXQOYhg?scene=1&click_id=21) | 2026-04-09 |
+| 对不起，OpenClaw，我选择 Hermes！ | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/AAOiU3sOyyXDAGNmg-PEMg) | 2026-04-09 |
+| 全网都在抄 Karpathy 的知识库，但大多数人只学到了皮毛 | wiki \| pkm \| LLMWiki \| clippings | [打开原文](https://mp.weixin.qq.com/s/lZv1IANwsDgDe_CQqztlDw) | 2026-04-09 |
+| 一文讲透如何构建Harness——六大组件全解析 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/HwqEaXSGkcYgUNrzB2okuA) | 2026-04-09 |
+| OpenCode详细攻略，开源版Claude Code，免费模型与神级插件 | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/PENQKgOVMZtSsR4nmzpxVA) | 2026-04-09 |
+| OpenCode + 各种 CLI：是工具的进化，还是人的退场？ | clippings \| opencode | [打开原文](https://mp.weixin.qq.com/s/EMjQk4wkY9yZDH-DKxbMWQ) | 2026-04-09 |
+| OpenClaw龙虾指南实操命令手册 | clippings \| openclaw | [打开原文](https://mp.weixin.qq.com/s/sOoE5RY75A84ZFaNwWLDyQ) | 2026-04-09 |
+| OpenClaw龙虾又迎来了新对手吗？ | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/QONiwvGOT4V8fKEqThErwQ) | 2026-04-09 |
+| NousResearch/hermes-agent: The agent that grows with you | clippings \| hermes | [打开原文](https://github.com/nousresearch/hermes-agent) | 2026-04-09 |
+| Installation \| Hermes Agent | clippings \| hermes | [打开原文](https://hermes-agent.nousresearch.com/docs/getting-started/installation) | 2026-04-09 |
+| Hermes Agent深度拆解：记忆、技能与自进化的真相 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/IZBQRRoOpI7Cc6JHb6nPVA) | 2026-04-09 |
+| Hermes Agent实测，龙虾新对手是进化爱马仕 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/GYd6-F7B4jgNT20Y5XvpXQ) | 2026-04-09 |
+| Hermes Agent实测，龙虾新对手是进化爱马仕 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/GYd6-F7B4jgNT20Y5XvpXQ) | 2026-04-09 |
+| Hermes Agent vs OpenClaw，有了爱马仕，小龙虾都不香了 | clippings \| hermes | [打开原文](https://mp.weixin.qq.com/s/RexBsDaaDE8ReAbn_lX2mA) | 2026-04-09 |
+| Anthropic 今天发了一个新产品，可能会让一批做 AI 智能体基础设施的团队失业 | clippings \| anthropic | [打开原文](https://mp.weixin.qq.com/s/sDOJddds1A1L532iuQ5mMQ) | 2026-04-09 |
+| 这也许就是Harness诞生的过程：从文档协作到 SDD（Spec-Kit），我们如何摸索出一套 AI 协作研发范式 | clippings \| Harness \| SDD | [打开原文](https://mp.weixin.qq.com/s/gC10aTfQRvzM0X8BQXlWJw?scene=1) | 2026-04-08 |
+| 装完Hermes Agent玩了一圈，我觉得龙虾已死！ | clippings \| Harness \| agent | [打开原文](https://mp.weixin.qq.com/s/TpH2wtXAOthbciA1m-5Spw?scene=1) | 2026-04-08 |
+| 纠结Obsidian目录结构？我梳理了一份指南 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/cxcS6gBWi8sC8y2hwLxiBA) | 2026-04-08 |
+| 有赞AI研发全流程落地实践 | clippings \| AI-code \| 过程管理 \| 规范 | [打开原文](https://mp.weixin.qq.com/s/D_pgKthF9IIxOLPLHKAHyw?scene=1) | 2026-04-08 |
+| 推荐3款必备“测试神器”Skill：用例生成、根因分析一键搞定 | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/x77n4GPfDp3CW_Fry6xBUA?scene=1) | 2026-04-08 |
+| 推荐 4 个当下爆火的开源项目，Claude Code效率再翻倍 | clippings \| github | [打开原文](https://mp.weixin.qq.com/s/m_hrgvabPE-cSdEmGsORzw?scene=1) | 2026-04-08 |
+| 告别“伪智能”代码：用 Spec + RAG 打造真正懂你的AI程序员 | clippings \| RAG | [打开原文](https://mp.weixin.qq.com/s/ei1PTOYMmP8VRhoj_xOd0Q) | 2026-04-08 |
+| 京东面试官连环问："你 RAG 召回了 20 条，有 15 条是垃圾，Rerank 怎么做的？ | clippings \| RAG | [打开原文](https://mp.weixin.qq.com/s/1GZtibu07K2rzhGF-PZJ2Q?scene=1) | 2026-04-08 |
+| 主题+插件+CSS全总结，让Obsidian变好看 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/skanFC6BawoHwl1FAjuaZw?scene=1) | 2026-04-08 |
+| superpower跟gstack还没摸透，又来个Google大佬的最佳实践，真学不动了 | clippings \| superpower \| AI-code | [打开原文](https://mp.weixin.qq.com/s/VIzr7Vc6ZOqL-TS7XdY35g?scene=1) | 2026-04-08 |
+| VoltAgent/awesome-design-md: Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. | clippings \| github \| agent | [打开原文](https://github.com/VoltAgent/awesome-design-md/) | 2026-04-08 |
+| Spec 退场，skills 上位：Codex 团队的产品方法论变了 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/2k5Qnstf8Nf5ePjvOQMOvw) | 2026-04-08 |
+| OpenClaw配置完全指南：openclaw.json详解，建议收藏 | clippings \| openclaw | [打开原文](https://mp.weixin.qq.com/s/4aSEII43dHCzjmc6-7ksXA?scene=1) | 2026-04-08 |
+| OpenClaw必杀技！用QMD记忆系统让AI记住一切 | clippings \| openclaw \| qmd | [打开原文](https://mp.weixin.qq.com/s/--fiMkvFEOWlreOyt8lFWQ?scene=1) | 2026-04-08 |
+| OpenClaw 与 Obsidian 联动技巧：本地知识库无缝同步笔记，知识管理更高效 | clippings \| openclaw \| obsidian | [打开原文](https://mp.weixin.qq.com/s/fZU2UV1MQWMq0Nfg8kNVpg?scene=1) | 2026-04-08 |
+| Obsidian模板系统完全指南：4个模板直接用 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/nUlx0tBJarZY-slcOUqy8w?scene=1) | 2026-04-08 |
+| Obsidian文件夹怎么整理？别再纠结了，这才是真相 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/RBAf4cUNLbYPzq8ZNNqxRw?scene=1) | 2026-04-08 |
+| Obsidian+AI打造人生管理系统 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzkzODkwODYwMA==&scene=1&album_id=4355166178646786051&count=3#wechat_redirect) | 2026-04-08 |
+| Obsidian 丝滑日记操作完全指南 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/VAmTh19aG0IL99-LZvniCw?scene=1) | 2026-04-08 |
+| Obisidian CEO 开源官方 Skills \| 安装方法 | clippings \| obsidian \| skill | [打开原文](https://mp.weixin.qq.com/s/RCEHbgnMa2o27_gTFSjGbQ?scene=1) | 2026-04-08 |
+| Markdown 为什么会流行？ | clippings \| markdown | [打开原文](https://mp.weixin.qq.com/s/E3H9Yt9Td23QFezK_IHt4w?scene=1) | 2026-04-08 |
+| Knowledge Wiki：面向 AI 的项目知识层建设实践 | clippings \| PKM \| wiki | [打开原文](https://mp.weixin.qq.com/s/NwU98lA_P7LpDdyhhkt-cg?scene=1) | 2026-04-08 |
+| Karpathy的最新想法：用LLM构建一个"会自己长大"的知识库 | clippings \| obsidian \| pkm \| wiki | [打开原文](https://mp.weixin.qq.com/s/kml5cyBMA-a2SePKpYdQBg?scene=1) | 2026-04-08 |
+| Karpathy的LLM Wiki：让AI帮你管知识，这可能是2026最值得学的方法 | clippings \| pkm \| wiki | [打开原文](https://mp.weixin.qq.com/s/OZyqQTg3lgDbYI4sTzANqQ?scene=1) | 2026-04-08 |
+| Defuddle：Obsidian CEO发布的网页内容提取神器 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/9vbS-kYjmpFYKs0Rlvlxpg?scene=1) | 2026-04-08 |
+| Anthropic重磅报告：AI替代率真相，不是裁员，是新人入口被关上 | clippings \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/96csC17QnLYSmJClWyXLbg?scene=1) | 2026-04-08 |
+| AI 工具与思考 | clippings \| blog | [打开原文](https://www.aichris.cc/) | 2026-04-08 |
+| AI 实践：Code Insight 代码搜索定位的实践分享 | clippings \| AI-code \| RAG | [打开原文](https://mp.weixin.qq.com/s/RDmZdXE90LEijco08q4qWQ?scene=1) | 2026-04-08 |
+| AI Test：AI 测试平台落地实践 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/lRu1Bhz2QSbIyaRJRtuOVg?scene=1) | 2026-04-08 |
+| 苏格拉底提示法：AI 辅助开发的一套方法框架 | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/4RssPFH8vOsCA5-sTNQQTw?scene=1) | 2026-04-07 |
+| 看完了 Karpathy 的 LLM Wiki，我用AI重新构建了自己的日记库 | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/-vnTB9vUdURlWt7PGYaJLA?scene=1) | 2026-04-07 |
+| 用LLM打造会自我进化的下一代个人AI知识库及本体价值 - OpenAI联创Karpathy | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/-xzt9MbDLuLUOK074mdkpw?scene=1) | 2026-04-07 |
+| 最近很热门的oMLX，Mac端大模型本地部署新选择，Claude-Opus-4.6 蒸馏版 Qwen3.5-9B  实测 | clippings \| 模型 \| 模型部署 | [打开原文](https://mp.weixin.qq.com/s/2KZNCPy8bZs9T-kAsMpvlA?scene=1) | 2026-04-07 |
+| 把 Claude Code 源码蒸馏成 Agent Skill — Harness Engineering 实践 | clippings \| claudecode \| skill | [打开原文](https://mp.weixin.qq.com/s/R9EgZlx1RnXK4L12OBQn-w?scene=1) | 2026-04-07 |
+| 如何设计一个 Harness - 完整指南 | clippings \| Harness \| AI-code | [打开原文](https://mp.weixin.qq.com/s/b7D26CJGtur7AHOa1BKrgw?scene=1) | 2026-04-07 |
+| 基于大模型、SKills 的知识管理 | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/iRVOlhGZlirVRIilYiR8vg?scene=1) | 2026-04-07 |
+| 告别盲目 AI 编程：5 款主流开源 SDD 框架深度体验与 PK 。 | clippings \| SDD | [打开原文](https://mp.weixin.qq.com/s/vtISfbGS8QzXgdptCmnJmA?scene=1) | 2026-04-07 |
+| 刚刚，Karpathy 开源个人 LLM Wiki | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/vYVx8yf9eoTGXSWIrpOZ6Q?scene=1) | 2026-04-07 |
+| 不再触发Claude使用限制，大幅降低Token的10个有效习惯！ | clippings \| claude \| 省token | [打开原文](https://mp.weixin.qq.com/s/HRehP9A9AFs8quxcc2WVhQ?scene=1) | 2026-04-07 |
+| last30days-skill 深度解读：一个装进 AI Agent 的近 30 天研究 Skill，如何整理多平台讨论，看清真实口碑与趋势！ | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/N8AF1AOvzMDWN2MhURWQww?scene=1) | 2026-04-07 |
+| jangq-ai/jangq: JANG — Adaptive Mixed-Precision Quantization + Runtime for Apple Silicon | clippings \| 模型 \| 模型部署 | [打开原文](https://github.com/jangq-ai/jangq) | 2026-04-07 |
+| RAG已死！karpathy说：LLM Wiki永生 | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/cR9s2LCysmVpXaaIu4Xciw?scene=1) | 2026-04-07 |
+| OpenClaw实战：我在飞书群里“雇”了4个AI同事，项目经理/产品/开发/测试，全程自动协作 | clippings \| openclaw \| team \| agent | [打开原文](https://mp.weixin.qq.com/s/pkGTpCEATy9y12odUpodnQ?scene=1) | 2026-04-07 |
+| Obsidian完全入门之十三：插件的世界Templater，自动化笔记神器，一文通关 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/Dw7KVZA1MBN9omRjaMfM0A) | 2026-04-07 |
+| Obsidian 文件太多总是找花眼？这个免费插件让重要内容一眼认出 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/KtbdJxGMho37Epp4VjXl1A?scene=1) | 2026-04-07 |
+| Mac 用户本地跑大模型，这可能是目前最能打的方案 | clippings \| 模型 \| 模型部署 | [打开原文](https://mp.weixin.qq.com/s/3BOPT4FHAHY7nOjuq9kf7g?scene=1) | 2026-04-07 |
+| Karpathy知识库「LLM Wiki」火爆了，全网围观讨论 | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/-2H3xFx_R4KIIZ_vDpEYQw?scene=1) | 2026-04-07 |
+| Karpathy 凌晨发推：代码分发已死，Agent 时代的“软件消失术”来了！ | clippings \| wiki \| kb \| obsidian \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/x1AGv0TqJjb7dPiyCHOciA?scene=1) | 2026-04-07 |
+| Andrej Karpathy 用 Obsidian 替代 RAG，这才是平民玩家的知识管理方案 | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/nvnNdO9P_pZA7oYpvUSiTw?scene=1) | 2026-04-07 |
+| Andrej Karpathy 最新工作流架构揭秘：如何用大模型构建全自动个人知识库？ | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/lTpEajixgv7zLN_ZQQCWLg?scene=1) | 2026-04-07 |
+| Andrej Kaparthy：如何用LLM构建你的个人知识库（LLM Wiki 完整指南） | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/T1rUk-lHaqvFhX3548ftMw?scene=1) | 2026-04-07 |
+| AI大神卡帕西不Vibe Coding了，改"编译知识 | clippings \| wiki \| kb \| obsidian | [打开原文](https://mp.weixin.qq.com/s/cd0mmUoQZK47rVhEJx2J9Q?scene=1) | 2026-04-07 |
+| AI Agent Harness 技术详解 | clippings \| Harness \| AI-code | [打开原文](https://mp.weixin.qq.com/s/HC5nptjAQCCXQF61oS6KYw?scene=1) | 2026-04-07 |
+| 2026 Claude Skills 全岗位合集（新增篇）：6类全新岗位，18个高价值Agent Skill，告别无效加班 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/2NKDazjBJjpLaHRmn2dYhw?scene=1) | 2026-04-07 |
+| 让 AI 帮你更好地写代码：OpenSpec + Superpowers 通俗指南 | clippings \| openspec \| superpowers | [打开原文](https://mp.weixin.qq.com/s/kY59voB7nz24KPkR1kVAdA?scene=1) | 2026-04-06 |
+| 知识库系统：从「存东西」到「出活儿」只差这一步 | clippings \| obsidian \| wiki \| kb | [打开原文](https://mp.weixin.qq.com/s/g7m65G1wDp0jnfi2D1r4yA?scene=1) | 2026-04-06 |
+| 用 Harness 思维搭建接口知识库：让 AI 精准生成功能测试用例 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/6EfANgDjjJEhIE119dITgg?scene=1) | 2026-04-06 |
+| 爆火全网的Skill合集来了！炼化同事、反蒸馏、老板、自己……全都被封装成AI插件 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/uiW_ob3KfzcOzvMBYVWisQ?scene=1) | 2026-04-06 |
+| 测试人必备的8个 Skills（附下载地址和详细用法） | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/7b_-PpB6PLeg4znuB5ACrw) | 2026-04-06 |
+| 最近很火的用LLM搭建知识库的保姆级教程 | clippings \| wiki \| LLM \| obsidian | [打开原文](https://mp.weixin.qq.com/s/MpQAESTZgOMfDwtA6qpO2Q?scene=1) | 2026-04-06 |
+| 放弃Vibe Coding：我用Superpowers+gstack沉淀出一套大幅减少返工的skill组合工作流（附案例） | clippings \| openspec \| github \| opencode \| AI-code | [打开原文](https://mp.weixin.qq.com/s/Lxz87OZXpnlv5keNaH_1-Q?scene=1) | 2026-04-06 |
+| 收藏 2000 篇文章却从没看过？用 Karpathy 的 LLM + Obsidian 思路，一晚上把我的「第二大脑」升级到 2.0版本（附详细教程） | clippings \| obsidian \| wiki \| openclaw | [打开原文](https://mp.weixin.qq.com/s/BNs8udKsDfPu_X3WhZsexQ?scene=1) | 2026-04-06 |
+| 打造你的AI研发团队：OpenSpec/Superpowers/oh-my-openagent/ai-dev-team四框架协同解锁AI编程的"自主模式 | clippings \| openspec \| opencode | [打开原文](https://mp.weixin.qq.com/s/kAxS20elAQO0_bN_JYlLWQ?scene=1) | 2026-04-06 |
+| 我给 OpenClaw 重建了记忆系统，节省 90% Tokens | clippings \| openclaw \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/KPZzgFEOAPRgx9bNHJx9tQ?scene=1) | 2026-04-06 |
+| 我给 OpenClaw 杀了 47 次僵尸进程，终于想明白了一些事 | clippings \| openclaw \| manus \| rag | [打开原文](https://mp.weixin.qq.com/s/W-NRTo1vJ5t932KXjeRWEg?scene=1) | 2026-04-06 |
+| 我用一个Skill把OpenClaw的Token成本砍了90%——完整实操记录 | clippings \| openclaw \| 优化 | [打开原文](https://mp.weixin.qq.com/s/Dt_oYIw17UxpsGKRcsHnKQ?scene=1) | 2026-04-06 |
+| 我照着 Karpathy 的思路重看了一遍个人知识库，发现 AI 最适合做的是“编译” | clippings \| wiki | [打开原文](https://mp.weixin.qq.com/s/S1-d0JgE7AqcL9UrVKEkCQ?scene=1) | 2026-04-06 |
+| 我流的OpenClaw 记忆系统配置指南 | clippings \| openclaw \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/aTV4rFNCrHBaFH2KNPNBSg?scene=1) | 2026-04-06 |
+| 我找到了自动整理知识或文章内容流程图的方案：excalidraw-skill，一键画图 | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/0mIThQlpsPoZ1llhVqpA5Q?scene=1) | 2026-04-06 |
+| 开源\|一款让 AI 助手化身虚拟开发团队，支持产品规划、代码审查、真实浏览器测试与自动化发布的 AI 编程系统 | clippings \| AI-code \| github | [打开原文](https://mp.weixin.qq.com/s/3FMjHjiZlwIbxTSCPhn8xg?scene=1) | 2026-04-06 |
+| 从 Vibe Coding 到 Harness Engineering：注意力时代的软件工程 | clippings \| Harness \| SDD \| AiI-code | [打开原文](https://mp.weixin.qq.com/s/na-_PtkmMVFv_CKqEy05pw?scene=1) | 2026-04-06 |
+| rookie-ricardo/erduo-skills | clippings \| skill | [打开原文](https://github.com/rookie-ricardo/erduo-skills) | 2026-04-06 |
+| openclaw搭建了属于我自己的开发团队 | clippings \| openclaw \| team \| agent | [打开原文](https://mp.weixin.qq.com/s/ZlqD-C8YmC9q2BmvABN6tg?scene=1) | 2026-04-06 |
+| openclaw/skills: All versions of all skills that are on clawhub.com archived | clippings \| skill \| openclaw \| clawhub | [打开原文](https://github.com/openclaw/skills) | 2026-04-06 |
+| mergisi/awesome-openclaw-agents: 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours! | clippings \| github \| openclaw | [打开原文](https://github.com/mergisi/awesome-openclaw-agents) | 2026-04-06 |
+| llm-wiki | clippings \| LLM-wiki | [打开原文](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) | 2026-04-06 |
+| hotcoffeeshake/tong-jincheng-skill: 童锦程视角 Skill — 用深情祖师爷的思维框架分析人际关系 | clippings \| skill \| github | [打开原文](https://github.com/hotcoffeeshake/tong-jincheng-skill) | 2026-04-06 |
+| deanpeters/Product-Manager-Skills: Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents. | clippings \| skill \| pm | [打开原文](https://github.com/deanpeters/Product-Manager-Skills) | 2026-04-06 |
+| alchaincyf/nuwa-skill: 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. | clippings \| skill \| github | [打开原文](https://github.com/alchaincyf/nuwa-skill) | 2026-04-06 |
+| ailearneryang/agent-harness: agent harness | clippings \| agent \| harness \| github | [打开原文](https://github.com/ailearneryang/agent-harness#) | 2026-04-06 |
+| Test Architect (TEA) Overview | clippings \| AI-test | [打开原文](https://bmad-code-org.github.io/bmad-method-test-architecture-enterprise/explanation/tea-overview/) | 2026-04-06 |
+| Superpowers：让 AI 编程代理拥有工程化思维 | clippings \| openspec \| opencode | [打开原文](https://mp.weixin.qq.com/s/Oy4ffWV9Qa373pQU-RQwUw?scene=1) | 2026-04-06 |
+| Superpowers：让 AI 编程代理拥有工程化思维 | clippings | [打开原文](https://mp.weixin.qq.com/s/Oy4ffWV9Qa373pQU-RQwUw?scene=1) | 2026-04-06 |
+| SDD规范驱动开发落地实践 | clippings \| SDD | [打开原文](https://mp.weixin.qq.com/s/JGa7kl-NG09cPW5jo9JI9g?scene=1) | 2026-04-06 |
+| OpenSpec 实战复盘：一个真实项目的 SDD 全流程落地记录 | clippings \| opencode \| openspec \| SDD | [打开原文](https://mp.weixin.qq.com/s/QpdHu_y38rdagNdGtBql5Q?scene=1) | 2026-04-06 |
+| OpenClaw省Token神器QMD与MemOS对比与使用 | clippings \| QMD \| Memos \| openclaw \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/KGAHKHMrPH5h4En5ZGwzDA?scene=1) | 2026-04-06 |
+| OpenClaw下载量第一的Self-Improving Agent技能全解析 | clippings \| openclaw \| agent \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/bVoHWFfy0xgi2lr9zNt2OA?scene=1) | 2026-04-06 |
+| OpenClaw-三大问题：耗费Token、记忆断片、任务无反馈 | clippings \| openclaw \| 优化 \| 省token | [打开原文](https://mp.weixin.qq.com/s/eGND7UfHYWGAyjgD0xB8Pg?scene=1) | 2026-04-06 |
+| OpenClaw(龙虾) 进阶：AI Agent团队协同的原理与使用 | clippings \| openclaw \| team \| agent | [打开原文](https://mp.weixin.qq.com/s/CMnH8DhcLVo97ym0BaYMwg?scene=1) | 2026-04-06 |
+| OpenClaw 进阶配置完全教程（2026）：AGENTS.md、记忆系统、子Agent、Cron定时任务、Skill开发、多渠道接入 | clippings \| openclaw | [打开原文](https://mp.weixin.qq.com/s/rMXGQ6EdXG4yC1Ze3kdHzg?scene=1) | 2026-04-06 |
+| OpenClaw 进阶指南：从 SOUL.md 到 MEMORY.md，逐层拆解智能体的"操作系统 | clippings \| openclaw \| agent \| team | [打开原文](https://mp.weixin.qq.com/s/45l3QF-DjT861RLjFAw1vQ?scene=1) | 2026-04-06 |
+| OpenClaw 越用越聪明——实战驯龙虾养成指南 | clippings \| openclaw \| 记忆 \| 优化 | [打开原文](https://mp.weixin.qq.com/s/IF8-lefiFcyYxQcetWK29w?scene=1) | 2026-04-06 |
+| OpenClaw 技能推荐：自己.skill - 与其蒸馏别人，不如蒸馏自己 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/L5y9Ty5oxIzv-EzqUEurlg?scene=1) | 2026-04-06 |
+| OpenClaw 如何节省90% Token的完整优化指南 | clippings \| openclaw \| qmd \| 记忆 \| 省token | [打开原文](https://mp.weixin.qq.com/s/GFgvKFX4_daAyE8dJmddGg?scene=1) | 2026-04-06 |
+| Obsidian知识库：Markdown编写规范与实践指南 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/M2BL3HUQpaW8s9NTuUnxiw?scene=1) | 2026-04-06 |
+| Obsidian的两种可视化对比，你喜欢哪种？ | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/i1fUNjgkvX2n0ssP8-jqvg?scene=1) | 2026-04-06 |
+| Obsidian全指南：从安装到精通，打造你的专属第二大脑｜全平台教程+核心玩法+必装插件 | clippings \| obsidian | [打开原文](https://mp.weixin.qq.com/s/YR2xYnwptiSq15SwvDh1nw?scene=1) | 2026-04-06 |
+| Karpathy新提出LLM Wiki，可能将彻底颠覆RAG知识库 | clippings \| openclaw \| wiki \| obsidian \| kb | [打开原文](https://mp.weixin.qq.com/s/Tg20Bpee396RvabXPuvmcA?scene=1) | 2026-04-06 |
+| Karpathy 又整活了：以后不用分享代码了，直接分享「Idea」！ | clippings \| skill \| github | [打开原文](https://mp.weixin.qq.com/s/ztnVzuPeEgNjxsfuQbaiOg?scene=1) | 2026-04-06 |
+| ForceInjection/awesome-skills: Awesome skills used by 原力注入博主 | clippings \| AI-code \| skill | [打开原文](https://github.com/ForceInjection/awesome-skills) | 2026-04-06 |
+| Claude Code 终于不失忆了：Auto Memory 让 AI 自己记笔记，但记忆管理才是真正的难题 | clippings \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/esRFayxpBipYanhWUPLuYg?scene=1) | 2026-04-06 |
+| Claude Code 工程化工作流（下）：用真实项目教你搭建 AI 开发脚手架 | clippings \| AI-code \| claude code | [打开原文](https://mp.weixin.qq.com/s/wufsjgeAd8slHKsYKW4gAg?scene=1) | 2026-04-06 |
+| Blog — CrewClaw | clippings \| openclaw \| 资讯 \| 素材 | [打开原文](https://www.crewclaw.com/blog) | 2026-04-06 |
+| Anthropic 如何使用 Skills：团队经验如何才能被 Agent 稳定复用 | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/c42XqFaEeNEhh6DtQgajFw?scene=1) | 2026-04-06 |
+| Agent Skills 实战：把测试报告与验收报告写成 Skill | clippings \| AI-test \| skill | [打开原文](https://mp.weixin.qq.com/s/JftRcqO00Tf-qNpwuK9ZoA?scene=1) | 2026-04-06 |
+| AI编程，正在重新定义产品经理 | clippings \| skill \| 产品 | [打开原文](https://mp.weixin.qq.com/s/ABi8YTvlZov_msxvyUscKQ?scene=1) | 2026-04-06 |
+| AI编程规范实战指南：5种方案选型与最佳实践 | clippings \| AI-code | [打开原文](https://mp.weixin.qq.com/s/wQgD0eWEScyzVDe3gFM4Ig?scene=1) | 2026-04-06 |
+| AI时代测试管理演进：从Bug跟踪到自修复监督 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/3zkEGg3QcDFAzVT7U89sHA?scene=1) | 2026-04-06 |
+| AI 重构软件工程：OpenAI Harness Engineering，程序员不写代码的时代来了 | clippings \| AI认知 \| AI-code | [打开原文](https://mp.weixin.qq.com/s/S87HyIJd3u7eUprsfo99-Q?scene=1) | 2026-04-06 |
+| 🦞 全球首款 OpenClaw 专属表情包诞生！来自一句闲聊的创意 | clippings | [打开原文](https://mp.weixin.qq.com/s/5ZXXTY5GK0QIDCQ81KBnaA?scene=1) | 2026-04-05 |
+| 这几款 Obsidian 插件，能把你的知识库真正用起来 | clippings | [打开原文](https://mp.weixin.qq.com/s/9Vt7Z4z0aLy4CK12jsueNg?scene=1) | 2026-04-05 |
+| 让 AI 测试助手“读懂你的业务”：RAG 知识库 + UI 截图多模态解析 | clippings | [打开原文](https://mp.weixin.qq.com/s/StFkcPbPc4UgPwf2YG9xOQ?scene=1) | 2026-04-05 |
+| 解锁终端上帝模式：当 OpenCode 遇上 OpenCLI，你的 Agent 彻底杀疯了！ | clippings | [打开原文](https://mp.weixin.qq.com/s/BmWxqidKdX_61vFoScPC0w?scene=1) | 2026-04-05 |
+| 蚂蚁面试官问："你的 RAG 系统部署给银行，普通员工能搜到领导的薪资文件？不同分行的数据怎么隔离？向量数据库有权限控制吗？ | clippings | [打开原文](https://mp.weixin.qq.com/s/M6BiWlGmfijlU9yUQXmRoA?scene=1) | 2026-04-05 |
+| 自愈测试来了：Bug还能藏多久？ | clippings | [打开原文](https://mp.weixin.qq.com/s/0X8pgKfDYocdRksnpeou-Q?scene=1) | 2026-04-05 |
+| 移动端专项测试<二> | clippings | [打开原文](https://mp.weixin.qq.com/s/C9gweE1usRBJbL4x0ybFiw?scene=1) | 2026-04-05 |
+| 破记录！Claude code源码被重写出python版本，24小时破100K Star | clippings | [打开原文](https://mp.weixin.qq.com/s/CLGh6-TbfU9fDpIqMnuf7A?scene=1) | 2026-04-05 |
+| 研发必备 skill，让开发效率翻倍 | clippings | [打开原文](https://mp.weixin.qq.com/s/00Qk2CHhOBiGL-O6rumvvA?scene=1) | 2026-04-05 |
+| 用好OpenCode项目实战：让AI写出好代码（五） | clippings | [打开原文](https://mp.weixin.qq.com/s/0aYhKLto4TLWaRPPX76xuA?scene=1) | 2026-04-05 |
+| 用好OpenCode项目实战：初始化项目（二） | clippings | [打开原文](https://mp.weixin.qq.com/s/CgKiq9Afocs3jU08QWdCHQ?scene=1) | 2026-04-05 |
+| 用 OpenSpec + Superpowers构建 AI 辅助编码的工程化实践 | clippings | [打开原文](https://mp.weixin.qq.com/s/lrcEs1gsh0LICetm_n6VXQ?scene=1) | 2026-04-05 |
+| 用 OpenClaw 搭建「多 Agent 协作系统」：架构介绍 + Obsidian 联动 | clippings \| OpenClaw \| Obsidian | [打开原文](https://mp.weixin.qq.com/s/HBwfI4Mm0wcD50I_2K93iQ?scene=1) | 2026-04-05 |
+| 生成测试用例 -> 意图驱动测试 | clippings | [打开原文](https://mp.weixin.qq.com/s/FcMcLtmCcVYrqTLDjwQ91g?scene=1) | 2026-04-05 |
+| 炼化你的同事，这个离谱的开源 AI 项目彻底火了！ | clippings | [打开原文](https://mp.weixin.qq.com/s/260H02AZbGX4KFO2r_UjAg?scene=1) | 2026-04-05 |
+| 测试常用的Skills | clippings | [打开原文](https://mp.weixin.qq.com/s/VoV_774s7Z0UxNeONeFIRg?scene=1) | 2026-04-05 |
+| 测试人必备的4个AI Skills（附下载地址和详细用法） | clippings | [打开原文](https://mp.weixin.qq.com/s/17RafIvZnXvPbnZ2BE1q8g?scene=1) | 2026-04-05 |
+| 接口自动化测试方案探索<二> | clippings | [打开原文](https://mp.weixin.qq.com/s/IPAmFgn9k2QijzxcI5gRxQ?scene=1) | 2026-04-05 |
+| 接口自动化测试方案探索<一> | clippings | [打开原文](https://mp.weixin.qq.com/s/9Yvu7pVpTnK_Z0yMcNp-8w?scene=1) | 2026-04-05 |
+| 探索Obsidian同步，6种方案全对比 | clippings \| Obsidian | [打开原文](https://mp.weixin.qq.com/s/1ASvnXWmSfUsF2j97SK4TQ?scene=1) | 2026-04-05 |
+| 把 Claude Code 变成你的桌面宠物，这个开源项目好有创意啊。 | clippings | [打开原文](https://mp.weixin.qq.com/s/3kEmPr9wcvSj2PW2tUr8WQ?scene=1) | 2026-04-05 |
+| 技术前沿 \| OpenClaw 深度联动 Claude Code 和 Codex：AI 开发工作流革命 | clippings | [打开原文](https://mp.weixin.qq.com/s/PNBN-Xal9Udu0lYIXjIVaQ?scene=1) | 2026-04-05 |
+| 扒了Claude Code 51万行源码，我发现它"解决一切问题"的秘密 | clippings | [打开原文](https://mp.weixin.qq.com/s/Lw33W5bUSU7TjJ2lBQxYsw?scene=1) | 2026-04-05 |
+| 我用obsidian+Opencode把写作流程封装成了Skill：从重复劳动到自动化的实践记录 | clippings | [打开原文](https://mp.weixin.qq.com/s/j1-OSmGy25zAPBHZZlJMqg?scene=1) | 2026-04-05 |
+| 我用 Obsidian 搭建了一个全球信息订阅系统 | clippings | [打开原文](https://mp.weixin.qq.com/s/yt9keBPpyjSE6Ep-crgdkQ?scene=1) | 2026-04-05 |
+| 我把 Obsidian 接入 OpenClaw 后，它开始帮我做决策 | clippings \| Obsidian \| OpenClaw | [打开原文](https://mp.weixin.qq.com/s/QPiEwDKZ3IburUkctfX3xQ?scene=1) | 2026-04-05 |
+| 当同事、老板、前任都被做成 Skill：人类正在被重新定价 | clippings | [打开原文](https://mp.weixin.qq.com/s/0wPUqI6sFy-vP1-pqxxC8w?scene=1) | 2026-04-05 |
+| 它应该是AI时代前 Obsidian 自动化天花板吧 | clippings | [打开原文](https://mp.weixin.qq.com/s/HKUAYfUqUflsvqB00gZVnw?scene=1) | 2026-04-05 |
+| 多 Agent 协作不再混乱: OpenCode的 harness + workflow设计思路全解 | clippings | [打开原文](https://mp.weixin.qq.com/s/WwJcCerABVwZq5X1oiUHfg?scene=1) | 2026-04-05 |
+| 团队老项目落地OpenSpec实践指南 | clippings | [打开原文](https://mp.weixin.qq.com/s/m3nZdB2IH_1LeV9tt8KWzA?scene=1) | 2026-04-05 |
+| 告别 Vibe Coding 的混乱：OpenSpec 让 AI 编程真正可控 | clippings | [打开原文](https://mp.weixin.qq.com/s/UliHGzSLreZiSskFnfaZgw?scene=1) | 2026-04-05 |
+| 同事走了有同事Skill，前任走了有前任Skill，那亲人走了呢？ | clippings | [打开原文](https://mp.weixin.qq.com/s/pgCjByKUMHvHlGaBU0onIg?scene=1) | 2026-04-05 |
+| 只需一个指令，让 OpenClaw 安排 TRAE 干活 | clippings | [打开原文](https://mp.weixin.qq.com/s/WYOO8WOxX8i-r9lG6hLtAA?scene=1) | 2026-04-05 |
+| 受到同事skill的启发，我做了反蒸馏skill。 | clippings | [打开原文](https://mp.weixin.qq.com/s/55L3Qo_jVxGFOA0qX4xyRw?clicktime=1775364534&enterid=1775364534&scene=126&sessionid=1775364528&subscene=227) | 2026-04-05 |
+| 十个顶级 Claude Code Skills，搭配泄露源码食用最佳。 | clippings | [打开原文](https://mp.weixin.qq.com/s/9HWWUKYf93Y3LuszehtfJg?scene=1) | 2026-04-05 |
+| 别再让 AI 硬写 PRD 了，这个开源项目想把产品方法论直接装进 Claude | clippings | [打开原文](https://mp.weixin.qq.com/s/7fGB6M4GzkH4yg-DqwsG5g?scene=1) | 2026-04-05 |
+| 别再乱命名了！Obsidian文件命名规范，让你的笔记井井有条 | clippings | [打开原文](https://mp.weixin.qq.com/s/_aGlqYms_o8o7nhxx_AFTw?scene=1) | 2026-04-05 |
+| 养虾日记🦞：OpenClaw配置进阶，让它真正懂你 | clippings | [打开原文](https://mp.weixin.qq.com/s/oQEjm1kyUDIkfrCKawGZCg?scene=1) | 2026-04-05 |
+| 做 AI 产品，不会再用到的这些 AI技术 | clippings | [打开原文](https://mp.weixin.qq.com/s?__biz=MzkxMTQ0ODE3Ng%3D%3D&mid=2247494092&idx=1&sn=160403bcab84553f2507db4fc596b213&scene=45&poc_token=HOrp0WmjHe-56HqoQhITg7kwLBK9FTUAFpZZbfN9) | 2026-04-05 |
+| 主题+插件+CSS全总结，让Obsidian变好看 | clippings | [打开原文](https://mp.weixin.qq.com/s/skanFC6BawoHwl1FAjuaZw?scene=1) | 2026-04-05 |
+| 不用API，为你的OpenClaw装上“超级记忆大脑”，自动防错、多技能协同工作，SkillHub一行命令安装 | clippings | [打开原文](https://mp.weixin.qq.com/s/ZMpPZm21YEJ4CMifqwslMQ?scene=1) | 2026-04-05 |
+| 三条命令 轻松关闭OpenClaw审批机制 | clippings | [打开原文](https://mp.weixin.qq.com/s/r0DzAeRfJjvdS0AXLpT3MA?scene=1) | 2026-04-05 |
+| 三个obsidian插件让你的笔记管理效率翻倍 | clippings | [打开原文](https://mp.weixin.qq.com/s/VJ4AU-794SgIHRfMn_T5Ag?scene=1) | 2026-04-05 |
+| 万字长文：科普AI产品测试人员，都在如何测试全品类AI产品 | clippings | [打开原文](https://mp.weixin.qq.com/s/llDvS440O7QehCwCcp-L3g?scene=1) | 2026-04-05 |
+| 一条命令复制任何网站，AI自动分析目标网站、提取设计规范、下载资源，然后并行重建出可维护的代码库。 | clippings | [打开原文](https://mp.weixin.qq.com/s/9HJVlISheedl7LoYperOYw?scene=1) | 2026-04-05 |
+| 一文讲透如何构建Harness——六大组件全解析 | clippings | [打开原文](https://mp.weixin.qq.com/s/HwqEaXSGkcYgUNrzB2okuA?scene=1) | 2026-04-05 |
+| 一文讲透 OpenClaw 里到底该用 Multi-Agent，还是主 Agent + Sub-Agent | clippings | [打开原文](https://mp.weixin.qq.com/s/SRIp8NUqZBN-ddYYLnos6Q?scene=1) | 2026-04-05 |
+| 一套测试人必备的Claude Code Skills，一个人干出一个团队的活，总结出来我兴奋了一整天（附详细实操和获取方式) | clippings | [打开原文](https://mp.weixin.qq.com/s/b3aXUn1NtTnbhD9Hxpvtsw?scene=1) | 2026-04-05 |
+| 一口气养 10 只龙虾，企业级 OpenClaw 开源了！ | clippings | [打开原文](https://mp.weixin.qq.com/s/f6uROHRjkc8XvooZ_CQyDg?scene=1) | 2026-04-05 |
+| 一个测试人必备的Skills，从功能到性能全搞定，找到它我兴奋了一下午(附详细实操和获取方式) | clippings | [打开原文](https://mp.weixin.qq.com/s/cGnwcBa5yvaiMFfQF0B4aw?scene=1) | 2026-04-05 |
+| 【实操分享】OpenClaw多文档多输入源笔记整理Agent搭建 | clippings | [打开原文](https://mp.weixin.qq.com/s/hqeUceXAdOC-OSRh0m-BKg?scene=1) | 2026-04-05 |
+| 【万字】OpenClaw 上下文工程/记忆系统 全解析 | clippings | [打开原文](https://mp.weixin.qq.com/s/UNh7rzsxcKWfS7Ff1N0t5Q?scene=1) | 2026-04-05 |
+| 【5分钟】龙虾日记-最被祝福的三角恋Openclaw+Obsidian+Trae | clippings | [打开原文](https://mp.weixin.qq.com/s/usZSOTpuVg508w8ExjQtvA?scene=1) | 2026-04-05 |
+| ⌬ OpenCode 使用完全指南：从入门到精通 | clippings | [打开原文](https://mp.weixin.qq.com/s/6qVB79y_idgA5SQMIKo39A?scene=1) | 2026-04-05 |
+| open-claude-code/claude-code-analysis at main | clippings | [打开原文](https://github.com/codeChef8500/open-claude-code/tree/main/claude-code-analysis) | 2026-04-05 |
+| oh-my-opencode深度解析：多智能体协同如何让AI编程效率翻倍 | clippings | [打开原文](https://mp.weixin.qq.com/s/DPLwiOirhsveiNkZwXQBig?scene=1) | 2026-04-05 |
+| msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | clippings | [打开原文](https://github.com/msitarzewski/agency-agents) | 2026-04-05 |
+| msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | clippings | [打开原文](https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-api-tester.md) | 2026-04-05 |
+| agency-agents 帮你写爆款文章：追踪热点、写出 10万+ 的完整攻略 | clippings | [打开原文](https://mp.weixin.qq.com/s/zxLYarhNLr69T-oMDJguIw?scene=1) | 2026-04-05 |
+| [万字长文预警] Harness 最佳实践：在 Java Spring Boot 项目中落地 OpenSpec + Claude Code | clippings | [打开原文](https://mp.weixin.qq.com/s/3qKvWajntkYLArH4ZShAhg?scene=1) | 2026-04-05 |
+| Superpowers框架实战指南：让AI按工程规范写代码 | clippings | [打开原文](https://mp.weixin.qq.com/s/C_Q0h4lqR0JSRCXC7naz2A?scene=1) | 2026-04-05 |
+| SuperPowers零代码开发测试平台 | clippings | [打开原文](https://mp.weixin.qq.com/s/0NRMwi8IEP4hYUlnrhPmXA?scene=1) | 2026-04-05 |
+| SkillHub，开源了！ | clippings | [打开原文](https://mp.weixin.qq.com/s/JVXPMNrCC3b3fcvZ32WYkA?scene=1) | 2026-04-05 |
+| SkillCraft：让 Agent 把工具链沉淀成可复用技能 | clippings | [打开原文](https://mp.weixin.qq.com/s/JCmu7fHHXmMVlqRrJYF8LQ?scene=1) | 2026-04-05 |
+| Projects Hub - AI Projects Collection | clippings | [打开原文](https://ai-projects-hub-six.vercel.app/zh/projects) | 2026-04-05 |
+| OpenSpec工作流全解析：选对模式，开发效率翻倍 | clippings | [打开原文](https://mp.weixin.qq.com/s/sWxVlr5472UYprSPmVsGIA?scene=1) | 2026-04-05 |
+| OpenSpec vs Superpowers：2 套 AI 编码工作流，3 个场景怎么选？ | clippings | [打开原文](https://mp.weixin.qq.com/s/XZjUCxvpOmqOzWF6LrtFPA?scene=1) | 2026-04-05 |
+| OpenSpec + Superpowers：规格驱动开发的终极组合 | clippings | [打开原文](https://mp.weixin.qq.com/s/M9HiDfwRs0_Z6xKde4Km6g?scene=1) | 2026-04-05 |
+| OpenHarness：港大开源的轻量级 Agent 框架 | clippings | [打开原文](https://mp.weixin.qq.com/s/Ll65gBcSXZEO3CKosUOyNw?scene=1) | 2026-04-05 |
+| OpenCode铁三角：OpenSpec + Superpowers + OMO，从“随意编码”到“规范开发”的完整指南 | clippings | [打开原文](https://mp.weixin.qq.com/s/lCZd3HQ6wvBZRdUxGwccTg?scene=1) | 2026-04-05 |
+| OpenCode铁三角选型指南，你真的需要全装吗？ | clippings | [打开原文](https://mp.weixin.qq.com/s/wvycr586Oww5zXgc3diQnQ?scene=1) | 2026-04-05 |
+| OpenCode + 国产大模型 + 技能系统：打造你的超级 AI 编程助手 | clippings | [打开原文](https://mp.weixin.qq.com/s/66PYLN_xBYuZsQg3eQAaCw?scene=1) | 2026-04-05 |
+| OpenClaw龙虾装了这个Skill，显得其它的都像个废物 | clippings | [打开原文](https://mp.weixin.qq.com/s/NsyGerMp22xUgAzpdWI22A?scene=1) | 2026-04-05 |
+| OpenClaw这样设置才不傻 | clippings | [打开原文](https://mp.weixin.qq.com/s/ChWAYRE6xUGJzUHOhEoHhw?scene=1) | 2026-04-05 |
+| OpenClaw多Agent架构揭秘，99%人不知道的AI协作黑科技 | clippings | [打开原文](https://mp.weixin.qq.com/s/PC7eO1g-XgAnCn3T5Vc2Qw?scene=1) | 2026-04-05 |
+| OpenClaw 长任务必读：用 Sub-Agent 隔离上下文，token 消耗降 85% | clippings | [打开原文](https://mp.weixin.qq.com/s/5obHZ_Y7pWBe6ZPfPJ2tbA?scene=1) | 2026-04-05 |
+| OpenClaw 进阶配置指南：身份 + 记忆 + Skills + 子Agent + 定时任务（从"能用"到"好用"） | clippings | [打开原文](https://mp.weixin.qq.com/s/R3kB6rDc9uQwcrxlQxfjdg?scene=1) | 2026-04-05 |
+| OpenClaw 装上这个 Skill，浏览器再也不会被网站拦截 | clippings | [打开原文](https://mp.weixin.qq.com/s/H6FC18T3Na8lVzqE8uhyuQ?scene=1) | 2026-04-05 |
+| OpenClaw 技能推荐：self-improving-agent，让 AI 持续自我进化 | clippings | [打开原文](https://mp.weixin.qq.com/s/6Vr59nDkrYqfzhmUV2aE-A?scene=1) | 2026-04-05 |
+| OpenClaw 多 Agent 协作：从一脸懵到真正跑通 | clippings | [打开原文](https://mp.weixin.qq.com/s/dD1mE3mH_k7xny8xC5BM_g?scene=1) | 2026-04-05 |
+| OpenClaw Sub-agent 实战：让 AI 自己调度 AI，一次派出多个助手并行干活 | clippings | [打开原文](https://mp.weixin.qq.com/s/Qd1y_nQV39jj0ew0-zXAhA?scene=1) | 2026-04-05 |
+| OpenClaw Multi-Agent 构建指南 | clippings | [打开原文](https://mp.weixin.qq.com/s/066XNumMm9WoulLiBzDEbg?scene=1) | 2026-04-05 |
+| OpenClaw 30 天系列 - Day13：多 Agent 协作：任务分配和结果汇总 | clippings | [打开原文](https://mp.weixin.qq.com/s/TQr2iPReXyJk8XSIprX7ww?scene=1) | 2026-04-05 |
+| OpenClaw + Obsidian：AI 时代的知识库新范式 | clippings \| OpenClaw \| Obsidian | [打开原文](https://mp.weixin.qq.com/s/JccOPQ3h-8RPB9gr8hoMmA?scene=1) | 2026-04-05 |
+| Obsidian这10个插件太好用了，新手必装 | clippings \| Obsidian | [打开原文](https://mp.weixin.qq.com/s/QHx1Hf2twODVwknApBx-lw?scene=1) | 2026-04-05 |
+| Obsidian模板系统完全指南：4个模板直接用 | clippings | [打开原文](https://mp.weixin.qq.com/s/nUlx0tBJarZY-slcOUqy8w?scene=1) | 2026-04-05 |
+| Obsidian发文直接同步到公众号草稿箱，自媒体人不要太爽了 | clippings | [打开原文](https://mp.weixin.qq.com/s/kt-kUHfAAdUebtENZS5whQ?scene=1) | 2026-04-05 |
+| Obsidian 这个小众插件，解决了文件管理的最大痛点 | clippings | [打开原文](https://mp.weixin.qq.com/s/dvWTS7z6E9omZb10hzK_6g?scene=1) | 2026-04-05 |
+| Obsidian AI 自动生成知识图谱辅助学习 | clippings | [打开原文](https://mp.weixin.qq.com/s/HmB8SgCIuievB7yiBfiI4Q?scene=1) | 2026-04-05 |
+| Notebook Navigator真的太好用了！ | clippings \| Obsidian | [打开原文](https://mp.weixin.qq.com/s/QXivGZEVzzWv02Gyph2zxA?scene=1) | 2026-04-05 |
+| LLM wiki：karpathy 公开构建个人本地知识库详细方法「超强提示词」 | clippings | [打开原文](https://mp.weixin.qq.com/s/q1yTW_fXaxtzvBYRdzJzyQ?scene=1) | 2026-04-05 |
+| Karpathy的AI知识库方案，我用Cola跑通了（附步骤） | clippings | [打开原文](https://mp.weixin.qq.com/s/pu9nuKu4q3RbFSfpVXe97A?scene=1) | 2026-04-05 |
+| Karpathy最新硬核分享：用大模型和Obsidian打造个人本地知识库 | clippings | [打开原文](https://mp.weixin.qq.com/s/7eBliaq7b8iCnbGG-Ft5vQ?scene=1) | 2026-04-05 |
+| Hermes Agent的确比OpenClaw强，建个【Hermes Agent中文社区】飞书群一起来聊聊吧~ | clippings | [打开原文](https://mp.weixin.qq.com/s/xKGLpJnlUH0RBEegQmFCsQ?scene=1) | 2026-04-05 |
+| Harness Engineering：复杂AI任务的底层逻辑 | clippings | [打开原文](https://mp.weixin.qq.com/s/nfuYfD9Ffn_-XT657KCDeA?scene=1) | 2026-04-05 |
+| Harness Engineering 实战：如何让 AI 写代码可靠性提升 10 倍 | clippings | [打开原文](https://mp.weixin.qq.com/s/Kz9vebNhv8M1jsoBmR4sKQ?scene=1) | 2026-04-05 |
+| Harness Engineering 从零理解到动手实践 | clippings | [打开原文](https://mp.weixin.qq.com/s/coJWAvdGawL-6I6JhdWCKw?scene=1) | 2026-04-05 |
+| GPT-5-Codex深度解析：动态思考机制如何实现编程效率倍增 | clippings | [打开原文](https://mp.weixin.qq.com/s/mF8ZgoW4EZ1nRXImdWTwHQ?scene=1) | 2026-04-05 |
+| Cubox + Obsidian，收集到消化的完整闭环 | clippings | [打开原文](https://mp.weixin.qq.com/s/MJP1_FScotpEekfRxOIEcw?scene=1) | 2026-04-05 |
+| Claude Code源码泄露，扒完51万行代码，终于明白为啥能吊打所有 AI 编程工具 | clippings | [打开原文](https://mp.weixin.qq.com/s/7ibtRsl-vRnDD7lSf3i-BQ?scene=1) | 2026-04-05 |
+| Claude Code 被开源了！“满分作业”要怎么抄？ | clippings | [打开原文](https://mp.weixin.qq.com/s/Gv0OdZgyg_Eb30x0ri4BWQ?scene=1) | 2026-04-05 |
+| CatchMe：AI Agent 为什么需要“个人记忆层”？这可能是下一波个人 AI 的关键基础设施 | clippings | [打开原文](https://mp.weixin.qq.com/s/garCY7QV1kinZjewl3OyJg?scene=1) | 2026-04-05 |
+| Andrej Karpathy 推荐的长文章 RSS 订阅源 | clippings | [打开原文](https://mp.weixin.qq.com/s/KcrwLC2NMIXFooK53WWMSw?scene=1) | 2026-04-05 |
+| Agent Skills 实战：把产品经理（PDM）常用产出写成 Skill（上） | clippings | [打开原文](https://mp.weixin.qq.com/s/T6rV7Lled86VLZJVPCsKlg?scene=1) | 2026-04-05 |
+| Agent Harness 深度解析：gstack + Compound Engineering 如何让 AI 真正学会项目经验 | clippings | [打开原文](https://mp.weixin.qq.com/s/o2FxamKTb6mQ7qbJtp7mWA?scene=1) | 2026-04-05 |
+| AI测试热潮下，我们需要冷思考 | clippings | [打开原文](https://mp.weixin.qq.com/s/oclRFJJQJ5jrhU7Mlf_fQQ?scene=1) | 2026-04-05 |
+| AI大神Karpathy的知识库用法，我用 OpenClaw 复制了一套 | clippings | [打开原文](https://mp.weixin.qq.com/s/ETUB7pxnZaKrVzSNeEnWqQ?scene=1) | 2026-04-05 |
+| AI「永久记忆」来了！99%准确率刷爆SOTA，4行代码让你的Agent记住一切 | clippings | [打开原文](https://mp.weixin.qq.com/s/8PGuLi570zd-5D7dYmnIHA?scene=1) | 2026-04-05 |
+| AI 面前一律平推：我的知识库（Obsidian） 终于活过来了 | clippings | [打开原文](https://mp.weixin.qq.com/s/aGdZjQwdiV1rlularYFUHw?scene=1) | 2026-04-05 |
+| AI 正在重塑软件测试：测试人会被取代吗？ | clippings | [打开原文](https://mp.weixin.qq.com/s/LvwmUUYqkSOSSMEU8cKriA?scene=1) | 2026-04-05 |
+| 6400+ Star，被马斯克点赞！这个多智能体框架让AI团队替你打工 | clippings | [打开原文](https://mp.weixin.qq.com/s/vfmqzLnibZWP-Kr8ku4UQA?scene=1) | 2026-04-05 |
+| 20.9k Star的AI记忆引擎：Supermemory凭什么让AI拥有长期记忆？ | clippings | [打开原文](https://mp.weixin.qq.com/s/iL14NKZpGch70mHLyda7Yw?scene=1) | 2026-04-05 |
+| 10k Star的LLM测试框架，支持红队测试和CI/CD集成 | clippings | [打开原文](https://mp.weixin.qq.com/s/Za1ghUxdqARhtAsjrMnNFg?scene=1) | 2026-04-05 |
+| instructkr/claw-code: The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex. | clippings | [打开原文](https://github.com/instructkr/claw-code) | 2026-04-01 |
+| # Claude Code 源代码深度分析报告## 一、代码库概况这是**Claude Code CLI工具的源代码镜像**，用于教育和安全研究 - Pastebin.com | clippings | [打开原文](https://pastebin.com/ft5fSQpk) | 2026-04-01 |
+| 这个 GitHub 神器太牛逼啦，2 周就狂揽 6000 多点赞。 | clippings | [打开原文](https://mp.weixin.qq.com/s/sGjXZM61gnPH7o1J9Svghw?scene=1) | 2026-03-31 |
+| 走了不少弯路，终于完成了Obsidian与OpenCode对接 | clippings | [打开原文](https://mp.weixin.qq.com/s/E4c9hobwWpqJGQtxaMkvbw?scene=1) | 2026-03-31 |
+| 让你的OpenClaw拥有永久记忆？这个本地插件太猛了 | clippings | [打开原文](https://mp.weixin.qq.com/s/mCm-04z-TWT9WWDB9ksGnQ?scene=1) | 2026-03-31 |
+| 让 OpenCode 如虎添翼：Oh-My-OpenCode + OpenSpec + Superpowers 深度协作指南 | clippings | [打开原文](https://mp.weixin.qq.com/s/y7S-z8cwM5b6zHjo_PDzXQ?scene=1) | 2026-03-31 |
+| 装上这个插件，Openclaw直接变身AI蜂群！打趴所有单智能体方案！ | clippings | [打开原文](https://mp.weixin.qq.com/s/6cMi_KxMcdzB416wWTaDDg?scene=1) | 2026-03-31 |
+| 第11章-OpenClaw高阶配置 | clippings | [打开原文](https://mp.weixin.qq.com/s/CY1UbXYWnbcEfaVz1NYphA?scene=1) | 2026-03-31 |
+| 用多少词元（Token），要被写进工资条了 | clippings | [打开原文](https://mp.weixin.qq.com/s/Om97MfpgTvzl1YP5DKhMPQ?scene=1) | 2026-03-31 |
+| 爆火的Agent Harness：为什么它能解决AI落地的最大痛点？ | clippings | [打开原文](https://mp.weixin.qq.com/s/t4_54ERl_gCqSPxGLDQ7UQ?scene=1) | 2026-03-31 |
+| 测试必备Skill，从 PRD 到 XMind 测试用例：让你的测试效率翻倍 | clippings | [打开原文](https://mp.weixin.qq.com/s/Q--1vJLtgtFZRnTBtnTrBQ?scene=1) | 2026-03-31 |
+| 测试必备Skill，从 PRD 到 XMind 测试用例：让你的测试效率翻倍 | clippings | [打开原文](https://mp.weixin.qq.com/s/5xfiN3xopBQD9QhTYpy4Zg?scene=1) | 2026-03-31 |
+| 测试工程师怎么写出「真能用的」Skill？从原理到结构到场景举例 | clippings | [打开原文](https://mp.weixin.qq.com/s/T5JAbav8ScAzOTmfbd_Hjg?scene=1) | 2026-03-31 |
+| 测开手搓 Agent 别一上来就「架构拉满」：用例、CI、日志诊断的避坑与落地 | clippings | [打开原文](https://mp.weixin.qq.com/s/uj_caITI8zLR8KdDJOvXDA?scene=1) | 2026-03-31 |
+| 改个 ID 就全线爆炸？AI Agent 给你的 UI 脚本「续条命」 | clippings | [打开原文](https://mp.weixin.qq.com/s/W-6Pm0GDoEyRayprWbN9jQ?scene=1) | 2026-03-31 |
+| 我用Harness Engineering实现【无人值守式】的产品开发运营 | clippings | [打开原文](https://mp.weixin.qq.com/s/6KnpqIukQO3EtaFYvJpq3w?scene=1) | 2026-03-31 |
+| 成为真正的AI Native Coder，一个研究生实践6个月的思考！ | clippings | [打开原文](https://mp.weixin.qq.com/s/xLgonEJ9cCH0LaLpw76_3g?scene=1) | 2026-03-31 |
+| 会写功能，不会描述？这个 Skill 把 GitHub 仓库一键变成“交互课程” | clippings | [打开原文](https://mp.weixin.qq.com/s/9QeYtdLZHkS7cTgOn3Q66w?scene=1) | 2026-03-31 |
+| 从写用例到自动修 Bug：用 AI 生成测试报告并分析到自愈的完整闭环 | clippings | [打开原文](https://mp.weixin.qq.com/s/-4jtkP1eYxjMPVBnmimzQg?scene=1) | 2026-03-31 |
+| 为啥大家突然都开始热衷做CLI？ | clippings | [打开原文](https://mp.weixin.qq.com/s/dlkET6ZS7Eh6pmLCCUcv3A?scene=1) | 2026-03-31 |
+| 为什么一夜之间大家都在做 CLI？ | clippings | [打开原文](https://mp.weixin.qq.com/s/2HC9mNCtnVu-tUvglOl9tw?scene=1) | 2026-03-31 |
+| wecom-cli：让人类和 AI Agent 都能在终端中操作企业微信 | clippings | [打开原文](https://mp.weixin.qq.com/s/CLM5OSwe2T_nF7w4dZJBEg?scene=1) | 2026-03-31 |
+| walkinglabs/awesome-harness-engineering: 🛠️ Awesome tools & guides for harness engineering. | clippings | [打开原文](https://github.com/walkinglabs/awesome-harness-engineering) | 2026-03-31 |
+| OpenSpec × RepoWiki：让AI真正"读懂"你的项目 | clippings | [打开原文](https://mp.weixin.qq.com/s/mzWk-LWS_pewEmArTtbc4Q?scene=1) | 2026-03-31 |
+| OpenCode铁三角：OpenSpec + Superpowers + OMO，从“随意编码”到“规范开发”的完整指南 | clippings | [打开原文](https://mp.weixin.qq.com/s/lCZd3HQ6wvBZRdUxGwccTg?scene=1) | 2026-03-31 |
+| OpenCode-AGENTS.md配置指南：让AI真正懂你的项目 | clippings | [打开原文](https://mp.weixin.qq.com/s/Y3SNZnI0E26b0FYz20ml8g?scene=1) | 2026-03-31 |
+| OpenCode | clippings | [打开原文](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzY4NDAwNDk0Ng==&scene=1&album_id=4392528833040744449&count=3#wechat_redirect) | 2026-03-31 |
+| OpenClaw深度解析：如何避免把Multi-Agent用成四不像？ | clippings | [打开原文](https://mp.weixin.qq.com/s/RGgAHCE7RSzwrzu9fbFsRg?scene=1) | 2026-03-31 |
+| OpenClaw 配置指南：dmScope 会话隔离策略：多人私信如何完美隔离？ | clippings | [打开原文](https://mp.weixin.qq.com/s/gnyzHndnI8hQr2ULYRCmGA?scene=1) | 2026-03-31 |
+| Obsidian 笔记属性完全指南：从入门到实战 | clippings | [打开原文](https://mp.weixin.qq.com/s/rbFNXrahVOcHxo4w7bC1Dg?scene=1) | 2026-03-31 |
+| Harness 驾驭工程：测开造 Agent 时，缰绳比「换大模型」更急 | clippings | [打开原文](https://mp.weixin.qq.com/s/3v0xW2QpIxgxbOe2kKXVMQ?scene=1) | 2026-03-31 |
+| Harness 工程 Skill：使用 Entrix 技能开始你的代码熵治理 | clippings | [打开原文](https://mp.weixin.qq.com/s/9U5djrzfjx91t0awHqEb_Q?scene=1) | 2026-03-31 |
+| Harness Engineering 来了，SDD 还有意义吗？ | clippings | [打开原文](https://mp.weixin.qq.com/s/r5SEDwZwX2fBJmh3Fgejlg?scene=1) | 2026-03-31 |
+| EvoSkill：让 Agent 自动「发现自己的技能」 | clippings | [打开原文](https://mp.weixin.qq.com/s/OnG_TDQeVUt3xafDWmKEmw?scene=1) | 2026-03-31 |
+| Agent Skills 实战：把 QA 测试计划（Test Plan）写成 Skill | clippings | [打开原文](https://mp.weixin.qq.com/s/5djc_zbTpVWDKU0EHQ6o6w?scene=1) | 2026-03-31 |
+| Agent Skills 实战：把 PRD 需求文档写成 Skill | clippings | [打开原文](https://mp.weixin.qq.com/s/IvaaVh_li9ysvghSjUjnhQ?scene=1) | 2026-03-31 |
+| Agent Skills 实战：把 Code Review 规范写成 Skill | clippings | [打开原文](https://mp.weixin.qq.com/s/Gp9y4q0Z0KHh7jvztu9Ehg?scene=1) | 2026-03-31 |
+| Agent = Model + Harness：一篇讲透 Harness Engineering | clippings | [打开原文](https://mp.weixin.qq.com/s/5MEZYkD1F_w7GqbSWnD1Vw?scene=1) | 2026-03-31 |
+| AI编程新利器：OpenSpec框架让开发更高效 | clippings | [打开原文](https://mp.weixin.qq.com/s/6y93BUp3K3tSi_W15tZNEA?scene=1) | 2026-03-31 |
+| AI测试用例生成-如何写出符合自己思维逻辑的测试用例编写SKILLS | clippings | [打开原文](https://mp.weixin.qq.com/s/AY8V4lzb2jaQY0zmlFdMfA?scene=1) | 2026-03-31 |
+| AI Coding领域真正好用的15个MCP工具，从设计→开发→调试→部署→支付，全部打通 | clippings | [打开原文](https://mp.weixin.qq.com/s/X1SmliglOzp5e5KTIzqIiA?scene=1) | 2026-03-31 |
+| 3500 行纯 Python，做出一个能 24/7 跑起来的 Agent：我去看了 724-office | clippings | [打开原文](https://mp.weixin.qq.com/s/F-dVtyWRNQld-0KhyJ8CXg?scene=1) | 2026-03-31 |
+| 香港大学AI项目，让Agent自进化，让AI越用越聪明、越用越省钱 | clippings | [打开原文](https://mp.weixin.qq.com/s/c7oSiXZ1Vv9GG9vEYpjyhw?scene=1) | 2026-03-30 |
+| 软件测试的终局：无人测试时代来了吗？ | clippings | [打开原文](https://mp.weixin.qq.com/s/Plx-flOKuSJLX17MUyC-wQ?scene=1) | 2026-03-30 |
+| 相当丝滑！在obsidian中接入google gemini搭建你的AI写作搭子 | clippings | [打开原文](https://mp.weixin.qq.com/s/cNNMypAqigyGRFCJFuPZxg?scene=1) | 2026-03-30 |
+| 架构师用AI实现智能测试：从0到1训会AI，靠测试Skill实现摸鱼自由（附万字实战全流程） | clippings | [打开原文](https://mp.weixin.qq.com/s/S7D6TBBeNvg8BkAsYCxozg?scene=1) | 2026-03-30 |
+| 新手必看 \| 15 分钟，掌握 Obsidian 80% 的实战技巧 | clippings | [打开原文](https://mp.weixin.qq.com/s/NO-ufrbv8ZQcqBd_hi37zA?scene=1) | 2026-03-30 |
+| 如何让OpenClaw半夜去学习提升自己 | clippings | [打开原文](https://mp.weixin.qq.com/s/eB8VG8DO0H1XdoFVXV5dCg?scene=1) | 2026-03-30 |
+| 大家都在讲 Harness，但它到底该怎么理解 | clippings | [打开原文](https://mp.weixin.qq.com/s/tTjhHOrCslCW7vG14WFn3A?scene=1) | 2026-03-30 |
+| 又又又一个AI短剧一键生成的工具来了，支持小说文本自动生成视频哦！！！ | clippings | [打开原文](https://mp.weixin.qq.com/s/Qv6LqdmnPSNzBA_cUApB2A?scene=1) | 2026-03-30 |
+| 前端工程师50个Skill，帮你把测试体系补齐 | clippings | [打开原文](https://mp.weixin.qq.com/s/-L3EIlAULIdLjpf1MPkxGA?scene=1) | 2026-03-30 |
+| 别再手写测试用例 Skills 了：真正有效的 Skill，应该从实战里长出来 | clippings | [打开原文](https://mp.weixin.qq.com/s/1qQnXM2EPjGP7DukrvsSlQ?scene=1) | 2026-03-30 |
+| 内容创作自动化1：Obsidian 接入 obsidian-skills | clippings | [打开原文](https://mp.weixin.qq.com/s/d9E7zyAB6QtKhHFX1xg9dw?scene=1) | 2026-03-30 |
+| 京东面试官皱眉："检索到了正确的文档，大模型还是在胡说八道，你怎么解决的？" 我哑口无言... | clippings | [打开原文](https://mp.weixin.qq.com/s/J3VEfZKh-EedIEnZkhFDJg?scene=1) | 2026-03-30 |
+| 一天涨 2685 个 Stars！last30days-skill让我看到了普通人消除信息差机会 | clippings | [打开原文](https://mp.weixin.qq.com/s/cLIwCbMvIhCp849HHEcjNw?scene=1) | 2026-03-30 |
+| prompt-master ：Claude 提示词大师，零 Token 浪费的精准提示生成器、完整上下文记忆、支持 20+ AI 工具 | clippings | [打开原文](https://mp.weixin.qq.com/s/0_2leEq-41jTkknYGFXMtw?scene=1) | 2026-03-30 |
+| chararch/obsidian-enhanced-publisher: 增强的Obsidian发布插件，支持图片自动存储、HTML预览和发布到微信公众号等内容平台 | clippings | [打开原文](https://github.com/chararch/obsidian-enhanced-publisher) | 2026-03-30 |
+| Skill Creator 2.0：让 AI 技能从"凭感觉"变成"可测量 | clippings | [打开原文](https://mp.weixin.qq.com/s/AuI7z7zxq8-aPbVUmZ0ugA?scene=1) | 2026-03-30 |
+| Harness Engineering 完整指南：构建真正有效的AI智能体系统 | clippings | [打开原文](https://mp.weixin.qq.com/s/ykHj05DN7fzkOsz2KuVe9Q?scene=1) | 2026-03-30 |
+| GitHub 33k 星：这个开源项目，把你的知识库变成了会思考的 AI 大脑 | clippings | [打开原文](https://mp.weixin.qq.com/s/DxMRDek6q2WcCEw_wiW-Pg?scene=1) | 2026-03-30 |
+| AI测试工具不是免死金牌：揭秘自动化测试背后的责任陷阱与风险 | clippings | [打开原文](https://mp.weixin.qq.com/s/wrnKtcUnQBBRtYPBhlnbUQ?scene=1) | 2026-03-30 |
+| AI实践：利用本地大模型辅助测试 | clippings | [打开原文](https://mp.weixin.qq.com/s/vB4PYYlODaYbdV9RFneChA?scene=1) | 2026-03-30 |
+| AI 喜剧创作利器：deep-comedy-pro 实现从脚本到视频的全自动化生产 | clippings | [打开原文](https://mp.weixin.qq.com/s/J9Swd7nPbhTkH6VMJH0MWw?scene=1) | 2026-03-30 |
+| AI Agent 的记忆系统：从 QMD 到内置 SQLite，我把 7 个 Agent 的记忆全换了 | clippings | [打开原文](https://mp.weixin.qq.com/s/hHQlP_MKfYG6uquLpQqaRg?scene=1) | 2026-03-30 |
+| 25MB的TTS模型，比实时快9倍，这个Rust开源项目有点猛 | clippings | [打开原文](https://mp.weixin.qq.com/s/dNlndmpDkVWL2tR7sXHTGg?scene=1) | 2026-03-30 |
+| 🦞 给你的 AI 装个灵魂OpenClaw 个性化配置完全指北：SOUL.md 与 USER.md让龙虾助理从"通用客服"进化成"贴心同事 | clippings | [打开原文](https://mp.weixin.qq.com/s/KcLwPzOc3XqLLvKJpofu-w?scene=1) | 2026-03-29 |
+| 🦞 给你的 AI 装个灵魂OpenClaw 个性化配置完全指北：SOUL.md 与 USER.md让龙虾助理从"通用客服"进化成"贴心同事 | clippings | [打开原文](https://mp.weixin.qq.com/s/KcLwPzOc3XqLLvKJpofu-w?scene=1) | 2026-03-29 |
+| 真的，被测试大佬 的工作留痕 震撼到了~ | clippings | [打开原文](https://mp.weixin.qq.com/s/j15BDLTdZopymBGl6XwJyg?scene=1) | 2026-03-29 |
+| 用龙虾玩转金融投研与量化投资(八) \| Obsidian知识库—OpenClaw的长期记忆与智能体养料库 | clippings | [打开原文](https://mp.weixin.qq.com/s/viy3VShHlJwa0it5PGTSRQ?scene=1) | 2026-03-29 |
+| 用 OpenClaw+Obsidian 打造你的第二大脑，让知识自动找上门 | clippings | [打开原文](https://mp.weixin.qq.com/s/bTDvjn82C38khKuySaDLlA?scene=1) | 2026-03-29 |
+| 测试工程师必备 Skills 合集：从需求→用例→报告全流程提效 | clippings | [打开原文](https://mp.weixin.qq.com/s/Dtt7lbQMWx4UF_RkQ6s-tA?scene=1) | 2026-03-29 |
+| 构建测试专属 AI Agent。让 AI 成为你的 24 小时质量专家（含完整代码与部署指南 | clippings | [打开原文](https://mp.weixin.qq.com/s/PKIww2T_SthRwzbH7h6xow?scene=1) | 2026-03-29 |
+| 我怎样用 OpenClaw + Obsidian，搭了一个真正有记忆的 AI 助手 | clippings | [打开原文](https://mp.weixin.qq.com/s/8YwT3K4szX4BeZBZhMytqg?scene=1) | 2026-03-29 |
+| 我做了一个「优化 Skill 的 Skill」，效果奇好｜免费分享 | clippings | [打开原文](https://mp.weixin.qq.com/s/HxsKBcOR2xRi5Qs3NejnSg?scene=1) | 2026-03-29 |
+| 【工具】用Obsidian打造高度集成的个人主页，一键触达所有核心信息 | clippings | [打开原文](https://mp.weixin.qq.com/s?__biz=Mzk2NDAwOTk4Mg==&mid=2247489062&idx=1&sn=3cc66d5c85c3e08253f41d5ea9934ace&scene=21&poc_token=HISmyGmjPnQ-9YOKXTGx6c4znKHdl7cdA8PiAtKU) | 2026-03-29 |
+| You're tired because your AI has no feedback loop · Siddhant Khare | clippings | [打开原文](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing) | 2026-03-29 |
+| OpenClaw调教完全指南：从“能用”到“好用”的进阶之路 | clippings | [打开原文](https://mp.weixin.qq.com/s/BgzofCnyMECcHtHKf1vYhA?scene=1) | 2026-03-29 |
+| OpenClaw插件深度评测：打造你的AI智能体生态，工作效率飙升1400% | clippings | [打开原文](https://mp.weixin.qq.com/s/GS292kxOjo1qzP4zwAHWyg?scene=1) | 2026-03-29 |
+| OpenClaw + Obsidian：AI 时代的知识库新范式 | clippings | [打开原文](https://mp.weixin.qq.com/s/JccOPQ3h-8RPB9gr8hoMmA?scene=1) | 2026-03-29 |
+| OpenClaw + Obsidian 实现 AI 记忆持久化：打造真正有长期记忆的 AI 助手 | clippings | [打开原文](https://mp.weixin.qq.com/s/8xjjgIRD0OsvEH8cN2LchQ?scene=1) | 2026-03-29 |
+| AI测试工具生态 \| 从零搭建你的AI测试工具链 | clippings | [打开原文](https://mp.weixin.qq.com/s/IOOwQnOwHl6plpKpvFLTZw?scene=1) | 2026-03-29 |
+| 04 Vibe Coding-理论篇：需求研究（Research） | clippings | [打开原文](https://mp.weixin.qq.com/s/dU7-oPci-UHCUNOkzDfpxw?scene=1) | 2026-03-29 |
+| 送的 Codex API 不会用不会配？一篇讲清 Codex 安装、配置、AGENTS.md 和 CC Switch | clippings \| Codex | [打开原文](https://mp.weixin.qq.com/s/qBYQzGfZIaEWPYn11MQzsA?scene=1) | 2026-03-28 |
+| 终于让我找到这个面向 Coding Agent 的评测基准了——详解 PRDBench | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/wB2pduYbPPCcR3HpXHudHg?scene=1) | 2026-03-28 |
+| 用了这套 CodeX 配置 - 效果出奇地好 | clippings | [打开原文](https://mp.weixin.qq.com/s/txjxIBf4t9I0Th6uN7v5Ww?scene=1) | 2026-03-28 |
+| 用了这个开源项目，把 OpenClaw 的 token 账单砍掉了 80% | clippings \| OpenClaw \| QMD | [打开原文](https://mp.weixin.qq.com/s/gXjVu6H4eJ4zj6hk9YAydg?scene=1) | 2026-03-28 |
+| 用三层架构，把你OpenClaw小龙虾调教得更好用 | clippings \| OpenClaw \| 自媒体运营 \| Agent | [打开原文](https://mp.weixin.qq.com/s/DMTMAnzDOMeYjG76mz0C3g?scene=1) | 2026-03-28 |
+| 测试工程师怎么写出「真能用的」Skill？从原理到结构到场景举例 | clippings \| AI-test | [打开原文](https://mp.weixin.qq.com/s/T5JAbav8ScAzOTmfbd_Hjg?scene=1) | 2026-03-28 |
+| 永别了，产品经理 | clippings \| 产品 \| 产品思考 | [打开原文](https://mp.weixin.qq.com/s/C_3Xm7ryvzKH35BireFRpQ?scene=1) | 2026-03-28 |
+| 比 OpenClaw 还猛，AiPy 来了！ | clippings \| AI-tool | [打开原文](https://mp.weixin.qq.com/s/HTqB8zNHqJoSF9YCEPfxeg?scene=1) | 2026-03-28 |
+| 放弃 Notion，Obsidian 才是 2026 年最佳笔记应用 | clippings | [打开原文](https://mp.weixin.qq.com/s/n-jHmwSd3w9mnCJ9sls7QA?scene=1) | 2026-03-28 |
+| 我研究了 20+ 个插件后，总结出 Obsidian 数据可视化的 4 种方法 | clippings | [打开原文](https://mp.weixin.qq.com/s/v_e3gLO2i2HHVBq3xg6muw?scene=1) | 2026-03-28 |
+| 我用Obsidian+OpenCode搭建了自动进化笔记系统 | clippings \| OpenClaw \| Obsidian \| OpenCode | [打开原文](https://mp.weixin.qq.com/s/LhiUM6St0W8FQbCFlZiH2Q?scene=1) | 2026-03-28 |
+| 如何让单个 Agent 做长任务不失真：Anthropic 给出了一套更工程化的答案 | clippings | [打开原文](https://mp.weixin.qq.com/s/irjmZKe3O7HSs9cU7yHzkA?scene=1) | 2026-03-28 |
+| 变量 | clippings \| Obsidian | [打开原文](https://obsidian.md/zh/help/web-clipper/variables) | 2026-03-28 |
+| 卸载Notion，用Obsidian+Vibe Coding构建个人知识库 | clippings | [打开原文](https://mp.weixin.qq.com/s/IGcAArhmz3b6H6cTyHidKA?scene=1) | 2026-03-28 |
+| 八年换了 N 个笔记工具，最终还是选择了 Obsidian | clippings | [打开原文](https://mp.weixin.qq.com/s/uMEXaO0JcXKHgVuMBPZxhA?scene=1) | 2026-03-28 |
+| 免费！用iFlow结合Obsidian记录和复盘 | clippings | [打开原文](https://mp.weixin.qq.com/s/IK-A9Y89ESsmWTmQ2ym_3w?scene=1) | 2026-03-28 |
+| 使用 Obsidian 进行开发项目管理 | clippings | [打开原文](https://mp.weixin.qq.com/s/ZHxLu3Nl2YPofAzp35zqOw?scene=1) | 2026-03-28 |
+| 低代码/无代码浪潮下，专业软件开发者的护城河在哪里？ | clippings | [打开原文](https://mp.weixin.qq.com/s/YoAGiz-W7cTlwqBj2C3n2g?scene=1) | 2026-03-28 |
+| 为什么我最终选择了 Obsidian？随便聊聊我的折腾经历 | clippings | [打开原文](https://mp.weixin.qq.com/s/LmYYD-A-Ihy9tCDIFwM9xA?scene=1) | 2026-03-28 |
+| 个人知识库obsidian使用claude的办法 | clippings | [打开原文](https://mp.weixin.qq.com/s/OTZRdSLWrU7r53dMkDnRig?scene=1) | 2026-03-28 |
+| 不靠硬扛靠系统，我的 Obsidian 执行系统 | clippings | [打开原文](https://mp.weixin.qq.com/s/GqhxX95p8y3sDSl916fASQ?scene=1) | 2026-03-28 |
+| 不靠硬扛靠系统，我的 Obsidian 执行系统 | clippings | [打开原文](https://mp.weixin.qq.com/s/GqhxX95p8y3sDSl916fASQ?scene=1) | 2026-03-28 |
+| 上下文工程的完整地图：Agent-Skills-for-Context-Engineering仓库导读 | clippings | [打开原文](https://mp.weixin.qq.com/s/FAeJHxEup0uK8UdytyamOw?scene=1) | 2026-03-28 |
+| 一个App管好所有Agent技能，Chops来了 | clippings | [打开原文](https://mp.weixin.qq.com/s/FxTyDsDSwNCHYkKiUuAL1Q?scene=1) | 2026-03-28 |
+| 一个 AI 工程师的自白：我写的代码比任何时候都多，也比任何时候都累 | clippings \| AI \| AI-认知 | [打开原文](https://mp.weixin.qq.com/s/-ag9GdYaWfiBaF-eteSQxw?scene=1) | 2026-03-28 |
+| gstack-AI 工程实践 · 小白完全学习指南 | clippings | [打开原文](https://mp.weixin.qq.com/s/esNQrRQ0biE8z-ORlRtHGg?scene=1) | 2026-03-28 |
+| bitternzyj/droid-pilot: Android UI automation agent powered by Claude Code — explore pages, build knowledge base, scaffold tests, and run them. No automation experience needed. | clippings \| UI自动化 \| Skill \| GitHub \| AI-test | [打开原文](https://github.com/bitternzyj/droid-pilot) | 2026-03-28 |
+| The Harness Is Everything 驾驭系统就是一切 | clippings \| Harness \| X | [打开原文](https://mp.weixin.qq.com/s/EHFhKK0Hcr-JOXr6CE2rEw?scene=1) | 2026-03-28 |
+| Superpowers 实战：Claude Code、Codex、Gemini 的流式互联 | clippings | [打开原文](https://mp.weixin.qq.com/s/EVbFyBCK0gB2WD6Ojf8YzA?scene=1) | 2026-03-28 |
+| Product Manager Skills 完整使用指南 | clippings \| skill \| 产品 | [打开原文](https://mp.weixin.qq.com/s/LzTF6mGXJvAbzVQOon-WyA?scene=1) | 2026-03-28 |
+| Pkmer-一个分享知识的开源社区 | clippings | [打开原文](https://pkmer.cn/products/plugin/pluginMarket/) | 2026-03-28 |
+| OpenSpec：AI 编程时代的「需求对齐」解决方案，SDD 规范驱动开发落地 | clippings \| OpenCode \| OpenSpec \| AI-code | [打开原文](https://mp.weixin.qq.com/s/Cj_7utlTllTke_KxEQLWlQ?scene=1) | 2026-03-28 |
+| OpenSpace：让 Agent 越干越值钱的进化引擎 | clippings | [打开原文](https://mp.weixin.qq.com/s/PS6lDR35EbzYwUMvJdcowQ?scene=1) | 2026-03-28 |
+| OpenClaw 配置手册｜openclaw.json 完全指南 | clippings \| OpenClaw | [打开原文](https://mp.weixin.qq.com/s/jmJtWIyH3eg-VWoKBVkCKg?scene=1) | 2026-03-28 |
+| OpenClaw 自动出 PRD：从选词到产品文档一天搞定 | clippings | [打开原文](https://mp.weixin.qq.com/s/uug37JvIjm_y2ZlGicdQaA?scene=1) | 2026-03-28 |
+| OpenClaw 创始人推荐的插件，让我的 AI 永不遗忘 | clippings \| OpenClaw \| 记忆 | [打开原文](https://mp.weixin.qq.com/s/QplwjstIqX_tH_dZwVVz_Q?scene=1) | 2026-03-28 |
+| Obsidian才是AI时代最强笔记软件 | clippings | [打开原文](https://mp.weixin.qq.com/s/-KGoBs19BaEtR_N8YhB9xw?scene=1) | 2026-03-28 |
+| Obsidian+opencode+draw.io：让架构图绘制融入笔记工作流！ | clippings \| Obsidian \| OpenCode | [打开原文](https://mp.weixin.qq.com/s/8q187UgOVOqRz2m9WKwcpg?scene=1) | 2026-03-28 |
+| Obsidian 技能包发布，三大 AI 助手都能直接调用 | clippings | [打开原文](https://mp.weixin.qq.com/s/ZWHZgYamXybYw_56PkF3FA?scene=1) | 2026-03-28 |
+| Obsidian + OpenClaw：构建个人AI知识管理体系 | clippings | [打开原文](https://mp.weixin.qq.com/s/wAeHBRmm-B5uUz-3Aca77Q?scene=1) | 2026-03-28 |
+| HashiCorp 创始人谈Harness Engineering与AI工作流，AI 将重构软件工程和开源社区 | clippings \| Harness \| AI认知 | [打开原文](https://mp.weixin.qq.com/s/V0C2dl8pW95owzjVqLqHTg?scene=1) | 2026-03-28 |
+| Harness is the New Dataset：模型智能提升的下一个关键方向 | clippings | [打开原文](https://mp.weixin.qq.com/s/9qI83Ne-Ac_R9y-yJ6SVnQ?scene=1) | 2026-03-28 |
+| Harness Engineering：当软件工程开始变成一套控制系统设计 | clippings | [打开原文](https://mp.weixin.qq.com/s/ERsvNJZhM2-8bBDjQcah3A?scene=1) | 2026-03-28 |
+| Harness Engineering 驾驭工程：构建可控、可靠 AI Agent 的工程新范式 | clippings | [打开原文](https://mp.weixin.qq.com/s/94ptqpHcw5KD8wGl-DPsKA?scene=1) | 2026-03-28 |
+| Harness Engineering 在硅谷彻底火了。 | clippings | [打开原文](https://mp.weixin.qq.com/s/S2x7pJ2RqLk9tQdqxpzQNQ?scene=1) | 2026-03-28 |
+| Harness Engineer 工程开发范式完全指南 | clippings | [打开原文](https://mp.weixin.qq.com/s/Pl2Td9l5llyas-FRmhCB3w?scene=1) | 2026-03-28 |
+| Github 开源  让 OpenClaw 实时追踪全网热点 | clippings | [打开原文](https://mp.weixin.qq.com/s/HDVD3gljvqngx-8cX6DgZg?scene=1) | 2026-03-28 |
+| Filebase is all you need：AI时代为什么我把用了5年的Notion换成了Obsidian | clippings | [打开原文](https://mp.weixin.qq.com/s/e7uO6ExnWGnSJc33_Kditw?scene=1) | 2026-03-28 |
+| Dataview——让我从“笔记黑洞”里逃出来的 Obsidian 神器 | clippings | [打开原文](https://mp.weixin.qq.com/s/7r0nqMj7lz6_zhsI2nMX2w?scene=1) | 2026-03-28 |
+| Coding Agents 重塑工程、产品、设计的关系 | clippings \| AI-认知 \| Harness | [打开原文](https://mp.weixin.qq.com/s/pCaYys6jB5i1Du1DRHwlCg?scene=1) | 2026-03-28 |
+| Claude Code/Codex/OpenCode 成本神器诞生，Token 节省 80%！ | clippings \| AI-code \| 省token \| GitHub | [打开原文](https://mp.weixin.qq.com/s/6vBttY6McdsRI_7hBpqS4g?scene=1) | 2026-03-28 |
+| Claude Code 团队落地指南：一套可复制的 配置方案 | clippings \| AI-code \| Agent架构 | [打开原文](https://mp.weixin.qq.com/s/QyQMx46Zjb_ZitnnYdHjzQ?scene=1) | 2026-03-28 |
+| Claude Code 十个最值得装的 Skills：不是越多越能打，是这 10 个最能打！！ | clippings \| skill | [打开原文](https://mp.weixin.qq.com/s/9OOV_phsQacXQjeUF1jVug?scene=1) | 2026-03-28 |
+| Anthropic Labs 负责人：AI 时代做产品，最大的陷阱是「做太多」 | clippings | [打开原文](https://mp.weixin.qq.com/s/JWv_XjD6MU1di0zuS5tcxA?scene=1) | 2026-03-28 |
+| AiPy：国产开源AI智能体，让Python成为你的"超级牛 | clippings | [打开原文](https://mp.weixin.qq.com/s/Fs3EsRkp3Vs1oWci9Tce0Q?scene=1) | 2026-03-28 |
+| Agent Skill 开发指南（包含测试） | clippings \| skill \| AI-code | [打开原文](https://mp.weixin.qq.com/s/ZhWt8183_sf6ACyg9xjQrQ?scene=1) | 2026-03-28 |
+| AI fatigue is real and nobody talks about it · Siddhant Khare | clippings \| AI-认知 | [打开原文](https://siddhantkhare.com/writing/ai-fatigue-is-real) | 2026-03-28 |
+| AI Chat Exporter - 把AI chat对话导入Obsidian | clippings | [打开原文](https://mp.weixin.qq.com/s/tIFPVPa6UUny9EmkhIvVNw?scene=1) | 2026-03-28 |
+| 9 年换了 5 款笔记软件，最终 Obsidian 让我停下了折腾！ | clippings | [打开原文](https://mp.weixin.qq.com/s/3CM1mxWI62-N4hOHSNJ_cQ?scene=1) | 2026-03-28 |
+| 5 次卸载 Obsidian，我终于找到了入门方法 | clippings | [打开原文](https://mp.weixin.qq.com/s/GY6LOWVlNso4oIh6nELYsA?scene=1) | 2026-03-28 |
+| 5 个 Obsidian 命名方法，告别杂乱笔记，提高效率 200%！ | clippings | [打开原文](https://mp.weixin.qq.com/s/-ToFLa-xZo15dcdJGNcAsg?scene=1) | 2026-03-28 |
+| 一文讲透 OpenClaw 里到底该用 Multi-Agent，还是主 Agent + Sub-Agent | clippings \| OpenClaw \| Agent | [打开原文](https://mp.weixin.qq.com/s/SRIp8NUqZBN-ddYYLnos6Q?scene=1) | 2026-03-27 |
+| OpenClaw本地知识库搭建：让AI读你的文件，高效办公必备 | clippings \| 知识库 \| OpenClaw | [打开原文](https://mp.weixin.qq.com/s/REGizRwPIh6bqxexoiy-IA?scene=1) | 2026-03-27 |
+| 6个skill实现一个产品经理的“开挂”一天：从被需求追着跑，到追着需求跑 | clippings \| Skill \| 产品经理 \| 产品 | [打开原文](https://mp.weixin.qq.com/s/k22Y1LVStFJigZCEhPFz3Q?scene=1) | 2026-03-27 |

@@ -112,8 +112,33 @@ def record_from_file(path: Path) -> CatalogRecord | None:
     )
 
 
+def escape_markdown_cell(value: str) -> str:
+    """转义 Markdown 表格单元格中的分隔符，保持一条记录只占一行。"""
+    return value.replace("\\", "\\\\").replace("|", "\\|").replace("\n", " ")
+
+
+def write_markdown_catalog(records: list[CatalogRecord], output_path: Path) -> None:
+    """将公开元数据写成可直接点击原文的 Markdown 表格。"""
+    lines = [
+        "# 公开文章目录",
+        "",
+        "> 仅包含标题、个人标签、原文链接和收藏时间；不包含正文、摘要或图片。",
+        "",
+        "| 标题 | 标签 | 原文链接 | 收藏时间 |",
+        "| --- | --- | --- | --- |",
+    ]
+    for record in records:
+        title = escape_markdown_cell(record.title)
+        tags = escape_markdown_cell(record.tags)
+        created = escape_markdown_cell(record.created)
+        lines.append(
+            f"| {title} | {tags} | [打开原文]({record.source}) | {created} |"
+        )
+    output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 def export_catalog(source_dir: Path, output_path: Path) -> int:
-    """导出标题、标签、原文链接和创建时间到 UTF-8 CSV。
+    """导出标题、标签、原文链接和创建时间到 CSV 与 Markdown 表格。
 
     Args:
         source_dir: 本地剪藏 Markdown 根目录。
@@ -138,6 +163,7 @@ def export_catalog(source_dir: Path, output_path: Path) -> int:
         )
         writer.writeheader()
         writer.writerows(record.__dict__ for record in records)
+    write_markdown_catalog(records, output_path.with_suffix(".md"))
     logger.info("公开目录已生成: records=%d output=%s", len(records), output_path)
     return len(records)
 
