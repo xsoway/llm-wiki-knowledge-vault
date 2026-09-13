@@ -4,10 +4,16 @@
 !README.md
 !LICENSE
 !NOTICE.md
+!catalog/
+!catalog/**
 !docs/
 !docs/**
 !scripts/
 !scripts/**
+!tests/
+!tests/**
+!tools/
+!tools/**
 !71-04-scripts/
 !71-04-scripts/wiki-archive.py
 !71-04-scripts/wiki-compile.py
@@ -28,3 +34,5 @@
 71-04-scripts/wiki-lint-semantic.py
 ai-wiki-compiler-main/
 .DS_Store
+__pycache__/
+*.pyc

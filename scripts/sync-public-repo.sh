@@ -9,6 +9,7 @@ mkdir -p "$LOG_DIR"
 exec >>"$LOG_FILE" 2>&1
 
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] 开始同步公开仓库"
+/opt/homebrew/bin/python3.13 "$REPO_ROOT/tools/export_public_catalog.py"
 git -C "$REPO_ROOT" add -A
 
 if git -C "$REPO_ROOT" diff --cached --quiet; then
