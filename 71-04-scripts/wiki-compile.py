@@ -51,10 +51,15 @@ def setup_logging() -> None:
 # ── 路径常量 ──────────────────────────────────────────────────────────────────
 
 WIKI_ROOT = Path(__file__).resolve().parents[1]
+VAULT_ROOT = WIKI_ROOT.parent
 
-# 开源仓库默认只读取自身的公开原料。完整 Vault 的其他资料目录需要
-# 通过 --raw-dirs 显式传入，避免误把本地私有笔记或未授权剪藏带入产物。
-DEFAULT_RAW_DIRS: list[Path] = [WIKI_ROOT / "71-01-raw"]
+# 独立克隆时只有仓库内 raw；放入约定的 Vault 目录时自动恢复三路源。
+# 发布边界由 Git 白名单控制，编译范围不等同于公开范围。
+DEFAULT_RAW_DIRS: list[Path] = [
+    path
+    for path in (VAULT_ROOT / "01-Articles", VAULT_ROOT / "02-Notes", WIKI_ROOT / "71-01-raw")
+    if path.exists()
+]
 
 DEFAULT_WIKI_DIR = WIKI_ROOT / "71-02-wiki"
 DEFAULT_OUTPUT_DIR = WIKI_ROOT / "71-03-output"

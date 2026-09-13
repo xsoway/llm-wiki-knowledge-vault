@@ -73,7 +73,7 @@ python3 71-04-scripts/wiki-search.py "Agent"
 python3 71-04-scripts/wiki-lint.py
 ```
 
-默认只读取仓库内的 `71-01-raw/`。如果你有自己的 Obsidian/Vault 内容，显式指定来源目录：
+独立克隆时默认读取仓库内的 `71-01-raw/`；如果项目位于标准 Vault 结构内，会自动识别同级的 `01-Articles/` 与 `02-Notes/`。也可以显式指定来源目录：
 
 ```bash
 python3 71-04-scripts/wiki-compile.py --full \
