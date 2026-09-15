@@ -4,6 +4,18 @@
 
 | 标题 | 标签 | 原文链接 | 收藏时间 |
 | --- | --- | --- | --- |
+| 正式开源！比橙皮书skill更强10倍的Huashu-Report来了！ | clippings \| github \| html \| report | [打开原文](https://mp.weixin.qq.com/s/Ti_guLg5GAI-XtQlEsNNig) | 2026-09-15 |
+| 开源 Miles：基于 SGLang 与 Megatron-LM 的大规模强化学习框架 | clippings \| llm | [打开原文](https://mp.weixin.qq.com/s/BaSBYHvcDfBOdhrk5QSV3w) | 2026-09-15 |
+| GraphGen：高效生成海量垂域大模型训练数据 | clippings \| agent-AI \| eval \| data-eval | [打开原文](https://mp.weixin.qq.com/s/r9Om1bR98s-j_tiWyp032g) | 2026-09-15 |
+| DataGen——合成数据生成器：把一句任务描述变成可校验的训练数据 | clippings \| agent-AI \| eval \| data-eval | [打开原文](https://mp.weixin.qq.com/s/b7vyR7gvwhbdHNzSf10dhA) | 2026-09-15 |
+| Autodata：借鉴 Karpathy Autoresearch 思想，用 Agent 自动生成“黄金标准”训练与评测数据 | clippings \| agent-AI \| eval \| data-eval | [打开原文](https://mp.weixin.qq.com/s/-c2XVvSvDIBMH6OjV7SEtw) | 2026-09-15 |
+| Augmentoolkit：用于生成多轮对话训练数据的开源工具包 | clippings \| agent-AI \| eval \| data-eval \| github | [打开原文](https://mp.weixin.qq.com/s/TaIWoozZ--Wfr7titrM5GQ) | 2026-09-15 |
+| AI系统构建与评测优化平台！开源，完全免费，知识库搭建与 AI 智能体开发，本地离线可用还支持团队协同迭代 | clippings \| agent-AI \| eval \| data-eval \| github | [打开原文](https://mp.weixin.qq.com/s/RBmNAO7iewkOnq-twzg6Yg) | 2026-09-15 |
+| 你给Agent接了整个知识库，它为什么还是不会做决策？ | clippings \| agent-AI \| eval | [打开原文](https://mp.weixin.qq.com/s/Du88EaRLu2JCLRu0TwsXsg) | 2026-09-14 |
+| datawhalechina/deepagents-in-action: 📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南 | clippings \| deepagents | [打开原文](https://github.com/datawhalechina/deepagents-in-action/) | 2026-09-14 |
+| Agent评测最容易骗人的地方：到底是谁在判断“它做对了”？ | clippings \| agent-AI \| eval | [打开原文](https://mp.weixin.qq.com/s/tWQiYlktnXy4D0j7Ay5LCw) | 2026-09-14 |
+| AI 写代码越快，企业越需要自己的 Harness | clippings \| agent-AI \| eval | [打开原文](https://mp.weixin.qq.com/s/01weFVqGwP_1ybqax1NeQA) | 2026-09-14 |
+| 超详细的 GitHub 个人主页美化教程 | clippings \| github主题 | [打开原文](https://zhuanlan.zhihu.com/p/741677397) | 2026-09-13 |
 | 超实用【口语化】词语对照表 | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/hokHA3QupbKRRIz_pOFfPg) | 2026-09-11 |
 | 网络黑话（梗）应用翻译手册｜一表通览，全网最全最实用 | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/dNBGLUH2iOQ5BogV8eP5Qw) | 2026-09-11 |
 | 日常普通话口语100句（1） | clippings \| 语料库 | [打开原文](https://mp.weixin.qq.com/s/Fvf9A03Cm4sXwDQ2ZvdlKg) | 2026-09-11 |
