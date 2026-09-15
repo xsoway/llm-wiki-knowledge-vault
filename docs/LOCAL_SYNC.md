@@ -19,7 +19,17 @@ launchctl bootstrap "gui/$(id -u)" \
   ~/Library/LaunchAgents/com.xsoway.llm-wiki-knowledge-vault.sync.plist
 ```
 
-默认每天 20:00 执行一次。日志写入 `71-03-output/`，不会提交。
+默认每天 09:15 执行一次。日志写入 `71-03-output/`，不会提交。
+
+已安装任务更新后，重载以使新时间生效：
+
+```bash
+launchctl bootout "gui/$(id -u)/com.xsoway.llm-wiki-knowledge-vault.sync"
+cp scripts/com.xsoway.llm-wiki-knowledge-vault.sync.plist \
+  ~/Library/LaunchAgents/com.xsoway.llm-wiki-knowledge-vault.sync.plist
+launchctl bootstrap "gui/$(id -u)" \
+  ~/Library/LaunchAgents/com.xsoway.llm-wiki-knowledge-vault.sync.plist
+```
 
 卸载任务：
 
